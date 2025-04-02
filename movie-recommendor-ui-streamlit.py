@@ -7,7 +7,7 @@ st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wid
 # Load movie dataset (with caching to improve performance)
 @st.cache_data
 def load_movie_data():
-    movies_df = pd.read_csv("movies_with_clusters.csv")
+    movies_df = pd.read_csv("movies_with_clusters-gmm.csv")
     movies_df['title_lower'] = movies_df['title_y'].str.lower()
     return movies_df
 
@@ -24,11 +24,11 @@ def recommend_movies(movies_df, movie_title):
         return None
 
     # Get the cluster of the given movie
-    movie_cluster = movie_row['KMeans_cluster_id'].values[0]
+    movie_cluster = movie_row['cluster_id'].values[0]
 
     # Find movies in the same cluster (excluding the input movie)
     similar_movies = movies_df[
-        (movies_df["KMeans_cluster_id"] == movie_cluster) & 
+        (movies_df["cluster_id"] == movie_cluster) & 
         (movies_df['title_lower'] != movie_title)
     ]
 

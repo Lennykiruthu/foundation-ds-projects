@@ -1,4800 +1,4800 @@
-title_y,KMeans_cluster_id
-Avatar,6
-Pirates of the Caribbean: At World's End,6
-Spectre,6
-The Dark Knight Rises,6
-John Carter,6
-Spider-Man 3,6
-Tangled,6
-Avengers: Age of Ultron,6
-Harry Potter and the Half-Blood Prince,6
-Batman v Superman: Dawn of Justice,6
-Superman Returns,6
-Quantum of Solace,6
-Pirates of the Caribbean: Dead Man's Chest,6
-The Lone Ranger,1
-Man of Steel,6
-The Chronicles of Narnia: Prince Caspian,6
-The Avengers,6
-Pirates of the Caribbean: On Stranger Tides,6
-Men in Black 3,6
-The Hobbit: The Battle of the Five Armies,6
-The Amazing Spider-Man,6
-Robin Hood,1
-The Hobbit: The Desolation of Smaug,6
-The Golden Compass,1
-King Kong,6
-Titanic,6
-Captain America: Civil War,6
-Battleship,1
-Jurassic World,6
-Skyfall,6
-Spider-Man 2,6
-Iron Man 3,6
-Alice in Wonderland,6
-X-Men: The Last Stand,1
-Monsters University,6
-Transformers: Revenge of the Fallen,6
-Transformers: Age of Extinction,6
-Oz: The Great and Powerful,6
-The Amazing Spider-Man 2,6
-TRON: Legacy,1
-Cars 2,6
-Green Lantern,1
-Toy Story 3,6
-Terminator Salvation,1
-Furious 7,6
-World War Z,1
-X-Men: Days of Future Past,6
-Star Trek Into Darkness,6
-Jack the Giant Slayer,1
-The Great Gatsby,1
-Prince of Persia: The Sands of Time,1
-Pacific Rim,1
-Transformers: Dark of the Moon,6
-Indiana Jones and the Kingdom of the Crystal Skull,6
-The Good Dinosaur,1
-Brave,1
-Star Trek Beyond,1
-WALL·E,1
-Rush Hour 3,1
-2012,6
-A Christmas Carol,1
-Jupiter Ascending,1
-The Legend of Tarzan,1
-"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6
-X-Men: Apocalypse,6
-The Dark Knight,6
-Up,6
-Monsters vs Aliens,1
-Iron Man,1
-Hugo,1
-Wild Wild West,1
-The Mummy: Tomb of the Dragon Emperor,1
-Suicide Squad,6
-Evan Almighty,1
-Edge of Tomorrow,1
-Waterworld,1
-G.I. Joe: The Rise of Cobra,1
-Inside Out,6
-The Jungle Book,6
-Iron Man 2,6
-Snow White and the Huntsman,1
-Maleficent,6
-Dawn of the Planet of the Apes,6
+title_y,cluster_id
+Avatar,2
+Pirates of the Caribbean: At World's End,2
+Spectre,2
+The Dark Knight Rises,2
+John Carter,2
+Spider-Man 3,2
+Tangled,2
+Avengers: Age of Ultron,2
+Harry Potter and the Half-Blood Prince,2
+Batman v Superman: Dawn of Justice,2
+Superman Returns,2
+Quantum of Solace,2
+Pirates of the Caribbean: Dead Man's Chest,2
+The Lone Ranger,2
+Man of Steel,2
+The Chronicles of Narnia: Prince Caspian,2
+The Avengers,2
+Pirates of the Caribbean: On Stranger Tides,2
+Men in Black 3,2
+The Hobbit: The Battle of the Five Armies,2
+The Amazing Spider-Man,2
+Robin Hood,2
+The Hobbit: The Desolation of Smaug,2
+The Golden Compass,2
+King Kong,2
+Titanic,2
+Captain America: Civil War,2
+Battleship,2
+Jurassic World,2
+Skyfall,2
+Spider-Man 2,2
+Iron Man 3,2
+Alice in Wonderland,2
+X-Men: The Last Stand,2
+Monsters University,2
+Transformers: Revenge of the Fallen,2
+Transformers: Age of Extinction,2
+Oz: The Great and Powerful,2
+The Amazing Spider-Man 2,2
+TRON: Legacy,2
+Cars 2,2
+Green Lantern,2
+Toy Story 3,2
+Terminator Salvation,2
+Furious 7,2
+World War Z,2
+X-Men: Days of Future Past,2
+Star Trek Into Darkness,2
+Jack the Giant Slayer,2
+The Great Gatsby,2
+Prince of Persia: The Sands of Time,2
+Pacific Rim,2
+Transformers: Dark of the Moon,2
+Indiana Jones and the Kingdom of the Crystal Skull,2
+The Good Dinosaur,2
+Brave,2
+Star Trek Beyond,2
+WALL·E,2
+Rush Hour 3,2
+2012,2
+A Christmas Carol,2
+Jupiter Ascending,2
+The Legend of Tarzan,2
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2
+X-Men: Apocalypse,2
+The Dark Knight,2
+Up,2
+Monsters vs Aliens,2
+Iron Man,2
+Hugo,2
+Wild Wild West,2
+The Mummy: Tomb of the Dragon Emperor,2
+Suicide Squad,2
+Evan Almighty,2
+Edge of Tomorrow,2
+Waterworld,2
+G.I. Joe: The Rise of Cobra,2
+Inside Out,2
+The Jungle Book,2
+Iron Man 2,2
+Snow White and the Huntsman,2
+Maleficent,2
+Dawn of the Planet of the Apes,2
 The Lovers,3
-47 Ronin,1
-Captain America: The Winter Soldier,6
-Shrek Forever After,6
-Tomorrowland,1
-Big Hero 6,6
-Wreck-It Ralph,1
-The Polar Express,1
-Independence Day: Resurgence,1
-How to Train Your Dragon,1
-Terminator 3: Rise of the Machines,1
-Guardians of the Galaxy,6
-Interstellar,6
-Inception,6
+47 Ronin,2
+Captain America: The Winter Soldier,2
+Shrek Forever After,2
+Tomorrowland,2
+Big Hero 6,2
+Wreck-It Ralph,2
+The Polar Express,2
+Independence Day: Resurgence,2
+How to Train Your Dragon,2
+Terminator 3: Rise of the Machines,2
+Guardians of the Galaxy,2
+Interstellar,2
+Inception,2
 Shin Godzilla,3
-The Hobbit: An Unexpected Journey,6
-The Fast and the Furious,4
-The Curious Case of Benjamin Button,1
-X-Men: First Class,1
-The Hunger Games: Mockingjay - Part 2,6
-The Sorcerer's Apprentice,1
-Poseidon,1
-Alice Through the Looking Glass,1
-Shrek the Third,6
-Warcraft,1
-Terminator Genisys,1
-The Chronicles of Narnia: The Voyage of the Dawn Treader,1
-Pearl Harbor,1
-Transformers,6
-Alexander,5
-Harry Potter and the Order of the Phoenix,6
-Harry Potter and the Goblet of Fire,6
-Hancock,1
-I Am Legend,1
-Charlie and the Chocolate Factory,1
-Ratatouille,1
-Batman Begins,1
-Madagascar: Escape 2 Africa,1
-Night at the Museum: Battle of the Smithsonian,1
-X-Men Origins: Wolverine,1
-The Matrix Revolutions,1
-Frozen,6
-The Matrix Reloaded,6
-Thor: The Dark World,6
-Mad Max: Fury Road,1
-Angels & Demons,1
-Thor,1
-Bolt,1
-G-Force,1
-Wrath of the Titans,1
-Dark Shadows,1
-Mission: Impossible - Rogue Nation,6
-The Wolfman,4
-Bee Movie,1
-Kung Fu Panda 2,1
-The Last Airbender,1
-Mission: Impossible III,1
-White House Down,1
-Mars Needs Moms,1
-Flushed Away,1
-Pan,1
-Mr. Peabody & Sherman,1
-Troy,6
-Madagascar 3: Europe's Most Wanted,1
-Die Another Day,1
-Ghostbusters,1
-Armageddon,1
-Men in Black II,1
-Beowulf,4
-Kung Fu Panda 3,1
-Mission: Impossible - Ghost Protocol,6
-Rise of the Guardians,1
-Fun with Dick and Jane,4
-The Last Samurai,1
-Exodus: Gods and Kings,1
-Star Trek,1
-Spider-Man,6
-How to Train Your Dragon 2,1
-Gods of Egypt,1
-Stealth,4
-Watchmen,1
-Lethal Weapon 4,1
-Hulk,1
-G.I. Joe: Retaliation,1
-Sahara,1
-Final Fantasy: The Spirits Within,1
-Captain America: The First Avenger,1
-The World Is Not Enough,1
-Master and Commander: The Far Side of the World,1
-The Twilight Saga: Breaking Dawn - Part 2,6
-Happy Feet Two,1
-The Incredible Hulk,1
-The BFG,1
-The Revenant,1
-Turbo,1
-Rango,1
-Penguins of Madagascar,1
-The Bourne Ultimatum,1
-Kung Fu Panda,1
-Ant-Man,1
-The Hunger Games: Catching Fire,6
-Home,1
-War of the Worlds,1
-Bad Boys II,1
-Puss in Boots,1
-Salt,1
-Noah,1
-The Adventures of Tintin,1
-Harry Potter and the Prisoner of Azkaban,6
-Australia,5
-After Earth,1
-Dinosaur,1
-Night at the Museum: Secret of the Tomb,1
-Megamind,1
-Harry Potter and the Philosopher's Stone,6
-R.I.P.D.,4
-Pirates of the Caribbean: The Curse of the Black Pearl,6
-The Hunger Games: Mockingjay - Part 1,1
-The Da Vinci Code,6
-Rio 2,1
-X2,1
-Fast Five,1
-Sherlock Holmes: A Game of Shadows,1
-Clash of the Titans,1
-Total Recall,4
-The 13th Warrior,1
-The Bourne Legacy,1
-Batman & Robin,1
-How the Grinch Stole Christmas,1
-The Day After Tomorrow,1
-Mission: Impossible II,1
-The Perfect Storm,1
-Fantastic 4: Rise of the Silver Surfer,1
-Life of Pi,1
-Ghost Rider,1
-Jason Bourne,1
-Charlie's Angels: Full Throttle,1
-Prometheus,1
-Stuart Little 2,1
-Elysium,1
-The Chronicles of Riddick,4
-RoboCop,1
-Speed Racer,1
-How Do You Know,4
-Knight and Day,1
-Oblivion,1
-Star Wars: Episode III - Revenge of the Sith,6
-Star Wars: Episode II - Attack of the Clones,1
-"Monsters, Inc.",1
-The Wolverine,1
-Star Wars: Episode I - The Phantom Menace,6
-The Croods,1
-Asterix at the Olympic Games,4
-Windtalkers,4
-The Huntsman: Winter's War,1
-Teenage Mutant Ninja Turtles,1
-Gravity,1
-Dante's Peak,4
-Teenage Mutant Ninja Turtles: Out of the Shadows,1
-Fantastic Four,1
-Night at the Museum,1
-San Andreas,1
-Tomorrow Never Dies,1
-The Patriot,5
-Ocean's Twelve,1
-Mr. & Mrs. Smith,1
-Insurgent,1
-The Aviator,5
-Gulliver's Travels,1
-The Green Hornet,1
-300: Rise of an Empire,1
-The Smurfs,1
-Home on the Range,4
-Allegiant,1
-Real Steel,1
-The Smurfs 2,1
-Speed 2: Cruise Control,1
-Ender's Game,4
-Live Free or Die Hard,1
-The Lord of the Rings: The Fellowship of the Ring,6
-Around the World in 80 Days,4
-Ali,5
-The Cat in the Hat,0
-"I, Robot",1
-Kingdom of Heaven,1
-Stuart Little,1
-The Princess and the Frog,1
-The Martian,1
-The Island,1
-Town & Country,4
-Gone in Sixty Seconds,4
-Gladiator,1
-Minority Report,1
-Harry Potter and the Chamber of Secrets,6
-Casino Royale,1
-Planet of the Apes,1
-Terminator 2: Judgment Day,1
-Public Enemies,5
-American Gangster,5
-True Lies,1
-The Taking of Pelham 1 2 3,4
-Little Fockers,1
-The Other Guys,4
-Eraser,4
-Django Unchained,1
-The Hunchback of Notre Dame,4
-The Emperor's New Groove,4
-The Expendables 2,1
-National Treasure,1
-Eragon,1
-Where the Wild Things Are,4
-Epic,1
-The Tourist,1
-End of Days,4
-Blood Diamond,5
-The Wolf of Wall Street,5
-Batman Forever,1
-Starship Troopers,4
-Cloud Atlas,5
-Legend of the Guardians: The Owls of Ga'Hoole,4
-Catwoman,4
-Hercules,1
-Treasure Planet,1
-Land of the Lost,4
-The Expendables 3,4
-Point Break,4
-Son of the Mask,4
-In the Heart of the Sea,4
-The Adventures of Pluto Nash,4
-Green Zone,4
-The Peanuts Movie,1
-The Spanish Prisoner,3
-The Mummy Returns,1
-Gangs of New York,5
-The Flowers of War,5
-Surf's Up,4
-The Stepford Wives,4
-Black Hawk Down,5
+The Hobbit: An Unexpected Journey,2
+The Fast and the Furious,3
+The Curious Case of Benjamin Button,2
+X-Men: First Class,2
+The Hunger Games: Mockingjay - Part 2,2
+The Sorcerer's Apprentice,2
+Poseidon,2
+Alice Through the Looking Glass,2
+Shrek the Third,2
+Warcraft,2
+Terminator Genisys,2
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2
+Pearl Harbor,2
+Transformers,2
+Alexander,2
+Harry Potter and the Order of the Phoenix,2
+Harry Potter and the Goblet of Fire,2
+Hancock,2
+I Am Legend,2
+Charlie and the Chocolate Factory,2
+Ratatouille,2
+Batman Begins,2
+Madagascar: Escape 2 Africa,2
+Night at the Museum: Battle of the Smithsonian,2
+X-Men Origins: Wolverine,2
+The Matrix Revolutions,2
+Frozen,2
+The Matrix Reloaded,2
+Thor: The Dark World,2
+Mad Max: Fury Road,2
+Angels & Demons,2
+Thor,2
+Bolt,2
+G-Force,2
+Wrath of the Titans,2
+Dark Shadows,2
+Mission: Impossible - Rogue Nation,2
+The Wolfman,3
+Bee Movie,2
+Kung Fu Panda 2,2
+The Last Airbender,2
+Mission: Impossible III,2
+White House Down,2
+Mars Needs Moms,2
+Flushed Away,2
+Pan,2
+Mr. Peabody & Sherman,2
+Troy,2
+Madagascar 3: Europe's Most Wanted,2
+Die Another Day,2
+Ghostbusters,2
+Armageddon,2
+Men in Black II,2
+Beowulf,3
+Kung Fu Panda 3,2
+Mission: Impossible - Ghost Protocol,2
+Rise of the Guardians,2
+Fun with Dick and Jane,3
+The Last Samurai,2
+Exodus: Gods and Kings,2
+Star Trek,2
+Spider-Man,2
+How to Train Your Dragon 2,2
+Gods of Egypt,2
+Stealth,3
+Watchmen,2
+Lethal Weapon 4,2
+Hulk,2
+G.I. Joe: Retaliation,2
+Sahara,3
+Final Fantasy: The Spirits Within,3
+Captain America: The First Avenger,2
+The World Is Not Enough,2
+Master and Commander: The Far Side of the World,2
+The Twilight Saga: Breaking Dawn - Part 2,2
+Happy Feet Two,2
+The Incredible Hulk,2
+The BFG,2
+The Revenant,2
+Turbo,2
+Rango,2
+Penguins of Madagascar,2
+The Bourne Ultimatum,2
+Kung Fu Panda,2
+Ant-Man,2
+The Hunger Games: Catching Fire,2
+Home,2
+War of the Worlds,2
+Bad Boys II,2
+Puss in Boots,2
+Salt,2
+Noah,2
+The Adventures of Tintin,2
+Harry Potter and the Prisoner of Azkaban,2
+Australia,3
+After Earth,2
+Dinosaur,2
+Night at the Museum: Secret of the Tomb,2
+Megamind,2
+Harry Potter and the Philosopher's Stone,2
+R.I.P.D.,3
+Pirates of the Caribbean: The Curse of the Black Pearl,2
+The Hunger Games: Mockingjay - Part 1,2
+The Da Vinci Code,2
+Rio 2,2
+X2,2
+Fast Five,2
+Sherlock Holmes: A Game of Shadows,2
+Clash of the Titans,2
+Total Recall,2
+The 13th Warrior,2
+The Bourne Legacy,2
+Batman & Robin,2
+How the Grinch Stole Christmas,2
+The Day After Tomorrow,2
+Mission: Impossible II,2
+The Perfect Storm,2
+Fantastic 4: Rise of the Silver Surfer,2
+Life of Pi,2
+Ghost Rider,2
+Jason Bourne,2
+Charlie's Angels: Full Throttle,2
+Prometheus,2
+Stuart Little 2,2
+Elysium,2
+The Chronicles of Riddick,3
+RoboCop,2
+Speed Racer,3
+How Do You Know,3
+Knight and Day,2
+Oblivion,2
+Star Wars: Episode III - Revenge of the Sith,2
+Star Wars: Episode II - Attack of the Clones,2
+"Monsters, Inc.",2
+The Wolverine,2
+Star Wars: Episode I - The Phantom Menace,2
+The Croods,2
+Asterix at the Olympic Games,3
+Windtalkers,3
+The Huntsman: Winter's War,2
+Teenage Mutant Ninja Turtles,2
+Gravity,2
+Dante's Peak,3
+Teenage Mutant Ninja Turtles: Out of the Shadows,2
+Fantastic Four,2
+Night at the Museum,2
+San Andreas,2
+Tomorrow Never Dies,2
+The Patriot,2
+Ocean's Twelve,2
+Mr. & Mrs. Smith,2
+Insurgent,2
+The Aviator,3
+Gulliver's Travels,2
+The Green Hornet,2
+300: Rise of an Empire,2
+The Smurfs,2
+Home on the Range,2
+Allegiant,2
+Real Steel,2
+The Smurfs 2,2
+Speed 2: Cruise Control,2
+Ender's Game,2
+Live Free or Die Hard,2
+The Lord of the Rings: The Fellowship of the Ring,2
+Around the World in 80 Days,3
+Ali,3
+The Cat in the Hat,1
+"I, Robot",2
+Kingdom of Heaven,2
+Stuart Little,2
+The Princess and the Frog,2
+The Martian,2
+The Island,2
+Town & Country,0
+Gone in Sixty Seconds,3
+Gladiator,2
+Minority Report,2
+Harry Potter and the Chamber of Secrets,2
+Casino Royale,2
+Planet of the Apes,2
+Terminator 2: Judgment Day,2
+Public Enemies,3
+American Gangster,3
+True Lies,2
+The Taking of Pelham 1 2 3,3
+Little Fockers,2
+The Other Guys,2
+Eraser,3
+Django Unchained,2
+The Hunchback of Notre Dame,2
+The Emperor's New Groove,2
+The Expendables 2,2
+National Treasure,2
+Eragon,2
+Where the Wild Things Are,2
+Epic,2
+The Tourist,2
+End of Days,3
+Blood Diamond,3
+The Wolf of Wall Street,2
+Batman Forever,2
+Starship Troopers,2
+Cloud Atlas,3
+Legend of the Guardians: The Owls of Ga'Hoole,2
+Catwoman,3
+Hercules,2
+Treasure Planet,2
+Land of the Lost,3
+The Expendables 3,3
+Point Break,3
+Son of the Mask,3
+In the Heart of the Sea,3
+The Adventures of Pluto Nash,0
+Green Zone,3
+The Peanuts Movie,2
+The Spanish Prisoner,1
+The Mummy Returns,2
+Gangs of New York,3
+The Flowers of War,3
+Surf's Up,2
+The Stepford Wives,3
+Black Hawk Down,3
 The Campaign,0
-The Fifth Element,1
-Sex and the City 2,1
-The Road to El Dorado,4
-Ice Age: Continental Drift,1
-Cinderella,1
+The Fifth Element,2
+Sex and the City 2,3
+The Road to El Dorado,2
+Ice Age: Continental Drift,2
+Cinderella,2
 The Lovely Bones,3
-Finding Nemo,1
-The Lord of the Rings: The Return of the King,6
-The Lord of the Rings: The Two Towers,6
-Seventh Son,4
-Lara Croft: Tomb Raider,1
-Transcendence,4
-Jurassic Park III,1
-Rise of the Planet of the Apes,1
-The Spiderwick Chronicles,4
-A Good Day to Die Hard,1
-The Alamo,4
-The Incredibles,1
-Cutthroat Island,4
-Percy Jackson & the Olympians: The Lightning Thief,1
-Men in Black,1
-Toy Story 2,1
-Unstoppable,4
-Rush Hour 2,1
-What Lies Beneath,4
-Cloudy with a Chance of Meatballs,1
-Ice Age: Dawn of the Dinosaurs,1
-The Secret Life of Walter Mitty,4
-Charlie's Angels,4
-The Departed,5
-Mulan,1
-Tropic Thunder,4
-The Girl with the Dragon Tattoo,5
-Die Hard: With a Vengeance,1
-Sherlock Holmes,1
-Ben-Hur,4
-Atlantis: The Lost Empire,1
+Finding Nemo,2
+The Lord of the Rings: The Return of the King,2
+The Lord of the Rings: The Two Towers,2
+Seventh Son,3
+Lara Croft: Tomb Raider,2
+Transcendence,3
+Jurassic Park III,2
+Rise of the Planet of the Apes,2
+The Spiderwick Chronicles,3
+A Good Day to Die Hard,2
+The Alamo,3
+The Incredibles,2
+Cutthroat Island,0
+Percy Jackson & the Olympians: The Lightning Thief,2
+Men in Black,2
+Toy Story 2,2
+Unstoppable,3
+Rush Hour 2,2
+What Lies Beneath,3
+Cloudy with a Chance of Meatballs,2
+Ice Age: Dawn of the Dinosaurs,2
+The Secret Life of Walter Mitty,2
+Charlie's Angels,2
+The Departed,2
+Mulan,2
+Tropic Thunder,2
+The Girl with the Dragon Tattoo,3
+Die Hard: With a Vengeance,2
+Sherlock Holmes,2
+Ben-Hur,0
+Atlantis: The Lost Empire,2
 Alvin and the Chipmunks: The Road Chip,0
-Valkyrie,4
-You Don't Mess with the Zohan,4
-Pixels,1
-A.I. Artificial Intelligence,5
-The Haunted Mansion,4
-Contact,5
-Hollow Man,4
-The Interpreter,4
-Percy Jackson: Sea of Monsters,4
-Lara Croft Tomb Raider: The Cradle of Life,4
-Now You See Me 2,1
-The Saint,4
-Spy Game,4
-Mission to Mars,4
-Rio,1
-Bicentennial Man,4
-Volcano,4
-The Devil's Own,4
-K-19: The Widowmaker,5
-Conan the Barbarian,2
-Cinderella Man,5
-The Nutcracker: The Untold Story,4
-Seabiscuit,5
-Twister,1
-Cast Away,1
-Happy Feet,1
-The Bourne Supremacy,4
-Air Force One,1
-Ocean's Eleven,1
-The Three Musketeers,4
-Hotel Transylvania,1
-Enchanted,1
-Safe House,4
-102 Dalmatians,4
-Tower Heist,4
-The Holiday,4
-Enemy of the State,4
-It's Complicated,4
-Ocean's Thirteen,1
-Open Season,4
-Divergent,1
-Enemy at the Gates,4
-The Rundown,4
-Last Action Hero,4
-Memoirs of a Geisha,5
-The Fast and the Furious: Tokyo Drift,4
-Arthur Christmas,0
-Meet Joe Black,5
-Collateral Damage,4
-All That Jazz,2
-Mirror Mirror,4
-Scott Pilgrim vs. the World,4
-The Core,4
-Nutty Professor II: The Klumps,4
-Scooby-Doo,4
-Dredd,4
-Click,4
-Creepshow,2
-Cats & Dogs 2 : The Revenge of Kitty Galore,4
-Jumper,4
-Hellboy II: The Golden Army,4
-Zodiac,5
-The 6th Day,4
-Bruce Almighty,1
-The Expendables,4
-Mission: Impossible,1
-The Hunger Games,1
-The Hangover Part II,4
-Batman Returns,4
-Over the Hedge,1
-Lilo & Stitch,4
-Charlotte's Web,4
-Deep Impact,4
-RED 2,4
-The Longest Yard,4
-Alvin and the Chipmunks: Chipwrecked,1
-Grown Ups 2,4
-Get Smart,4
-Something's Gotta Give,4
-Shutter Island,4
-Four Christmases,4
-Robots,4
-Face/Off,4
-Bedtime Stories,4
-Road to Perdition,4
-Just Go with It,4
-Con Air,4
-Eagle Eye,4
-Cold Mountain,5
-The Book of Eli,4
-Flubber,4
-The Haunting,4
-Space Jam,4
-The Pink Panther,0
-The Day the Earth Stood Still,4
-Conspiracy Theory,4
-Fury,4
-Six Days Seven Nights,4
-Yogi Bear,4
-Spirit: Stallion of the Cimarron,4
-Zookeeper,4
-Lost in Space,4
-The Manchurian Candidate,4
-Déjà Vu,3
-Hotel Transylvania 2,1
-Fantasia 2000,4
-The Time Machine,4
-Mighty Joe Young,4
-Swordfish,4
-The Legend of Zorro,4
-What Dreams May Come,4
-Little Nicky,4
-The Brothers Grimm,4
-Mars Attacks!,4
-Evolution,0
-The Edge,3
-Surrogates,4
-Thirteen Days,5
-Daylight,4
-Walking With Dinosaurs,4
-Battlefield Earth,4
-Looney Tunes: Back in Action,4
-Nine,4
-Timeline,4
-The Postman,5
-Babe: Pig in the City,4
-The Last Witch Hunter,4
-Red Planet,4
-Arthur and the Invisibles,4
-Oceans,0
-A Sound of Thunder,4
-Pompeii,1
-Top Cat Begins,0
-A Beautiful Mind,5
-The Lion King,1
-Journey 2: The Mysterious Island,1
-Cloudy with a Chance of Meatballs 2,4
-Red Dragon,4
-Hidalgo,4
-Jack and Jill,4
-2 Fast 2 Furious,4
-The Little Prince,4
-The Invasion,4
-The Adventures of Rocky & Bullwinkle,4
-The Secret Life of Pets,1
-The League of Extraordinary Gentlemen,4
-Despicable Me 2,1
-Independence Day,1
-The Lost World: Jurassic Park,4
-Madagascar,1
-Children of Men,4
-X-Men,1
-Wanted,4
-The Rock,1
-Ice Age: The Meltdown,1
-50 First Dates,4
+Valkyrie,3
+You Don't Mess with the Zohan,3
+Pixels,2
+A.I. Artificial Intelligence,2
+The Haunted Mansion,2
+Contact,3
+Hollow Man,3
+The Interpreter,3
+Percy Jackson: Sea of Monsters,2
+Lara Croft Tomb Raider: The Cradle of Life,3
+Now You See Me 2,2
+The Saint,0
+Spy Game,3
+Mission to Mars,3
+Rio,2
+Bicentennial Man,2
+Volcano,3
+The Devil's Own,3
+K-19: The Widowmaker,3
+Conan the Barbarian,4
+Cinderella Man,3
+The Nutcracker: The Untold Story,0
+Seabiscuit,3
+Twister,2
+Cast Away,2
+Happy Feet,2
+The Bourne Supremacy,2
+Air Force One,2
+Ocean's Eleven,2
+The Three Musketeers,3
+Hotel Transylvania,2
+Enchanted,2
+Safe House,3
+102 Dalmatians,2
+Tower Heist,3
+The Holiday,3
+Enemy of the State,3
+It's Complicated,2
+Ocean's Thirteen,2
+Open Season,2
+Divergent,2
+Enemy at the Gates,3
+The Rundown,3
+Last Action Hero,2
+Memoirs of a Geisha,3
+The Fast and the Furious: Tokyo Drift,3
+Arthur Christmas,3
+Meet Joe Black,3
+Collateral Damage,3
+All That Jazz,4
+Mirror Mirror,2
+Scott Pilgrim vs. the World,0
+The Core,3
+Nutty Professor II: The Klumps,0
+Scooby-Doo,3
+Dredd,3
+Click,2
+Creepshow,4
+Cats & Dogs 2 : The Revenge of Kitty Galore,2
+Jumper,2
+Hellboy II: The Golden Army,2
+Zodiac,3
+The 6th Day,3
+Bruce Almighty,2
+The Expendables,2
+Mission: Impossible,2
+The Hunger Games,2
+The Hangover Part II,2
+Batman Returns,2
+Over the Hedge,2
+Lilo & Stitch,2
+Charlotte's Web,3
+Deep Impact,3
+RED 2,3
+The Longest Yard,2
+Alvin and the Chipmunks: Chipwrecked,2
+Grown Ups 2,2
+Get Smart,2
+Something's Gotta Give,2
+Shutter Island,2
+Four Christmases,3
+Robots,2
+Face/Off,2
+Bedtime Stories,2
+Road to Perdition,3
+Just Go with It,3
+Con Air,3
+Eagle Eye,3
+Cold Mountain,3
+The Book of Eli,3
+Flubber,2
+The Haunting,3
+Space Jam,2
+The Pink Panther,3
+The Day the Earth Stood Still,3
+Conspiracy Theory,3
+Fury,2
+Six Days Seven Nights,3
+Yogi Bear,2
+Spirit: Stallion of the Cimarron,2
+Zookeeper,2
+Lost in Space,3
+The Manchurian Candidate,3
+Déjà Vu,1
+Hotel Transylvania 2,2
+Fantasia 2000,0
+The Time Machine,3
+Mighty Joe Young,3
+Swordfish,2
+The Legend of Zorro,3
+What Dreams May Come,0
+Little Nicky,0
+The Brothers Grimm,3
+Mars Attacks!,3
+Evolution,3
+The Edge,4
+Surrogates,3
+Thirteen Days,3
+Daylight,3
+Walking With Dinosaurs,2
+Battlefield Earth,0
+Looney Tunes: Back in Action,3
+Nine,0
+Timeline,3
+The Postman,0
+Babe: Pig in the City,0
+The Last Witch Hunter,3
+Red Planet,3
+Arthur and the Invisibles,3
+Oceans,1
+A Sound of Thunder,3
+Pompeii,3
+Top Cat Begins,1
+A Beautiful Mind,2
+The Lion King,2
+Journey 2: The Mysterious Island,2
+Cloudy with a Chance of Meatballs 2,2
+Red Dragon,2
+Hidalgo,3
+Jack and Jill,2
+2 Fast 2 Furious,3
+The Little Prince,0
+The Invasion,3
+The Adventures of Rocky & Bullwinkle,0
+The Secret Life of Pets,2
+The League of Extraordinary Gentlemen,3
+Despicable Me 2,2
+Independence Day,2
+The Lost World: Jurassic Park,2
+Madagascar,2
+Children of Men,3
+X-Men,2
+Wanted,2
+The Rock,2
+Ice Age: The Meltdown,2
+50 First Dates,3
 Hairspray,3
-Exorcist: The Beginning,4
-Inspector Gadget,4
-Now You See Me,4
-Grown Ups,4
-The Terminal,4
+Exorcist: The Beginning,3
+Inspector Gadget,0
+Now You See Me,2
+Grown Ups,2
+The Terminal,3
 Hotel for Dogs,0
-Vertical Limit,4
-Charlie Wilson's War,4
-Shark Tale,1
-Dreamgirls,4
-Be Cool,4
-Munich,5
-Tears of the Sun,4
-Killers,4
-The Man from U.N.C.L.E.,4
-Spanglish,4
-Monster House,4
-Bandits,4
-First Knight,5
-Anna and the King,5
-Immortals,4
-Hostage,4
-Titan A.E.,4
-Hollywood Homicide,4
-Soldier,4
-Carriers,0
-Monkeybone,4
-Flight of the Phoenix,4
-Unbreakable,4
-Minions,6
-Sucker Punch,4
-Snake Eyes,4
-Sphere,4
-The Angry Birds Movie,1
-Fool's Gold,4
-Funny People,5
-The Kingdom,4
-Talladega Nights: The Ballad of Ricky Bobby,4
-Dr. Dolittle 2,4
-Braveheart,5
-Jarhead,4
-The Simpsons Movie,1
-The Majestic,5
-Driven,4
-Two Brothers,4
-The Village,4
-Doctor Dolittle,4
-Signs,1
-Shrek 2,6
-Cars,1
-Runaway Bride,4
-xXx,4
-The SpongeBob Movie: Sponge Out of Water,1
-Ransom,4
-Inglourious Basterds,5
-Hook,1
-Die Hard 2,4
-S.W.A.T.,4
-Vanilla Sky,5
-Lady in the Water,4
-AVP: Alien vs. Predator,4
-Alvin and the Chipmunks: The Squeakquel,1
-We Were Soldiers,4
-Olympus Has Fallen,4
-Star Trek: Insurrection,4
-Battle: Los Angeles,4
-Big Fish,4
-Wolf,3
-War Horse,5
-The Monuments Men,4
-The Abyss,4
-Wall Street: Money Never Sleeps,4
-Dracula Untold,4
-The Siege,4
-Stardust,4
-Seven Years in Tibet,5
-The Dilemma,4
-Bad Company,4
-Doom,4
-I Spy,4
-Underworld: Awakening,4
+Vertical Limit,3
+Charlie Wilson's War,3
+Shark Tale,2
+Dreamgirls,3
+Be Cool,3
+Munich,3
+Tears of the Sun,3
+Killers,3
+The Man from U.N.C.L.E.,3
+Spanglish,3
+Monster House,3
+Bandits,3
+First Knight,0
+Anna and the King,3
+Immortals,3
+Hostage,3
+Titan A.E.,3
+Hollywood Homicide,3
+Soldier,3
+Carriers,1
+Monkeybone,0
+Flight of the Phoenix,3
+Unbreakable,3
+Minions,2
+Sucker Punch,3
+Snake Eyes,3
+Sphere,3
+The Angry Birds Movie,2
+Fool's Gold,3
+Funny People,0
+The Kingdom,3
+Talladega Nights: The Ballad of Ricky Bobby,0
+Dr. Dolittle 2,3
+Braveheart,2
+Jarhead,0
+The Simpsons Movie,2
+The Majestic,3
+Driven,0
+Two Brothers,3
+The Village,3
+Doctor Dolittle,2
+Signs,2
+Shrek 2,2
+Cars,2
+Runaway Bride,3
+xXx,3
+The SpongeBob Movie: Sponge Out of Water,2
+Ransom,2
+Inglourious Basterds,2
+Hook,2
+Die Hard 2,2
+S.W.A.T.,3
+Vanilla Sky,3
+Lady in the Water,3
+AVP: Alien vs. Predator,3
+Alvin and the Chipmunks: The Squeakquel,2
+We Were Soldiers,3
+Olympus Has Fallen,3
+Star Trek: Insurrection,3
+Battle: Los Angeles,3
+Big Fish,3
+Wolf,4
+War Horse,3
+The Monuments Men,3
+The Abyss,0
+Wall Street: Money Never Sleeps,0
+Dracula Untold,3
+The Siege,3
+Stardust,3
+Seven Years in Tibet,0
+The Dilemma,3
+Bad Company,3
+Doom,3
+I Spy,3
+Underworld: Awakening,3
 Rock of Ages,3
 Hart's War,3
-Killer Elite,4
-Rollerball,0
-Ballistic: Ecks vs. Sever,4
-Hard Rain,4
-Osmosis Jones,4
-Legends of Oz: Dorothy's Return,4
+Killer Elite,3
+Rollerball,3
+Ballistic: Ecks vs. Sever,3
+Hard Rain,3
+Osmosis Jones,3
+Legends of Oz: Dorothy's Return,3
 Blackhat,3
-Sky Captain and the World of Tomorrow,4
-Basic Instinct 2,4
-Escape Plan,4
-The Legend of Hercules,4
-The Sum of All Fears,4
-The Twilight Saga: Eclipse,1
-The Score,4
-Despicable Me,1
-Money Train,4
-Ted 2,4
+Sky Captain and the World of Tomorrow,3
+Basic Instinct 2,3
+Escape Plan,3
+The Legend of Hercules,3
+The Sum of All Fears,3
+The Twilight Saga: Eclipse,2
+The Score,3
+Despicable Me,2
+Money Train,3
+Ted 2,2
 Agora,3
-Mystery Men,4
-Hall Pass,0
-The Insider,5
-The Finest Hours,4
-Body of Lies,4
-Dinner for Schmucks,4
-Abraham Lincoln: Vampire Hunter,4
-Entrapment,4
-The X Files,4
-The Last Legion,4
-Saving Private Ryan,5
-Need for Speed,4
-What Women Want,1
-Ice Age,1
-Dreamcatcher,4
-Lincoln,5
-The Matrix,1
-Apollo 13,5
-The Santa Clause 2,4
-Les Misérables,5
-You've Got Mail,4
-Step Brothers,4
-The Mask of Zorro,1
-Due Date,4
+Mystery Men,0
+Hall Pass,3
+The Insider,3
+The Finest Hours,3
+Body of Lies,3
+Dinner for Schmucks,0
+Abraham Lincoln: Vampire Hunter,3
+Entrapment,3
+The X Files,3
+The Last Legion,0
+Saving Private Ryan,2
+Need for Speed,3
+What Women Want,2
+Ice Age,2
+Dreamcatcher,3
+Lincoln,3
+The Matrix,2
+Apollo 13,2
+The Santa Clause 2,3
+Les Misérables,2
+You've Got Mail,3
+Step Brothers,3
+The Mask of Zorro,2
+Due Date,3
 Unbroken,3
-Space Cowboys,4
-Cliffhanger,4
-Broken Arrow,4
-The Kid,4
-World Trade Center,4
+Space Cowboys,3
+Cliffhanger,3
+Broken Arrow,0
+The Kid,0
+World Trade Center,3
 Mona Lisa Smile,3
-The Dictator,4
-Eyes Wide Shut,5
-Annie,4
-Focus,4
-This Means War,4
-Blade: Trinity,4
-Red Dawn,2
-Primary Colors,5
-Resident Evil: Retribution,4
-Death Race,4
-The Long Kiss Goodnight,4
-Proof of Life,5
-Zathura: A Space Adventure,4
-Fight Club,5
-We Are Marshall,3
-Hudson Hawk,4
-Lucky Numbers,4
-"I, Frankenstein",4
+The Dictator,2
+Eyes Wide Shut,0
+Annie,3
+Focus,3
+This Means War,3
+Blade: Trinity,3
+Red Dawn,4
+Primary Colors,0
+Resident Evil: Retribution,3
+Death Race,3
+The Long Kiss Goodnight,3
+Proof of Life,0
+Zathura: A Space Adventure,3
+Fight Club,2
+We Are Marshall,0
+Hudson Hawk,0
+Lucky Numbers,0
+"I, Frankenstein",3
 Oliver Twist,3
-Elektra,4
-Sin City: A Dame to Kill For,4
-Random Hearts,5
-Everest,4
-Perfume: The Story of a Murderer,5
-Austin Powers in Goldmember,4
-Astro Boy,4
-Jurassic Park,1
-Wyatt Earp,5
-Clear and Present Danger,5
-Dragon Blade,4
-Little Man,4
-U-571,4
-The American President,4
-The Love Guru,0
-3000 Miles to Graceland,4
-The Hateful Eight,5
-Blades of Glory,0
-Hop,4
-300,1
-Meet the Fockers,1
-Marley & Me,4
-The Green Mile,5
-Wild Hogs,4
-Chicken Little,1
-Gone Girl,5
-The Bourne Identity,4
-GoldenEye,4
-The General's Daughter,4
-The Truman Show,4
-The Prince of Egypt,4
-Daddy Day Care,4
-2 Guns,4
-Cats & Dogs,4
-The Italian Job,4
-Two Weeks Notice,4
-Antz,4
-Couples Retreat,4
-Days of Thunder,4
-Cheaper by the Dozen 2,4
-Maze Runner: The Scorch Trials,4
-Eat Pray Love,4
-The Family Man,3
-RED,4
-Any Given Sunday,5
-The Horse Whisperer,5
-Collateral,4
-The Scorpion King,4
-Ladder 49,4
-Jack Reacher,4
-Deep Blue Sea,4
-This Is It,4
-Contagion,4
-Kangaroo Jack,0
-Coraline,4
-The Happening,4
-Man on Fire,5
-The Shaggy Dog,0
-Starsky & Hutch,4
-Jingle All the Way,4
-Hellboy,4
-A Civil Action,4
-ParaNorman,4
-The Jackal,4
-Paycheck,4
-Up Close & Personal,3
-The Tale of Despereaux,4
-The Tuxedo,0
-Under Siege 2: Dark Territory,4
-Jack Ryan: Shadow Recruit,4
+Elektra,3
+Sin City: A Dame to Kill For,3
+Random Hearts,0
+Everest,3
+Perfume: The Story of a Murderer,3
+Austin Powers in Goldmember,3
+Astro Boy,0
+Jurassic Park,2
+Wyatt Earp,0
+Clear and Present Danger,0
+Dragon Blade,3
+Little Man,3
+U-571,3
+The American President,0
+The Love Guru,3
+3000 Miles to Graceland,3
+The Hateful Eight,3
+Blades of Glory,3
+Hop,2
+300,2
+Meet the Fockers,2
+Marley & Me,3
+The Green Mile,2
+Wild Hogs,0
+Chicken Little,2
+Gone Girl,2
+The Bourne Identity,2
+GoldenEye,2
+The General's Daughter,3
+The Truman Show,2
+The Prince of Egypt,2
+Daddy Day Care,3
+2 Guns,3
+Cats & Dogs,0
+The Italian Job,3
+Two Weeks Notice,0
+Antz,2
+Couples Retreat,0
+Days of Thunder,0
+Cheaper by the Dozen 2,0
+Maze Runner: The Scorch Trials,2
+Eat Pray Love,3
+The Family Man,0
+RED,2
+Any Given Sunday,3
+The Horse Whisperer,0
+Collateral,3
+The Scorpion King,3
+Ladder 49,3
+Jack Reacher,3
+Deep Blue Sea,3
+This Is It,0
+Contagion,3
+Kangaroo Jack,3
+Coraline,3
+The Happening,3
+Man on Fire,3
+The Shaggy Dog,3
+Starsky & Hutch,3
+Jingle All the Way,0
+Hellboy,3
+A Civil Action,3
+ParaNorman,3
+The Jackal,3
+Paycheck,3
+Up Close & Personal,4
+The Tale of Despereaux,3
+The Tuxedo,3
+Under Siege 2: Dark Territory,3
+Jack Ryan: Shadow Recruit,3
 Joy,3
-London Has Fallen,4
-Alien: Resurrection,4
-Shooter,4
-The Boxtrolls,4
-Practical Magic,4
-The Lego Movie,1
-Miss Congeniality 2: Armed and Fabulous,3
-Reign of Fire,4
-Gangster Squad,4
-Year One,4
+London Has Fallen,3
+Alien: Resurrection,3
+Shooter,3
+The Boxtrolls,3
+Practical Magic,3
+The Lego Movie,2
+Miss Congeniality 2: Armed and Fabulous,1
+Reign of Fire,3
+Gangster Squad,3
+Year One,0
 Invictus,3
-State of Play,4
-Duplicity,4
-My Favorite Martian,4
-The Sentinel,4
-Planet 51,4
-Star Trek: Nemesis,4
-Intolerable Cruelty,4
-Trouble with the Curve,3
-Edge of Darkness,4
-The Relic,4
-Analyze That,4
-Righteous Kill,4
-Mercury Rising,4
+State of Play,3
+Duplicity,0
+My Favorite Martian,0
+The Sentinel,3
+Planet 51,2
+Star Trek: Nemesis,3
+Intolerable Cruelty,3
+Trouble with the Curve,1
+Edge of Darkness,3
+The Relic,3
+Analyze That,0
+Righteous Kill,0
+Mercury Rising,3
 The Soloist,3
-The Legend of Bagger Vance,4
+The Legend of Bagger Vance,3
 Almost Famous,3
 Garfield: A Tail of Two Kitties,0
-xXx: State of the Union,4
-Priest,4
-Sinbad: Legend of the Seven Seas,4
-Event Horizon,4
-Dragonfly,4
+xXx: State of the Union,3
+Priest,3
+Sinbad: Legend of the Seven Seas,3
+Event Horizon,3
+Dragonfly,3
 The Black Dahlia,3
-Flyboys,5
-The Last Castle,4
-Supernova,4
+Flyboys,3
+The Last Castle,3
+Supernova,3
 Winter's Tale,3
-The Mortal Instruments: City of Bones,4
-Meet Dave,4
+The Mortal Instruments: City of Bones,3
+Meet Dave,3
 Dark Water,3
-Edtv,4
-Inkheart,4
-The Spirit,4
-Mortdecai,4
-In the Name of the King: A Dungeon Siege Tale,4
+Edtv,0
+Inkheart,3
+The Spirit,3
+Mortdecai,3
+In the Name of the King: A Dungeon Siege Tale,3
 Beyond Borders,3
-The Monkey King 2,4
-The Great Raid,4
-Deadpool,1
-Holy Man,3
-American Sniper,1
-Goosebumps,4
-Just Like Heaven,4
-The Flintstones in Viva Rock Vegas,4
-Rambo III,4
+The Monkey King 2,0
+The Great Raid,3
+Deadpool,2
+Holy Man,0
+American Sniper,2
+Goosebumps,3
+Just Like Heaven,3
+The Flintstones in Viva Rock Vegas,3
+Rambo III,0
 Leatherheads,3
 The Ridiculous 6,3
-Did You Hear About the Morgans?,4
+Did You Hear About the Morgans?,0
 The Internship,3
-Resident Evil: Afterlife,4
-Red Tails,4
-The Devil's Advocate,5
-That's My Boy,4
-DragonHeart,4
-After the Sunset,4
-Ghost Rider: Spirit of Vengeance,4
+Resident Evil: Afterlife,3
+Red Tails,3
+The Devil's Advocate,0
+That's My Boy,0
+DragonHeart,3
+After the Sunset,3
+Ghost Rider: Spirit of Vengeance,3
 Captain Corelli's Mandolin,3
-The Pacifier,4
-Walking Tall,4
-Forrest Gump,1
-Alvin and the Chipmunks,1
-Meet the Parents,4
-Pocahontas,4
-Superman,5
-The Nutty Professor,4
-Hitch,1
+The Pacifier,0
+Walking Tall,3
+Forrest Gump,2
+Alvin and the Chipmunks,2
+Meet the Parents,3
+Pocahontas,2
+Superman,2
+The Nutty Professor,0
+Hitch,2
 George of the Jungle,0
-American Wedding,4
-Captain Phillips,4
-Date Night,4
-Casper,4
-The Equalizer,4
-Maid in Manhattan,4
-Crimson Tide,4
-The Pursuit of Happyness,4
-Flightplan,4
-Disclosure,4
-City of Angels,4
-Kill Bill: Vol. 1,4
-Bowfinger,0
-Kill Bill: Vol. 2,4
-Tango & Cash,4
-Death Becomes Her,4
-Shanghai Noon,4
-Executive Decision,4
-Mr. Popper's Penguins,4
-The Forbidden Kingdom,4
-Free Birds,4
-Alien³,4
-Evita,5
-Ronin,4
-The Ghost and the Darkness,4
-Paddington,4
-The Watch,4
-The Hunted,4
-Instinct,4
-Stuck on You,4
-Semi-Pro,0
-The Pirates! In an Adventure with Scientists!,4
-Changeling,5
-Chain Reaction,4
-The Fan,4
-The Phantom of the Opera,5
+American Wedding,3
+Captain Phillips,3
+Date Night,3
+Casper,2
+The Equalizer,3
+Maid in Manhattan,3
+Crimson Tide,3
+The Pursuit of Happyness,3
+Flightplan,3
+Disclosure,0
+City of Angels,0
+Kill Bill: Vol. 1,2
+Bowfinger,3
+Kill Bill: Vol. 2,3
+Tango & Cash,0
+Death Becomes Her,0
+Shanghai Noon,0
+Executive Decision,3
+Mr. Popper's Penguins,2
+The Forbidden Kingdom,3
+Free Birds,0
+Alien³,3
+Evita,0
+Ronin,3
+The Ghost and the Darkness,0
+Paddington,2
+The Watch,3
+The Hunted,3
+Instinct,3
+Stuck on You,0
+Semi-Pro,1
+The Pirates! In an Adventure with Scientists!,0
+Changeling,3
+Chain Reaction,3
+The Fan,3
+The Phantom of the Opera,3
 Elizabeth: The Golden Age,3
-Æon Flux,4
-Gods and Generals,5
-Turbulence,4
-Imagine That,0
-Muppets Most Wanted,4
-Thunderbirds,4
+Æon Flux,3
+Gods and Generals,3
+Turbulence,3
+Imagine That,3
+Muppets Most Wanted,0
+Thunderbirds,0
 Burlesque,3
-A Very Long Engagement,3
-Lolita,2
-D-Tox,4
-Blade II,4
-Seven Pounds,4
-Bullet to the Head,4
-The Godfather: Part III,5
-Elizabethtown,3
-"You, Me and Dupree",4
-Superman II,2
+A Very Long Engagement,0
+Lolita,4
+D-Tox,3
+Blade II,3
+Seven Pounds,3
+Bullet to the Head,3
+The Godfather: Part III,0
+Elizabethtown,0
+"You, Me and Dupree",3
+Superman II,0
 Gigli,3
 All the King's Men,3
-Shaft,4
-Anastasia,4
-Moulin Rouge!,4
-Domestic Disturbance,4
+Shaft,3
+Anastasia,2
+Moulin Rouge!,3
+Domestic Disturbance,0
 Black Mass,3
-Flags of Our Fathers,4
-Law Abiding Citizen,4
-Grindhouse,5
-Beloved,5
-Lucky You,3
-Catch Me If You Can,5
-Zero Dark Thirty,5
-The Break-Up,4
-Mamma Mia!,1
-Valentine's Day,4
-The Dukes of Hazzard,4
-The Thin Red Line,5
-The Change-Up,4
-Man on the Moon,4
-Casino,5
-From Paris with Love,4
-Bulletproof Monk,4
-"Me, Myself & Irene",4
+Flags of Our Fathers,3
+Law Abiding Citizen,3
+Grindhouse,3
+Beloved,1
+Lucky You,1
+Catch Me If You Can,2
+Zero Dark Thirty,3
+The Break-Up,0
+Mamma Mia!,2
+Valentine's Day,3
+The Dukes of Hazzard,3
+The Thin Red Line,0
+The Change-Up,3
+Man on the Moon,3
+Casino,0
+From Paris with Love,3
+Bulletproof Monk,0
+"Me, Myself & Irene",3
 Barnyard,0
-Deck the Halls,0
-The Twilight Saga: New Moon,1
-Shrek,1
-The Adjustment Bureau,4
-Robin Hood: Prince of Thieves,5
-Jerry Maguire,5
-Ted,1
-As Good as It Gets,5
-Patch Adams,4
-Anchorman 2: The Legend Continues,4
-Mr. Deeds,4
-Super 8,4
-Erin Brockovich,4
-How to Lose a Guy in 10 Days,4
-22 Jump Street,4
-Interview with the Vampire,4
-Yes Man,4
-Central Intelligence,4
-Stepmom,3
-Daddy's Home,4
-Into the Woods,4
-Inside Man,4
-Payback,4
-Congo,4
-We Bought a Zoo,3
-Knowing,4
-Failure to Launch,4
-The Ring Two,4
+Deck the Halls,1
+The Twilight Saga: New Moon,2
+Shrek,2
+The Adjustment Bureau,3
+Robin Hood: Prince of Thieves,2
+Jerry Maguire,0
+Ted,2
+As Good as It Gets,3
+Patch Adams,3
+Anchorman 2: The Legend Continues,0
+Mr. Deeds,3
+Super 8,3
+Erin Brockovich,3
+How to Lose a Guy in 10 Days,0
+22 Jump Street,3
+Interview with the Vampire,0
+Yes Man,3
+Central Intelligence,3
+Stepmom,1
+Daddy's Home,3
+Into the Woods,3
+Inside Man,3
+Payback,3
+Congo,0
+We Bought a Zoo,0
+Knowing,3
+Failure to Launch,0
+The Ring Two,3
 "Crazy, Stupid, Love.",3
-Garfield,4
+Garfield,2
 Christmas with the Kranks,0
 Moneyball,3
-Outbreak,4
-Non-Stop,4
-Race to Witch Mountain,4
-V for Vendetta,4
-Shanghai Knights,4
+Outbreak,0
+Non-Stop,3
+Race to Witch Mountain,3
+V for Vendetta,2
+Shanghai Knights,3
 Curious George,0
-Herbie Fully Loaded,4
-Don't Say a Word,4
-Hansel & Gretel: Witch Hunters,4
-Unfaithful,4
-I Am Number Four,4
+Herbie Fully Loaded,3
+Don't Say a Word,3
+Hansel & Gretel: Witch Hunters,2
+Unfaithful,3
+I Am Number Four,3
 Syriana,3
-13 Hours: The Secret Soldiers of Benghazi,5
-The Book of Life,4
-Firewall,4
-Absolute Power,4
-G.I. Jane,4
-The Game,4
-Silent Hill,4
-The Replacements,3
-American Reunion,4
-The Negotiator,5
-Into the Storm,4
-Beverly Hills Cop III,4
-Gremlins 2: The New Batch,4
+13 Hours: The Secret Soldiers of Benghazi,3
+The Book of Life,3
+Firewall,3
+Absolute Power,3
+G.I. Jane,3
+The Game,0
+Silent Hill,3
+The Replacements,1
+American Reunion,2
+The Negotiator,3
+Into the Storm,3
+Beverly Hills Cop III,0
+Gremlins 2: The New Batch,0
 The Judge,3
-The Peacemaker,4
-Resident Evil: Apocalypse,4
+The Peacemaker,3
+Resident Evil: Apocalypse,3
 Bridget Jones: The Edge of Reason,3
-Out of Time,4
-On Deadly Ground,4
-The Adventures of Sharkboy and Lavagirl,4
-The Beach,4
+Out of Time,3
+On Deadly Ground,0
+The Adventures of Sharkboy and Lavagirl,3
+The Beach,3
 Raising Helen,3
-Ninja Assassin,4
-For Love of the Game,5
-Striptease,4
-Marmaduke,0
-Hereafter,3
-Murder by Numbers,4
-Assassins,4
+Ninja Assassin,3
+For Love of the Game,0
+Striptease,3
+Marmaduke,3
+Hereafter,0
+Murder by Numbers,3
+Assassins,3
 Hannibal Rising,3
-The Story of Us,0
-The Host,4
-Basic,4
-Blood Work,4
+The Story of Us,3
+The Host,3
+Basic,3
+Blood Work,3
 The International,3
-Escape from L.A.,4
-The Iron Giant,4
+Escape from L.A.,3
+The Iron Giant,2
 The Life Aquatic with Steve Zissou,3
 Free State of Jones,3
 The Life of David Gale,3
 Man of the House,0
-Run All Night,4
-Eastern Promises,4
-Into the Blue,4
-The Messenger: The Story of Joan of Arc,5
+Run All Night,3
+Eastern Promises,3
+Into the Blue,3
+The Messenger: The Story of Joan of Arc,0
 Your Highness,0
-Dream House,0
+Dream House,3
 Mad City,4
-Baby's Day Out,4
-The Scarlet Letter,5
-Fair Game,3
-Domino,4
+Baby's Day Out,0
+The Scarlet Letter,4
+Fair Game,0
+Domino,3
 Jade,4
-Gamer,4
+Gamer,3
 Beautiful Creatures,3
-Death to Smoochy,4
+Death to Smoochy,3
 Zoolander 2,0
 The Big Bounce,0
-What Planet Are You From?,3
-Drive Angry,4
-Street Fighter: The Legend of Chun-Li,4
-The One,4
+What Planet Are You From?,0
+Drive Angry,3
+Street Fighter: The Legend of Chun-Li,0
+The One,3
 The Adventures of Ford Fairlane,4
-The Boat That Rocked,3
-Traffic,5
-Indiana Jones and the Last Crusade,1
+The Boat That Rocked,0
+Traffic,3
+Indiana Jones and the Last Crusade,2
 Anna Karenina,3
-Chappie,4
-The Bone Collector,4
-Panic Room,4
-The Tooth Fairy,7
-Three Kings,4
+Chappie,3
+The Bone Collector,3
+Panic Room,3
+The Tooth Fairy,0
+Three Kings,3
 Child 44,3
-Rat Race,4
+Rat Race,3
 K-PAX,3
-Kate & Leopold,3
-Bedazzled,0
-The Cotton Club,2
-3:10 to Yuma,4
-Taken 3,4
-Out of Sight,3
-The Cable Guy,4
-Earth,0
-Dick Tracy,4
-The Thomas Crown Affair,4
-Riding in Cars with Boys,3
-First Blood,2
-Solaris,5
-Happily N'Ever After,0
+Kate & Leopold,1
+Bedazzled,3
+The Cotton Club,4
+3:10 to Yuma,3
+Taken 3,3
+Out of Sight,0
+The Cable Guy,0
+Earth,1
+Dick Tracy,0
+The Thomas Crown Affair,3
+Riding in Cars with Boys,0
+First Blood,0
+Solaris,4
+Happily N'Ever After,3
 Mary Reilly,4
-My Best Friend's Wedding,4
-America's Sweethearts,0
-Insomnia,4
-Star Trek: First Contact,4
-Jonah Hex,0
-Courage Under Fire,4
-Liar Liar,4
+My Best Friend's Wedding,0
+America's Sweethearts,1
+Insomnia,3
+Star Trek: First Contact,3
+Jonah Hex,3
+Courage Under Fire,3
+Liar Liar,3
 The Infiltrator,3
-Inchon,5
-The Flintstones,4
-Taken 2,4
-Scary Movie 3,4
-Miss Congeniality,4
-Journey to the Center of the Earth,4
-The Princess Diaries 2: Royal Engagement,3
-The Pelican Brief,5
-The Client,4
-The Bucket List,4
-Patriot Games,4
-Monster-in-Law,4
-Prisoners,5
-Training Day,4
-Galaxy Quest,4
-Scary Movie 2,0
-The Muppets,4
-Blade,4
-Coach Carter,3
-Changing Lanes,4
-Anaconda,4
-Coyote Ugly,4
-Love Actually,5
-A Bug's Life,1
-From Hell,4
-The Specialist,4
+Inchon,4
+The Flintstones,2
+Taken 2,2
+Scary Movie 3,3
+Miss Congeniality,3
+Journey to the Center of the Earth,2
+The Princess Diaries 2: Royal Engagement,0
+The Pelican Brief,3
+The Client,3
+The Bucket List,3
+Patriot Games,0
+Monster-in-Law,3
+Prisoners,3
+Training Day,3
+Galaxy Quest,3
+Scary Movie 2,3
+The Muppets,0
+Blade,3
+Coach Carter,0
+Changing Lanes,3
+Anaconda,3
+Coyote Ugly,3
+Love Actually,3
+A Bug's Life,2
+From Hell,3
+The Specialist,3
 Tin Cup,3
-"Yours, Mine and Ours",2
-Kicking & Screaming,0
-The Hitchhiker's Guide to the Galaxy,4
-Fat Albert,0
-Resident Evil: Extinction,4
-Blended,3
-Last Holiday,3
+"Yours, Mine and Ours",4
+Kicking & Screaming,3
+The Hitchhiker's Guide to the Galaxy,0
+Fat Albert,1
+Resident Evil: Extinction,3
+Blended,0
+Last Holiday,0
 The River Wild,4
-The Indian in the Cupboard,4
+The Indian in the Cupboard,0
 Savages,3
-Cellular,4
-Johnny English,4
+Cellular,3
+Johnny English,0
 The Ant Bully,0
-Dune,2
-Across the Universe,3
+Dune,4
+Across the Universe,1
 Revolutionary Road,3
-16 Blocks,4
-Babylon A.D.,4
-The Glimmer Man,4
-Multiplicity,4
+16 Blocks,3
+Babylon A.D.,3
+The Glimmer Man,0
+Multiplicity,3
 Aliens in the Attic,0
 The Pledge,3
 The Producers,3
-The Phantom,4
-All the Pretty Horses,3
-Nixon,5
+The Phantom,0
+All the Pretty Horses,0
+Nixon,0
 The Ghost Writer,3
-Deep Rising,4
-Miracle at St. Anna,5
-Curse of the Golden Flower,3
-Bangkok Dangerous,4
+Deep Rising,3
+Miracle at St. Anna,3
+Curse of the Golden Flower,1
+Bangkok Dangerous,3
 Big Trouble,0
 Love in the Time of Cholera,3
-Shadow Conspiracy,4
-Johnny English Reborn,4
+Shadow Conspiracy,0
+Johnny English Reborn,0
 Foodfight!,0
-Argo,4
-The Fugitive,4
-The Bounty Hunter,4
-Sleepers,5
-Rambo: First Blood Part II,4
-The Juror,3
-Pinocchio,2
-Heaven's Gate,5
-Underworld: Evolution,4
+Argo,3
+The Fugitive,2
+The Bounty Hunter,3
+Sleepers,0
+Rambo: First Blood Part II,0
+The Juror,4
+Pinocchio,4
+Heaven's Gate,4
+Underworld: Evolution,3
 Victor Frankenstein,3
-Finding Forrester,5
+Finding Forrester,0
 28 Days,0
-Unleashed,4
-The Sweetest Thing,0
-The Firm,5
+Unleashed,3
+The Sweetest Thing,3
+The Firm,0
 Charlie St. Cloud,0
-The Mechanic,4
-21 Jump Street,4
-Notting Hill,4
-Chicken Run,4
-Along Came Polly,0
+The Mechanic,3
+21 Jump Street,2
+Notting Hill,3
+Chicken Run,2
+Along Came Polly,3
 Boomerang,4
-The Heat,4
-Cleopatra,5
-Here Comes the Boom,0
-High Crimes,4
-The Mirror Has Two Faces,3
+The Heat,3
+Cleopatra,4
+Here Comes the Boom,3
+High Crimes,3
+The Mirror Has Two Faces,0
 The Mothman Prophecies,3
-Brüno,0
-Licence to Kill,4
-Red Riding Hood,4
-15 Minutes,4
-Super Mario Bros.,4
+Brüno,3
+Licence to Kill,0
+Red Riding Hood,3
+15 Minutes,3
+Super Mario Bros.,0
 Lord of War,3
-Hero,4
-One for the Money,0
+Hero,3
+One for the Money,3
 The Interview,3
-The Warrior's Way,4
-Micmacs,0
-8 Mile,4
-Why I Did (Not) Eat My Father,0
-A Knight's Tale,4
+The Warrior's Way,3
+Micmacs,3
+8 Mile,3
+Why I Did (Not) Eat My Father,1
+A Knight's Tale,3
 The Medallion,0
-The Sixth Sense,1
-Man on a Ledge,4
+The Sixth Sense,2
+Man on a Ledge,3
 The Big Year,0
-The Karate Kid,2
+The Karate Kid,4
 American Hustle,3
-The Proposal,4
-Double Jeopardy,4
-Back to the Future Part II,4
-Lucy,4
-Fifty Shades of Grey,1
-Spy Kids 3-D: Game Over,4
-A Time to Kill,5
-Cheaper by the Dozen,4
-Lone Survivor,4
-A League of Their Own,4
-The Conjuring 2,4
-The Social Network,4
-He's Just Not That Into You,3
+The Proposal,3
+Double Jeopardy,0
+Back to the Future Part II,2
+Lucy,2
+Fifty Shades of Grey,2
+Spy Kids 3-D: Game Over,0
+A Time to Kill,0
+Cheaper by the Dozen,0
+Lone Survivor,3
+A League of Their Own,0
+The Conjuring 2,3
+The Social Network,3
+He's Just Not That Into You,0
 Scary Movie 4,0
-Scream 3,4
-Back to the Future Part III,4
-Get Hard,0
-Dracula,4
+Scream 3,3
+Back to the Future Part III,2
+Get Hard,3
+Dracula,0
 Julie & Julia,3
 42,3
-The Talented Mr. Ripley,5
-Dumb and Dumber To,4
-Eight Below,4
-The Intern,4
-Ride Along 2,4
-The Last of the Mohicans,4
-Ray,5
-Sin City,4
-Vantage Point,4
-"I Love You, Man",0
-Shallow Hal,4
-JFK,5
-Big Momma's House 2,4
-The Mexican,4
-17 Again,0
-The Other Woman,4
-The Final Destination,4
+The Talented Mr. Ripley,3
+Dumb and Dumber To,3
+Eight Below,3
+The Intern,3
+Ride Along 2,3
+The Last of the Mohicans,3
+Ray,3
+Sin City,3
+Vantage Point,3
+"I Love You, Man",3
+Shallow Hal,0
+JFK,0
+Big Momma's House 2,0
+The Mexican,3
+17 Again,3
+The Other Woman,0
+The Final Destination,3
 Bridge of Spies,3
-Behind Enemy Lines,4
-Get Him to the Greek,4
-Shall We Dance?,4
-Small Soldiers,4
-Spawn,4
-The Count of Monte Cristo,4
+Behind Enemy Lines,3
+Get Him to the Greek,3
+Shall We Dance?,3
+Small Soldiers,3
+Spawn,3
+The Count of Monte Cristo,0
 The Lincoln Lawyer,3
-Unknown,4
+Unknown,3
 The Prestige,3
-Horrible Bosses 2,4
+Horrible Bosses 2,3
 Escape from Planet Earth,0
-Apocalypto,5
-The Living Daylights,4
-Predators,4
-Legal Eagles,2
-Secret Window,4
-The Lake House,4
-The Skeleton Key,4
+Apocalypto,3
+The Living Daylights,0
+Predators,3
+Legal Eagles,4
+Secret Window,3
+The Lake House,3
+The Skeleton Key,3
 The Odd Life of Timothy Green,0
-Made of Honor,0
+Made of Honor,3
 Jersey Boys,3
-The Rainmaker,5
-Gothika,4
-Amistad,5
+The Rainmaker,3
+Gothika,3
+Amistad,3
 Medicine Man,4
-Aliens vs Predator: Requiem,4
-Ri¢hie Ri¢h,0
-Autumn in New York,3
-Music and Lyrics,0
-Paul,4
+Aliens vs Predator: Requiem,3
+Ri¢hie Ri¢h,4
+Autumn in New York,0
+Music and Lyrics,3
+Paul,3
 The Guilt Trip,0
-Scream 4,4
-8MM,4
-The Doors,5
-Sex Tape,0
-Hanging Up,0
-Final Destination 5,4
-Mickey Blue Eyes,0
-Pay It Forward,3
+Scream 4,0
+8MM,3
+The Doors,4
+Sex Tape,3
+Hanging Up,3
+Final Destination 5,3
+Mickey Blue Eyes,1
+Pay It Forward,0
 Fever Pitch,3
-Drillbit Taylor,0
+Drillbit Taylor,3
 A Million Ways to Die in the West,3
-The Shadow,4
-Extremely Loud & Incredibly Close,3
+The Shadow,0
+Extremely Loud & Incredibly Close,0
 Morning Glory,0
 Get Rich or Die Tryin',3
-The Art of War,4
+The Art of War,0
 Rent,3
 Bless the Child,3
-The Out-of-Towners,4
-The Island of Dr. Moreau,4
-The Musketeer,4
+The Out-of-Towners,0
+The Island of Dr. Moreau,0
+The Musketeer,3
 The Other Boleyn Girl,3
 Sweet November,3
-The Reaping,4
-Mean Streets,2
-Renaissance Man,3
-Colombiana,4
+The Reaping,3
+Mean Streets,4
+Renaissance Man,4
+Colombiana,3
 Quest for Camelot,0
-City By The Sea,3
-At First Sight,3
-Torque,0
-City Hall,3
-Showgirls,3
+City By The Sea,0
+At First Sight,1
+Torque,3
+City Hall,1
+Showgirls,4
 Marie Antoinette,3
 Kiss of Death,4
-Get Carter,4
-The Impossible,4
-Ishtar,4
+Get Carter,3
+The Impossible,3
+Ishtar,0
 Fantastic Mr. Fox,0
-Life or Something Like It,0
-Memoirs of an Invisible Man,0
+Life or Something Like It,3
+Memoirs of an Invisible Man,4
 Amélie,3
-New York Minute,0
-Alfie,4
-Big Miracle,3
-The Deep End of the Ocean,3
-FearDotCom,4
-Cirque du Freak: The Vampire's Assistant,4
+New York Minute,1
+Alfie,3
+Big Miracle,0
+The Deep End of the Ocean,0
+FearDotCom,3
+Cirque du Freak: The Vampire's Assistant,0
 Duplex,0
-Soul Men,0
-Raise the Titanic,2
+Soul Men,1
+Raise the Titanic,4
 Universal Soldier: The Return,0
-Pandorum,4
-Impostor,4
-Extreme Ops,4
-Just Visiting,0
-Sunshine,4
-A Thousand Words,0
+Pandorum,3
+Impostor,3
+Extreme Ops,3
+Just Visiting,1
+Sunshine,3
+A Thousand Words,3
 Delgo,0
 The Gunman,3
-Stormbreaker,4
+Stormbreaker,3
 Disturbia,3
-Hackers,3
-The Hunting Party,0
-The Hudsucker Proxy,3
+Hackers,4
+The Hunting Party,1
+The Hudsucker Proxy,4
 The Warlords,3
-Nomad: The Warrior,3
+Nomad: The Warrior,0
 Snowpiercer,3
-A Monster in Paris,0
-The Last Shot,0
+A Monster in Paris,3
+The Last Shot,1
 The Crow,4
-Baahubali: The Beginning,5
+Baahubali: The Beginning,3
 The Time Traveler's Wife,3
-Because I Said So,0
-Frankenweenie,0
-Serenity,4
+Because I Said So,3
+Frankenweenie,3
+Serenity,3
 Against the Ropes,3
-Superman III,2
+Superman III,0
 Grudge Match,3
-Red Cliff,5
-Sweet Home Alabama,4
-The Ugly Truth,4
-Sgt. Bilko,0
-Spy Kids 2: The Island of Lost Dreams,4
-Star Trek: Generations,4
+Red Cliff,0
+Sweet Home Alabama,3
+The Ugly Truth,3
+Sgt. Bilko,1
+Spy Kids 2: The Island of Lost Dreams,3
+Star Trek: Generations,0
 The Grandmaster,3
 Water for Elephants,3
 Dragon Nest: Warriors' Dawn,0
-The Hurricane,5
+The Hurricane,3
 Enough,3
 Heartbreakers,3
-Paul Blart: Mall Cop 2,0
-Angel Eyes,4
-Joe Somebody,0
+Paul Blart: Mall Cop 2,3
+Angel Eyes,3
+Joe Somebody,3
 The Ninth Gate,3
-Extreme Measures,3
-Rock Star,3
-Precious,3
-White Squall,3
-The Thing,2
-Riddick,4
+Extreme Measures,4
+Rock Star,0
+Precious,0
+White Squall,4
+The Thing,4
+Riddick,3
 Switchback,4
-Texas Rangers,3
-City of Ember,4
+Texas Rangers,1
+City of Ember,3
 The Master,3
 Virgin Territory,0
 The Express,3
-The 5th Wave,4
+The 5th Wave,3
 Creed,3
 The Town,3
 What to Expect When You're Expecting,3
-Burn After Reading,0
-Nim's Island,0
+Burn After Reading,3
+Nim's Island,3
 Rush,3
-Magnolia,5
-Cop Out,4
+Magnolia,4
+Cop Out,0
 How to Be Single,3
 Dolphin Tale,3
-Twilight,4
+Twilight,2
 John Q,3
-Blue Streak,4
-We're the Millers,4
-The Inhabited Island,4
-Breakdown,4
-Never Say Never Again,2
-Hot Tub Time Machine,0
+Blue Streak,0
+We're the Millers,3
+The Inhabited Island,3
+Breakdown,3
+Never Say Never Again,0
+Hot Tub Time Machine,3
 Dolphin Tale 2,3
-Reindeer Games,4
+Reindeer Games,3
 A Man Apart,3
 Aloha,3
-Ghosts of Mississippi,3
-Snow Falling on Cedars,3
+Ghosts of Mississippi,1
+Snow Falling on Cedars,1
 The Rite,3
-Gattaca,4
+Gattaca,3
 Isn't She Great,0
 Space Chimps,0
-Head of State,0
-The Hangover,1
-Ip Man 3,4
-Austin Powers: The Spy Who Shagged Me,4
-Batman,4
-There Be Dragons,3
-Lethal Weapon 3,4
-The Blind Side,4
-Spy Kids,4
-Horrible Bosses,0
-True Grit,4
-The Devil Wears Prada,4
-Star Trek: The Motion Picture,2
-Identity Thief,4
-Cape Fear,4
+Head of State,1
+The Hangover,2
+Ip Man 3,3
+Austin Powers: The Spy Who Shagged Me,3
+Batman,2
+There Be Dragons,1
+Lethal Weapon 3,2
+The Blind Side,3
+Spy Kids,3
+Horrible Bosses,3
+True Grit,3
+The Devil Wears Prada,2
+Star Trek: The Motion Picture,4
+Identity Thief,3
+Cape Fear,0
 21,3
 Trainwreck,3
-Guess Who,0
-The English Patient,5
-L.A. Confidential,5
-Sky High,0
-In & Out,0
-Species,4
-A Nightmare on Elm Street,2
-The Cell,4
-The Man in the Iron Mask,3
+Guess Who,3
+The English Patient,0
+L.A. Confidential,3
+Sky High,3
+In & Out,4
+Species,3
+A Nightmare on Elm Street,4
+The Cell,3
+The Man in the Iron Mask,4
 Secretariat,3
 TMNT,0
 Radio,3
-Friends with Benefits,4
-Neighbors 2: Sorority Rising,0
+Friends with Benefits,0
+Neighbors 2: Sorority Rising,3
 Saving Mr. Banks,3
-Malcolm X,5
+Malcolm X,4
 This Is 40,3
-Old Dogs,0
-Underworld: Rise of the Lycans,4
-License to Wed,0
-The Benchwarmers,0
+Old Dogs,3
+Underworld: Rise of the Lycans,3
+License to Wed,3
+The Benchwarmers,1
 Must Love Dogs,0
-Donnie Brasco,3
-Resident Evil,4
-Poltergeist,2
-The Ladykillers,0
-Max Payne,4
-In Time,4
-The Back-Up Plan,0
-Something Borrowed,3
-Black Knight,0
-The Bad News Bears,2
-Street Fighter,4
-The Pianist,5
+Donnie Brasco,0
+Resident Evil,3
+Poltergeist,4
+The Ladykillers,3
+Max Payne,3
+In Time,3
+The Back-Up Plan,3
+Something Borrowed,0
+Black Knight,1
+The Bad News Bears,4
+Street Fighter,3
+The Pianist,3
 The Nativity Story,3
-House of Wax,4
+House of Wax,3
 Closer,3
 J. Edgar,3
-Mirrors,4
-Queen of the Damned,0
+Mirrors,3
+Queen of the Damned,3
 Predator 2,4
 Untraceable,3
 Blast from the Past,3
-Flash Gordon,2
-Jersey Girl,0
-Alex Cross,4
-Midnight in the Garden of Good and Evil,5
-Heist,0
-Nanny McPhee and the Big Bang,4
-Hoffa,5
-The X Files: I Want to Believe,4
-Ella Enchanted,0
+Flash Gordon,4
+Jersey Girl,3
+Alex Cross,3
+Midnight in the Garden of Good and Evil,4
+Heist,3
+Nanny McPhee and the Big Bang,3
+Hoffa,4
+The X Files: I Want to Believe,3
+Ella Enchanted,3
 Concussion,3
-Abduction,4
+Abduction,3
 Valiant,0
-Wonder Boys,3
-Superhero Movie,0
+Wonder Boys,4
+Superhero Movie,3
 Broken City,3
-Cursed,0
+Cursed,3
 Premium Rush,0
-Hot Pursuit,0
-The Four Feathers,3
+Hot Pursuit,3
+The Four Feathers,0
 Parker,3
 Wimbledon,0
 Furry Vengeance,0
-Bait,0
-Krull,2
-Lions for Lambs,4
+Bait,3
+Krull,4
+Lions for Lambs,3
 Flight of the Intruder,4
-Walk Hard: The Dewey Cox Story,0
-The Shipping News,3
-American Outlaws,0
+Walk Hard: The Dewey Cox Story,3
+The Shipping News,1
+American Outlaws,3
 The Young Victoria,3
-Whiteout,4
+Whiteout,3
 The Tree of Life,3
-Knock Off,4
+Knock Off,0
 Sabotage,3
 The Order,3
-Punisher: War Zone,0
-Zoom,0
+Punisher: War Zone,3
+Zoom,3
 The Walk,3
-Warriors of Virtue,0
+Warriors of Virtue,1
 A Good Year,3
-Radio Flyer,3
-Bound by Honor,5
-Smilla's Sense of Snow,3
+Radio Flyer,4
+Bound by Honor,4
+Smilla's Sense of Snow,4
 Femme Fatale,3
-Lion of the Desert,5
-The Horseman on the Roof,5
-Ride with the Devil,5
-Biutiful,3
-Bandidas,0
+Lion of the Desert,4
+The Horseman on the Roof,4
+Ride with the Devil,3
+Biutiful,1
+Bandidas,3
 Black Water Transit,0
-The Maze Runner,4
+The Maze Runner,2
 Unfinished Business,0
-The Age of Innocence,5
-The Fountain,0
-Chill Factor,4
-Stolen,0
-Ponyo,4
+The Age of Innocence,4
+The Fountain,3
+Chill Factor,3
+Stolen,3
+Ponyo,3
 The Longest Ride,3
-The Astronaut's Wife,4
-I Dreamed of Africa,3
-Playing for Keeps,0
+The Astronaut's Wife,3
+I Dreamed of Africa,0
+Playing for Keeps,3
 Mandela: Long Walk to Freedom,3
-Reds,5
-A Few Good Men,5
-Exit Wounds,4
-Big Momma's House,4
+Reds,4
+A Few Good Men,0
+Exit Wounds,3
+Big Momma's House,0
 Thunder and the House of Magic,0
-The Darkest Hour,4
-Step Up Revolution,3
-Snakes on a Plane,4
-The Watcher,0
+The Darkest Hour,3
+Step Up Revolution,0
+Snakes on a Plane,3
+The Watcher,4
 The Punisher,3
 Goal!: The Dream Begins,3
-Safe,0
-Pushing Tin,3
-Return of the Jedi,1
-Doomsday,4
+Safe,3
+Pushing Tin,4
+Return of the Jedi,2
+Doomsday,3
 The Reader,3
-Wanderlust,0
-Elf,4
-Phenomenon,3
+Wanderlust,3
+Elf,3
+Phenomenon,0
 Snow Dogs,0
-Scrooged,2
+Scrooged,4
 Nacho Libre,0
-Bridesmaids,4
-This Is the End,4
-Stigmata,0
-Men of Honor,3
-Takers,4
+Bridesmaids,3
+This Is the End,3
+Stigmata,3
+Men of Honor,0
+Takers,0
 The Big Wedding,0
-"Big Mommas: Like Father, Like Son",4
-Source Code,4
+"Big Mommas: Like Father, Like Son",3
+Source Code,3
 Alive,4
 The Number 23,3
-The Young and Prodigious T.S. Spivet,3
-1941,2
-Dreamer: Inspired By a True Story,3
-A History of Violence,0
-Transporter 2,4
+The Young and Prodigious T.S. Spivet,4
+1941,4
+Dreamer: Inspired By a True Story,1
+A History of Violence,3
+Transporter 2,3
 The Quick and the Dead,4
-Laws of Attraction,0
+Laws of Attraction,3
 Bringing Out the Dead,3
-Repo Men,4
-Dragon Wars: D-War,4
-Bogus,0
-The Incredible Burt Wonderstone,0
+Repo Men,3
+Dragon Wars: D-War,3
+Bogus,4
+The Incredible Burt Wonderstone,3
 Cats Don't Dance,0
-Cradle Will Rock,3
+Cradle Will Rock,1
 The Good German,3
 George and the Dragon,0
-Apocalypse Now,5
-Going the Distance,0
-Mr. Holland's Opus,3
+Apocalypse Now,0
+Going the Distance,3
+Mr. Holland's Opus,4
 Criminal,3
-Out of Africa,5
+Out of Africa,4
 Flight,3
-Moonraker,2
-The Grand Budapest Hotel,0
-Hearts in Atlantis,3
-Arachnophobia,0
+Moonraker,0
+The Grand Budapest Hotel,3
+Hearts in Atlantis,4
+Arachnophobia,4
 Frequency,3
-Vacation,0
-Get Shorty,4
-Chicago,4
-Big Daddy,4
-American Pie 2,4
-Toy Story,4
-Speed,4
-The Vow,3
+Vacation,3
+Get Shorty,3
+Chicago,3
+Big Daddy,3
+American Pie 2,3
+Toy Story,2
+Speed,2
+The Vow,0
 Extraordinary Measures,3
 Remember the Titans,3
-The Hunt for Red October,4
+The Hunt for Red October,0
 The Butler,3
-DodgeBall: A True Underdog Story,0
-The Addams Family,4
-Ace Ventura: When Nature Calls,4
-The Princess Diaries,4
-The First Wives Club,0
-Se7en,4
-District 9,4
-The SpongeBob SquarePants Movie,0
-Mystic River,5
+DodgeBall: A True Underdog Story,3
+The Addams Family,0
+Ace Ventura: When Nature Calls,0
+The Princess Diaries,0
+The First Wives Club,3
+Se7en,2
+District 9,3
+The SpongeBob SquarePants Movie,3
+Mystic River,3
 Million Dollar Baby,3
-Analyze This,4
+Analyze This,0
 The Notebook,3
 27 Dresses,3
-Hannah Montana: The Movie,0
+Hannah Montana: The Movie,3
 Rugrats in Paris: The Movie,0
-The Prince of Tides,5
-Legends of the Fall,5
+The Prince of Tides,4
+Legends of the Fall,0
 Up in the Air,3
 About Schmidt,3
-Warm Bodies,0
-Looper,4
-Down to Earth,0
-Babe,4
+Warm Bodies,3
+Looper,3
+Down to Earth,1
+Babe,0
 Hope Springs,0
-Forgetting Sarah Marshall,3
-Four Brothers,4
+Forgetting Sarah Marshall,0
+Four Brothers,3
 Baby Mama,0
-Hope Floats,3
+Hope Floats,1
 Bride Wars,0
-Without a Paddle,0
-13 Going on 30,0
-Midnight in Paris,0
+Without a Paddle,3
+13 Going on 30,3
+Midnight in Paris,3
 The Nut Job,0
 Blow,3
-Message in a Bottle,5
-Star Trek V: The Final Frontier,4
-Like Mike,0
+Message in a Bottle,0
+Star Trek V: The Final Frontier,0
+Like Mike,3
 The Naked Gun 33⅓: The Final Insult,0
-A View to a Kill,2
-The Curse of the Were-Rabbit,4
+A View to a Kill,0
+The Curse of the Were-Rabbit,0
 P.S. I Love You,3
 Racing Stripes,0
 Atonement,3
 Letters to Juliet,3
-Black Rain,2
+Black Rain,4
 The Three Stooges,0
-Corpse Bride,0
-Glory Road,3
+Corpse Bride,3
+Glory Road,1
 Sicario,3
 Southpaw,3
-Drag Me to Hell,4
+Drag Me to Hell,3
 The Age of Adaline,3
-Secondhand Lions,3
-Step Up 3D,3
-Blue Crush,0
+Secondhand Lions,1
+Step Up 3D,0
+Blue Crush,3
 Stranger Than Fiction,3
-30 Days of Night,4
-The Cabin in the Woods,0
-Meet the Spartans,0
-Midnight Run,2
-The Running Man,2
-Little Shop of Horrors,2
-Hanna,4
-Mortal Kombat: Annihilation,4
-Larry Crowne,0
-Carrie,0
-Take the Lead,3
+30 Days of Night,3
+The Cabin in the Woods,3
+Meet the Spartans,3
+Midnight Run,4
+The Running Man,4
+Little Shop of Horrors,4
+Hanna,3
+Mortal Kombat: Annihilation,0
+Larry Crowne,3
+Carrie,3
+Take the Lead,0
 Gridiron Gang,3
 What's the Worst That Could Happen?,0
-9,0
+9,3
 Side Effects,3
-The Prince & Me,3
-Winnie the Pooh,0
+The Prince & Me,1
+Winnie the Pooh,3
 Dumb and Dumberer: When Harry Met Lloyd,0
 Bulworth,3
 Get on Up,3
-One True Thing,3
+One True Thing,1
 Virtuosity,4
-My Super Ex-Girlfriend,0
+My Super Ex-Girlfriend,3
 Deliver Us from Evil,3
-Sanctum,4
+Sanctum,3
 Little Black Book,3
 The Five-Year Engagement,3
-Mr. 3000,0
+Mr. 3000,3
 The Next Three Days,3
-Ultraviolet,0
-Assault on Precinct 13,4
-The Replacement Killers,0
+Ultraviolet,3
+Assault on Precinct 13,3
+The Replacement Killers,3
 Fled,0
-Eight Legged Freaks,0
-Love & Other Drugs,3
+Eight Legged Freaks,3
+Love & Other Drugs,0
 88 Minutes,3
-North Country,3
-The Whole Ten Yards,0
-Splice,0
-Howard the Duck,2
+North Country,0
+The Whole Ten Yards,3
+Splice,3
+Howard the Duck,4
 Pride and Glory,3
-The Cave,4
-Alex & Emma,0
+The Cave,3
+Alex & Emma,3
 Wicker Park,3
 Fright Night,0
 The New World,3
-Wing Commander,0
-In Dreams,0
-Dragonball Evolution,4
-The Last Stand,4
-Godsend,0
+Wing Commander,3
+In Dreams,3
+Dragonball Evolution,2
+The Last Stand,3
+Godsend,3
 Chasing Liberty,3
 Hoodwinked Too! Hood VS. Evil,0
 An Unfinished Life,3
 The Imaginarium of Doctor Parnassus,3
 Barney's Version,3
-Runner Runner,0
+Runner Runner,3
 Antitrust,3
-Glory,2
-Once Upon a Time in America,5
+Glory,4
+Once Upon a Time in America,4
 Dead Man Down,3
-The Merchant of Venice,3
+The Merchant of Venice,1
 The Good Thief,3
-Supercross,0
+Supercross,1
 Miss Potter,0
-The Promise,0
-DOA: Dead or Alive,0
-The Assassination of Jesse James by the Coward Robert Ford,5
-1911,3
-Little Nicholas,0
-Wild Card,0
+The Promise,1
+DOA: Dead or Alive,3
+The Assassination of Jesse James by the Coward Robert Ford,3
+1911,0
+Little Nicholas,1
+Wild Card,3
 Machine Gun Preacher,3
-Animals United,0
+Animals United,1
 Goodbye Bafana,3
-United Passions,3
+United Passions,0
 Grace of Monaco,3
 Savva. Heart of the Warrior,0
-Ripley's Game,3
-Sausage Party,0
-Pitch Perfect 2,4
+Ripley's Game,1
+Sausage Party,2
+Pitch Perfect 2,3
 Walk the Line,3
 Keeping the Faith,3
-The Borrowers,0
-Frost/Nixon,3
+The Borrowers,3
+Frost/Nixon,1
 Confessions of a Dangerous Mind,3
-Serving Sara,0
-The Boss,0
-Cry Freedom,5
-Mumford,3
-Seed of Chucky,0
+Serving Sara,4
+The Boss,3
+Cry Freedom,4
+Mumford,1
+Seed of Chucky,1
 The Jacket,3
-Aladdin,1
-Straight Outta Compton,5
-Indiana Jones and the Temple of Doom,4
+Aladdin,2
+Straight Outta Compton,3
+Indiana Jones and the Temple of Doom,2
 The Rugrats Movie,0
-Along Came a Spider,4
+Along Came a Spider,3
 Florence Foster Jenkins,3
-Once Upon a Time in Mexico,4
-Die Hard,4
-Role Models,0
+Once Upon a Time in Mexico,3
+Die Hard,2
+Role Models,3
 The Big Short,3
-Taking Woodstock,3
-Miracle,3
-Dawn of the Dead,4
-The Wedding Planner,0
-Space Pirate Captain Harlock,3
+Taking Woodstock,1
+Miracle,0
+Dawn of the Dead,3
+The Wedding Planner,3
+Space Pirate Captain Harlock,0
 The Royal Tenenbaums,3
-Identity,0
+Identity,3
 Last Vegas,0
-For Your Eyes Only,2
-Serendipity,0
-Timecop,4
-Zoolander,0
+For Your Eyes Only,4
+Serendipity,3
+Timecop,3
+Zoolander,3
 Safe Haven,3
-Hocus Pocus,0
-No Reservations,0
-Kick-Ass,4
+Hocus Pocus,4
+No Reservations,3
+Kick-Ass,3
 30 Minutes or Less,0
-Dracula 2000,0
-"Alexander and the Terrible, Horrible, No Good, Very Bad Day",0
+Dracula 2000,3
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",3
 Pride & Prejudice,3
-Blade Runner,2
-Rob Roy,5
+Blade Runner,0
+Rob Roy,4
 3 Days to Kill,3
 We Own the Night,3
-Lost Souls,0
-Winged Migration,0
-Just My Luck,0
-"Mystery, Alaska",3
+Lost Souls,1
+Winged Migration,4
+Just My Luck,3
+"Mystery, Alaska",1
 The Spy Next Door,0
 A Simple Wish,0
-Ghosts of Mars,0
+Ghosts of Mars,3
 Our Brand Is Crisis,3
 Pride and Prejudice and Zombies,0
-Kundun,3
+Kundun,4
 How to Lose Friends & Alienate People,3
-Kick-Ass 2,4
-Alatriste,3
-Brick Mansions,0
-Octopussy,2
+Kick-Ass 2,3
+Alatriste,4
+Brick Mansions,3
+Octopussy,0
 Knocked Up,3
 My Sister's Keeper,3
-Welcome Home Roscoe Jenkins,3
-A Passage to India,5
-Notes on a Scandal,0
+Welcome Home Roscoe Jenkins,0
+A Passage to India,4
+Notes on a Scandal,1
 Rendition,3
 Star Trek VI: The Undiscovered Country,4
 Divine Secrets of the Ya-Ya Sisterhood,3
 Kiss the Girls,3
-The Blues Brothers,2
-The Sisterhood of the Traveling Pants 2,3
-Joyful Noise,3
+The Blues Brothers,4
+The Sisterhood of the Traveling Pants 2,0
+Joyful Noise,1
 About a Boy,0
-Lake Placid,0
+Lake Placid,3
 Lucky Number Slevin,3
-The Right Stuff,5
-Anonymous,3
-The NeverEnding Story,2
-Dark City,0
-The Duchess,3
-Return to Oz,2
-The Newton Boys,3
+The Right Stuff,4
+Anonymous,0
+The NeverEnding Story,4
+Dark City,3
+The Duchess,1
+Return to Oz,4
+The Newton Boys,0
 Case 39,3
-Suspect Zero,0
-Martian Child,3
-Spy Kids: All the Time in the World,0
+Suspect Zero,3
+Martian Child,1
+Spy Kids: All the Time in the World,3
 Money Monster,0
-The 51st State,0
-Flawless,3
-Mindhunters,4
-What Just Happened,0
+The 51st State,1
+Flawless,1
+Mindhunters,3
+What Just Happened,1
 The Statement,3
-The Magic Flute,3
-Paul Blart: Mall Cop,4
-Freaky Friday,0
-The 40 Year Old Virgin,3
-Shakespeare in Love,4
+The Magic Flute,1
+Paul Blart: Mall Cop,3
+Freaky Friday,3
+The 40 Year Old Virgin,0
+Shakespeare in Love,0
 A Walk Among the Tombstones,3
-Kindergarten Cop,4
-Pineapple Express,4
+Kindergarten Cop,0
+Pineapple Express,3
 Ever After: A Cinderella Story,3
 Open Range,3
-Flatliners,2
-A Bridge Too Far,5
-Red Eye,0
-Final Destination 2,0
-"O Brother, Where Art Thou?",4
-Legion,0
+Flatliners,4
+A Bridge Too Far,4
+Red Eye,3
+Final Destination 2,3
+"O Brother, Where Art Thou?",3
+Legion,3
 Pain & Gain,3
-In Good Company,3
-Clockstoppers,4
-Silverado,2
+In Good Company,1
+Clockstoppers,3
+Silverado,4
 Brothers,3
 Agent Cody Banks 2: Destination London,0
-New Year's Eve,4
-Original Sin,3
+New Year's Eve,0
+Original Sin,4
 The Raven,3
-Welcome to Mooseport,0
-Highlander: The Final Dimension,4
-Blood and Wine,3
-Snow White: A Tale of Terror,0
-The Curse of the Jade Scorpion,0
+Welcome to Mooseport,3
+Highlander: The Final Dimension,0
+Blood and Wine,1
+Snow White: A Tale of Terror,3
+The Curse of the Jade Scorpion,1
 Accidental Love,0
 Flipper,0
 Self/less,3
 The Constant Gardener,3
-The Passion of the Christ,1
-Mrs. Doubtfire,4
-Rain Man,5
-Gran Torino,4
-W.,3
-Taken,4
-The Best of Me,3
-The Bodyguard,4
-Schindler's List,5
-The Help,5
-The Fifth Estate,3
-Scooby-Doo 2: Monsters Unleashed,0
-Forbidden Kingdom,3
-Freddy vs. Jason,0
-The Face of an Angel,0
+The Passion of the Christ,2
+Mrs. Doubtfire,2
+Rain Man,0
+Gran Torino,3
+W.,0
+Taken,3
+The Best of Me,0
+The Bodyguard,2
+Schindler's List,0
+The Help,3
+The Fifth Estate,0
+Scooby-Doo 2: Monsters Unleashed,3
+Forbidden Kingdom,0
+Freddy vs. Jason,3
+The Face of an Angel,3
 Jimmy Neutron: Boy Genius,0
-Cloverfield,4
+Cloverfield,3
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze,0
-The Untouchables,2
+The Untouchables,4
 No Country for Old Men,3
-Ride Along,4
-Bridget Jones's Diary,4
+Ride Along,3
+Bridget Jones's Diary,3
 Chocolat,3
-"Legally Blonde 2: Red, White & Blonde",4
+"Legally Blonde 2: Red, White & Blonde",0
 Parental Guidance,0
-No Strings Attached,0
-Tombstone,5
-Romeo Must Die,4
-The Omen,2
-Final Destination 3,0
-The Lucky One,3
-Bridge to Terabithia,4
+No Strings Attached,3
+Tombstone,4
+Romeo Must Die,0
+The Omen,4
+Final Destination 3,3
+The Lucky One,0
+Bridge to Terabithia,3
 Finding Neverland,3
-A Madea Christmas,0
+A Madea Christmas,1
 The Grey,3
-Hide and Seek,4
+Hide and Seek,3
 Anchorman: The Legend of Ron Burgundy,0
-GoodFellas,5
-Agent Cody Banks,4
+GoodFellas,0
+Agent Cody Banks,3
 Nanny McPhee,0
-Scarface,5
-Nothing to Lose,0
-The Last Emperor,5
+Scarface,0
+Nothing to Lose,4
+The Last Emperor,4
 Contraband,3
-Money Talks,0
-There Will Be Blood,5
+Money Talks,1
+There Will Be Blood,3
 The Wild Thornberrys Movie,0
-Rugrats Go Wild,0
+Rugrats Go Wild,1
 Undercover Brother,0
 The Sisterhood of the Traveling Pants,3
-Kiss of the Dragon,4
-The House Bunny,0
+Kiss of the Dragon,3
+The House Bunny,3
 Beauty Shop,0
-Million Dollar Arm,3
-The Giver,0
-What a Girl Wants,0
-Jeepers Creepers 2,0
-Good Luck Chuck,0
-Cradle 2 the Grave,3
+Million Dollar Arm,0
+The Giver,3
+What a Girl Wants,1
+Jeepers Creepers 2,3
+Good Luck Chuck,3
+Cradle 2 the Grave,0
 The Hours,3
-She's the Man,0
-Mr. Bean's Holiday,0
-Anacondas: The Hunt for the Blood Orchid,4
+She's the Man,3
+Mr. Bean's Holiday,3
+Anacondas: The Hunt for the Blood Orchid,3
 Blood Ties,3
 August Rush,3
 Elizabeth,3
-Bride of Chucky,0
-Tora! Tora! Tora!,2
+Bride of Chucky,3
+Tora! Tora! Tora!,4
 Spice World,0
-The Sitter,0
-Dance Flick,0
-The Shawshank Redemption,5
+The Sitter,3
+Dance Flick,3
+The Shawshank Redemption,2
 Crocodile Dundee in Los Angeles,0
-Kingpin,3
+Kingpin,4
 The Gambler,3
 August: Osage County,3
 Ice Princess,0
-A Lot Like Love,0
-Eddie the Eagle,3
-He Got Game,3
-Don Juan DeMarco,0
+A Lot Like Love,3
+Eddie the Eagle,0
+He Got Game,4
+Don Juan DeMarco,4
 Dear John,3
-The Losers,4
-Don't Be Afraid of the Dark,0
-War,4
-Punch-Drunk Love,0
-EuroTrip,0
-Half Past Dead,0
+The Losers,0
+Don't Be Afraid of the Dark,3
+War,3
+Punch-Drunk Love,3
+EuroTrip,3
+Half Past Dead,3
 Unaccompanied Minors,0
-"Bright Lights, Big City",2
-The Adventures of Pinocchio,0
-The Greatest Game Ever Played,3
-The Box,4
-The Ruins,0
-The Next Best Thing,0
-My Soul to Take,3
-The Girl Next Door,0
-Maximum Risk,4
-Stealing Harvard,0
+"Bright Lights, Big City",4
+The Adventures of Pinocchio,1
+The Greatest Game Ever Played,0
+The Box,3
+The Ruins,1
+The Next Best Thing,4
+My Soul to Take,1
+The Girl Next Door,3
+Maximum Risk,3
+Stealing Harvard,1
 Legend,3
-Hot Rod,0
+Hot Rod,3
 Shark Night,0
-Angela's Ashes,5
+Angela's Ashes,1
 Draft Day,3
-Lifeforce,2
+Lifeforce,4
 The Conspirator,3
-Lords of Dogtown,3
+Lords of Dogtown,1
 The 33,3
-Big Trouble in Little China,2
-Fly Me to the Moon,0
+Big Trouble in Little China,4
+Fly Me to the Moon,1
 Warrior,3
-Michael Collins,3
-Gettysburg,5
+Michael Collins,4
+Gettysburg,0
 Stop-Loss,3
-Abandon,0
-Brokedown Palace,0
-The Possession,0
-Mrs. Winterbourne,3
-Straw Dogs,3
+Abandon,1
+Brokedown Palace,1
+The Possession,3
+Mrs. Winterbourne,1
+Straw Dogs,0
 The Hoax,3
-Stone Cold,0
+Stone Cold,4
 The Road,3
-Sheena,2
-Underclassman,0
-Say It Isn't So,0
+Sheena,4
+Underclassman,1
+Say It Isn't So,3
 The World's Fastest Indian,3
-Tank Girl,0
-King's Ransom,0
+Tank Girl,4
+King's Ransom,1
 Blindness,3
 BloodRayne,0
-Carnage,0
-Where the Truth Lies,3
-Cirque du Soleil: Worlds Away,0
-Without Limits,3
-Me and Orson Welles,3
-The Best Offer,3
+Carnage,3
+Where the Truth Lies,1
+Cirque du Soleil: Worlds Away,1
+Without Limits,1
+Me and Orson Welles,1
+The Best Offer,0
 The Bad Lieutenant: Port of Call - New Orleans,3
-A Turtle's Tale: Sammy's Adventures,0
-Little White Lies,5
-Love Ranch,3
-The True Story of Puss 'n Boots,0
+A Turtle's Tale: Sammy's Adventures,1
+Little White Lies,3
+Love Ranch,1
+The True Story of Puss 'n Boots,1
 Space Dogs,0
 The Counselor,3
 Ironclad,3
-Waterloo,2
+Waterloo,4
 Kung Fu Jungle,0
-Red Sky,0
-Dangerous Liaisons,2
+Red Sky,3
+Dangerous Liaisons,4
 On the Road,3
-Star Trek IV: The Voyage Home,2
+Star Trek IV: The Voyage Home,4
 Rocky Balboa,3
-Scream 2,4
-Jane Got a Gun,0
-Think Like a Man Too,0
-The Whole Nine Yards,4
-Footloose,2
+Scream 2,3
+Jane Got a Gun,3
+Think Like a Man Too,3
+The Whole Nine Yards,3
+Footloose,4
 Old School,0
-The Fisher King,5
-I Still Know What You Did Last Summer,4
-Return to Me,3
-Zack and Miri Make a Porno,0
-Nurse Betty,0
-The Men Who Stare at Goats,0
-Double Take,0
+The Fisher King,4
+I Still Know What You Did Last Summer,3
+Return to Me,1
+Zack and Miri Make a Porno,3
+Nurse Betty,1
+The Men Who Stare at Goats,3
+Double Take,1
 "Girl, Interrupted",3
 Win a Date with Tad Hamilton!,0
 Muppets from Space,0
-The Wiz,2
-Ready to Rumble,3
-Play It to the Bone,3
+The Wiz,4
+Ready to Rumble,0
+Play It to the Bone,1
 I Don't Know How She Does It,0
-Piranha 3D,0
-Beyond the Sea,3
-Meet the Deedles,0
-The Thief and the Cobbler,0
-The Bridge of San Luis Rey,3
-Faster,0
-Howl's Moving Castle,4
-Zombieland,0
+Piranha 3D,3
+Beyond the Sea,1
+Meet the Deedles,4
+The Thief and the Cobbler,4
+The Bridge of San Luis Rey,1
+Faster,3
+Howl's Moving Castle,3
+Zombieland,2
 The Waterboy,0
 The Empire Strikes Back,2
-Bad Boys,4
-The Naked Gun 2½: The Smell of Fear,0
-Final Destination,0
-The Ides of March,0
-Pitch Black,4
-Someone Like You...,0
+Bad Boys,3
+The Naked Gun 2½: The Smell of Fear,4
+Final Destination,3
+The Ides of March,3
+Pitch Black,3
+Someone Like You...,3
 Her,3
-Joy Ride,0
-The Adventurer: The Curse of the Midas Box,0
-Anywhere But Here,3
-The Crew,0
-Haywire,0
-Jaws: The Revenge,2
-Marvin's Room,0
-The Longshots,0
-The End of the Affair,3
+Joy Ride,3
+The Adventurer: The Curse of the Midas Box,3
+Anywhere But Here,1
+The Crew,1
+Haywire,3
+Jaws: The Revenge,4
+Marvin's Room,1
+The Longshots,1
+The End of the Affair,1
 Harley Davidson and the Marlboro Man,4
 In the Valley of Elah,3
-Coco Before Chanel,3
-Forsaken,0
-Cheri,0
-Vanity Fair,3
-Bodyguards and Assassins,3
-1408,4
-Spaceballs,2
+Coco Before Chanel,1
+Forsaken,3
+Cheri,1
+Vanity Fair,1
+Bodyguards and Assassins,0
+1408,3
+Spaceballs,4
 The Water Diviner,3
-Ghost,4
-There's Something About Mary,4
-The Santa Clause,4
-The Rookie,3
+Ghost,2
+There's Something About Mary,3
+The Santa Clause,0
+The Rookie,0
 The Game Plan,0
-The Bridges of Madison County,5
-The Animal,0
-Gandhi,5
-The Hundred-Foot Journey,3
-The Net,4
+The Bridges of Madison County,0
+The Animal,3
+Gandhi,4
+The Hundred-Foot Journey,0
+The Net,0
 I Am Sam,3
-Son of God,3
-Underworld,4
+Son of God,0
+Underworld,3
 Derailed,3
 The Informant!,3
-Shadowlands,3
+Shadowlands,1
 Deuce Bigalow: European Gigolo,0
-Delivery Man,0
+Delivery Man,3
 Our Kind of Traitor,3
-Saving Silverman,0
-Diary of a Wimpy Kid: Dog Days,0
-Summer of Sam,3
-Jay and Silent Bob Strike Back,0
+Saving Silverman,4
+Diary of a Wimpy Kid: Dog Days,3
+Summer of Sam,1
+Jay and Silent Bob Strike Back,3
 The Glass House,3
 "Hail, Caesar!",3
-Josie and the Pussycats,0
-Homefront,0
+Josie and the Pussycats,3
+Homefront,3
 The Little Vampire,0
-I Heart Huckabees,0
+I Heart Huckabees,1
 RoboCop 3,4
-Megiddo: The Omega Code 2,0
-Darling Lili,2
-Dudley Do-Right,0
-The Transporter Refueled,0
-The Libertine,3
-Black Book,5
+Megiddo: The Omega Code 2,1
+Darling Lili,4
+Dudley Do-Right,3
+The Transporter Refueled,3
+The Libertine,1
+Black Book,3
 Joyeux Noël,3
-Hit & Run,0
-Mad Money,0
-Before I Go to Sleep,0
-Sorcerer,2
-Stone,3
-Moliere,3
+Hit & Run,3
+Mad Money,1
+Before I Go to Sleep,3
+Sorcerer,4
+Stone,1
+Moliere,1
 Out of the Furnace,3
 Michael Clayton,3
-My Fellow Americans,0
+My Fellow Americans,1
 Arlington Road,3
 Underdogs,0
-To Rome with Love,3
-Firefox,2
-"South Park: Bigger, Longer & Uncut",0
-Death at a Funeral,0
+To Rome with Love,0
+Firefox,4
+"South Park: Bigger, Longer & Uncut",3
+Death at a Funeral,1
 Teenage Mutant Ninja Turtles III,0
-Hardball,0
+Hardball,3
 Silver Linings Playbook,3
 Freedom Writers,3
-For Colored Girls,3
-The Transporter,0
+For Colored Girls,1
+The Transporter,3
 Never Back Down,3
-The Rage: Carrie 2,0
-Away We Go,0
+The Rage: Carrie 2,3
+Away We Go,3
 Swing Vote,3
-Moonlight Mile,3
+Moonlight Mile,1
 Tinker Tailor Soldier Spy,3
-Molly,0
-The Beaver,0
-The Best Little Whorehouse in Texas,2
-eXistenZ,0
+Molly,1
+The Beaver,1
+The Best Little Whorehouse in Texas,4
+eXistenZ,3
 Raiders of the Lost Ark,2
-Home Alone 2: Lost in New York,4
-Close Encounters of the Third Kind,2
+Home Alone 2: Lost in New York,2
+Close Encounters of the Third Kind,0
 Pulse,0
-Beverly Hills Cop II,4
+Beverly Hills Cop II,0
 Bringing Down the House,0
-The Silence of the Lambs,4
+The Silence of the Lambs,2
 Wayne's World,0
 Jackass 3D,0
-Jaws 2,2
+Jaws 2,4
 Beverly Hills Chihuahua,0
-The Conjuring,4
+The Conjuring,3
 Are We There Yet?,0
-Tammy,0
-School of Rock,4
-Mortal Kombat,4
-White Chicks,4
-The Descendants,3
-Holes,3
-The Last Song,3
+Tammy,3
+School of Rock,3
+Mortal Kombat,0
+White Chicks,3
+The Descendants,0
+Holes,4
+The Last Song,1
 12 Years a Slave,3
-Drumline,3
-Why Did I Get Married Too?,3
-Edward Scissorhands,2
+Drumline,0
+Why Did I Get Married Too?,0
+Edward Scissorhands,0
 Me Before You,3
-Madea's Witness Protection,3
-The French Connection,2
+Madea's Witness Protection,1
+The French Connection,4
 Bad Moms,0
-Date Movie,0
+Date Movie,3
 Return to Never Land,0
 Selma,3
 The Jungle Book 2,0
-Boogeyman,0
-Premonition,0
+Boogeyman,3
+Premonition,3
 The Tigger Movie,0
 Orphan,3
 Max,3
 Epic Movie,0
 Spotlight,3
 Lakeview Terrace,3
-The Grudge 2,0
-How Stella Got Her Groove Back,3
-Bill & Ted's Bogus Journey,0
+The Grudge 2,3
+How Stella Got Her Groove Back,1
+Bill & Ted's Bogus Journey,4
 Man of the Year,3
-The Black Hole,2
+The Black Hole,4
 The American,3
-Selena,3
-Vampires Suck,0
-Babel,5
-This Is Where I Leave You,0
+Selena,4
+Vampires Suck,3
+Babel,3
+This Is Where I Leave You,3
 Doubt,3
-Team America: World Police,4
-Texas Chainsaw 3D,0
-Copycat,3
-Scary Movie 5,0
-Paint Your Wagon,2
-Milk,3
+Team America: World Police,3
+Texas Chainsaw 3D,3
+Copycat,1
+Scary Movie 5,3
+Paint Your Wagon,4
+Milk,0
 Risen,3
-Ghost Ship,4
-A Very Harold & Kumar Christmas,0
-Wild Things,3
-The Stepfather,0
+Ghost Ship,3
+A Very Harold & Kumar Christmas,3
+Wild Things,4
+The Stepfather,1
 The Debt,3
-High Fidelity,3
-One Missed Call,0
-Eye for an Eye,0
+High Fidelity,4
+One Missed Call,3
+Eye for an Eye,1
 The Bank Job,3
 Eternal Sunshine of the Spotless Mind,3
-You Again,0
+You Again,3
 Street Kings,3
-The World's End,0
-Nancy Drew,0
-Daybreakers,4
-She's Out of My League,0
-Monte Carlo,0
-Stay Alive,0
-Quigley Down Under,2
+The World's End,3
+Nancy Drew,3
+Daybreakers,3
+She's Out of My League,3
+Monte Carlo,3
+Stay Alive,3
+Quigley Down Under,4
 Alpha and Omega,0
-The Covenant,4
-Stick It,0
-Shorts,0
-To Die For,3
-Nerve,0
+The Covenant,3
+Stick It,1
+Shorts,3
+To Die For,4
+Nerve,3
 Appaloosa,3
 Vampires,3
-Psycho,2
-My Best Friend's Girl,0
-Endless Love,3
-Georgia Rule,3
-Under the Rainbow,2
-Ladyhawke,2
-Simon Birch,3
+Psycho,4
+My Best Friend's Girl,3
+Endless Love,0
+Georgia Rule,1
+Under the Rainbow,4
+Ladyhawke,4
+Simon Birch,1
 Reign Over Me,3
-Into the Wild,5
-School for Scoundrels,0
-Silent Hill: Revelation 3D,0
-From Dusk Till Dawn,4
-Pooh's Heffalump Movie,0
-Home for the Holidays,0
+Into the Wild,3
+School for Scoundrels,1
+Silent Hill: Revelation 3D,3
+From Dusk Till Dawn,3
+Pooh's Heffalump Movie,1
+Home for the Holidays,1
 Kung Fu Hustle,0
-The Country Bears,0
-The Kite Runner,3
+The Country Bears,3
+The Kite Runner,0
 21 Grams,3
-Paparazzi,0
-A Guy Thing,0
-Loser,0
-Capitalism: A Love Story,3
-The Greatest Story Ever Told,5
-Secret in Their Eyes,3
+Paparazzi,3
+A Guy Thing,1
+Loser,1
+Capitalism: A Love Story,0
+The Greatest Story Ever Told,4
+Secret in Their Eyes,1
 Disaster Movie,0
-Armored,0
-The Man Who Knew Too Little,0
+Armored,1
+The Man Who Knew Too Little,3
 What's Your Number?,0
-Lockout,0
-Envy,0
-Crank: High Voltage,0
-Bullets Over Broadway,0
+Lockout,3
+Envy,3
+Crank: High Voltage,3
+Bullets Over Broadway,1
 One Night with the King,3
 The Quiet American,3
-The Weather Man,0
+The Weather Man,3
 Undisputed,0
-Ghost Town,0
+Ghost Town,1
 12 Rounds,3
 Let Me In,3
-3 Ninjas Kick Back,0
-Be Kind Rewind,0
-Mrs Henderson Presents,0
+3 Ninjas Kick Back,1
+Be Kind Rewind,1
+Mrs Henderson Presents,1
 Triple 9,3
-Deconstructing Harry,0
-Three to Tango,0
-Burnt,0
-We're No Angels,2
-Everyone Says I Love You,0
+Deconstructing Harry,1
+Three to Tango,3
+Burnt,3
+We're No Angels,4
+Everyone Says I Love You,3
 Death Sentence,3
-Everybody's Fine,0
+Everybody's Fine,3
 Superbabies: Baby Geniuses 2,0
-The Man,0
+The Man,1
 Code Name: The Cleaner,0
 Connie and Carla,0
-Sweet Charity,2
+Sweet Charity,4
 Inherent Vice,3
-Doogal,0
+Doogal,1
 Battle of the Year,3
 An American Carol,0
-Machete Kills,0
-Willard,0
-Strange Wilderness,0
-Topsy-Turvy,5
+Machete Kills,3
+Willard,3
+Strange Wilderness,1
+Topsy-Turvy,1
 Little Boy,3
 A Dangerous Method,3
-A Scanner Darkly,0
-Chasing Mavericks,3
+A Scanner Darkly,3
+Chasing Mavericks,1
 Alone in the Dark,0
-Bandslam,3
-Birth,3
+Bandslam,1
+Birth,1
 A Most Violent Year,3
-Passchendaele,3
-Flash of Genius,3
+Passchendaele,1
+Flash of Genius,1
 I'm Not There.,3
-The Cold Light of Day,0
+The Cold Light of Day,3
 The Brothers Bloom,3
-"Synecdoche, New York",3
-Princess Mononoke,4
-Bon voyage,3
-Can't Stop the Music,2
-The Proposition,3
-My All American,3
+"Synecdoche, New York",1
+Princess Mononoke,0
+Bon voyage,1
+Can't Stop the Music,4
+The Proposition,1
+My All American,1
 Marci X,0
-Equilibrium,4
-The Children of Huang Shi,3
-The Yards,3
-The Oogieloves in the Big Balloon Adventure,0
+Equilibrium,3
+The Children of Huang Shi,0
+The Yards,1
+The Oogieloves in the Big Balloon Adventure,1
 By the Sea,3
-Steamboy,3
-The Game of Their Lives,0
-All Good Things,3
-Rapa Nui,0
-CJ7,0
-The Visitors II: The Corridors of Time,3
+Steamboy,4
+The Game of Their Lives,1
+All Good Things,1
+Rapa Nui,4
+CJ7,1
+The Visitors II: The Corridors of Time,1
 Dylan Dog: Dead of Night,0
-People I Know,0
-The Tempest,3
-Regression,0
-Three Kingdoms: Resurrection of the Dragon,3
-Butterfly on a Wheel,0
+People I Know,1
+The Tempest,1
+Regression,3
+Three Kingdoms: Resurrection of the Dragon,1
+Butterfly on a Wheel,1
 Zambezia,0
-Ramanujan,5
+Ramanujan,1
 Dwegons,0
-Hands of Stone,3
-Survivor,0
-The Frozen Ground,0
-The Painted Veil,3
-The Baader Meinhof Complex,5
-Dances with Wolves,5
-Bad Teacher,0
-Sea of Love,2
-A Cinderella Story,0
-Scream,4
-Thir13en Ghosts,0
-The Shining,2
-Back to the Future,4
-House on Haunted Hill,0
-I Can Do Bad All By Myself,3
+Hands of Stone,1
+Survivor,3
+The Frozen Ground,3
+The Painted Veil,1
+The Baader Meinhof Complex,3
+Dances with Wolves,0
+Bad Teacher,3
+Sea of Love,4
+A Cinderella Story,3
+Scream,3
+Thir13en Ghosts,3
+The Shining,0
+Back to the Future,2
+House on Haunted Hill,3
+I Can Do Bad All By Myself,1
 Fight Valley,0
 The Switch,0
-Just Married,0
+Just Married,3
 The Devil's Double,3
-Thomas and the Magic Railroad,0
-The Crazies,0
-Spirited Away,4
-Firestorm,3
-The Bounty,2
+Thomas and the Magic Railroad,1
+The Crazies,3
+Spirited Away,2
+Firestorm,1
+The Bounty,4
 The Book Thief,3
-Sex Drive,0
+Sex Drive,3
 Leap Year,0
-The Fall of the Roman Empire,5
-Take Me Home Tonight,0
-Won't Back Down,3
-The Nutcracker,0
-Kansas City,3
-Indignation,3
-The Amityville Horror,0
+The Fall of the Roman Empire,4
+Take Me Home Tonight,3
+Won't Back Down,1
+The Nutcracker,1
+Kansas City,1
+Indignation,1
+The Amityville Horror,3
 Adaptation.,3
-Land of the Dead,0
-Out of Inferno,0
+Land of the Dead,3
+Out of Inferno,1
 Fear and Loathing in Las Vegas,3
-The Invention of Lying,0
-Neighbors,0
-The Mask,4
-Big,2
-Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,0
-Legally Blonde,0
-Star Trek III: The Search for Spock,2
+The Invention of Lying,3
+Neighbors,3
+The Mask,2
+Big,0
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,3
+Legally Blonde,3
+Star Trek III: The Search for Spock,4
 The Exorcism of Emily Rose,3
 Deuce Bigalow: Male Gigolo,0
 Left Behind,3
-The Family Stone,0
-Barbershop 2:  Back in Business,3
+The Family Stone,1
+Barbershop 2:  Back in Business,0
 Bad Santa,0
-Austin Powers: International Man of Mystery,0
-My Big Fat Greek Wedding 2,0
+Austin Powers: International Man of Mystery,3
+My Big Fat Greek Wedding 2,3
 Diary of a Wimpy Kid: Rodrick Rules,0
-Predator,2
-Amadeus,5
-Prom Night,0
-Mean Girls,0
-Under the Tuscan Sun,3
+Predator,0
+Amadeus,4
+Prom Night,3
+Mean Girls,3
+Under the Tuscan Sun,1
 Gosford Park,3
-Peggy Sue Got Married,2
+Peggy Sue Got Married,4
 Birdman,3
-Blue Jasmine,0
+Blue Jasmine,3
 United 93,3
-Honey,0
-Spy Hard,0
-The Fog,2
-Soul Surfer,3
-Catch-22,2
-Observe and Report,0
-Conan the Destroyer,2
-Raging Bull,2
-Love Happens,3
-Young Sherlock Holmes,2
-Fame,3
-127 Hours,0
-Small Time Crooks,0
-Center Stage,3
+Honey,3
+Spy Hard,4
+The Fog,4
+Soul Surfer,0
+Catch-22,4
+Observe and Report,1
+Conan the Destroyer,4
+Raging Bull,4
+Love Happens,1
+Young Sherlock Holmes,4
+Fame,1
+127 Hours,3
+Small Time Crooks,1
+Center Stage,1
 Love the Coopers,0
-Catch That Kid,0
-Life as a House,3
+Catch That Kid,3
+Life as a House,1
 Steve Jobs,3
-"I Love You, Beth Cooper",0
-Youth in Revolt,0
-The Legend of the Lone Ranger,2
+"I Love You, Beth Cooper",1
+Youth in Revolt,1
+The Legend of the Lone Ranger,4
 The Tailor of Panama,3
-Blow Out,2
-Getaway,0
-The Ice Storm,3
-And So It Goes,0
-Troop Beverly Hills,2
-Being Julia,0
-Nine 1/2 Weeks,2
-Dragonslayer,2
-The Last Station,3
-Ed Wood,3
+Blow Out,4
+Getaway,3
+The Ice Storm,1
+And So It Goes,3
+Troop Beverly Hills,4
+Being Julia,1
+Nine 1/2 Weeks,4
+Dragonslayer,4
+The Last Station,1
+Ed Wood,4
 Labor Day,3
 Mongol: The Rise of Genghis Khan,3
 RockNRolla,3
-Megaforce,2
-Hamlet,5
-Mao's Last Dancer,3
+Megaforce,4
+Hamlet,4
+Mao's Last Dancer,1
 Midnight Special,3
-Anything Else,0
-The Railway Man,3
-The White Ribbon,3
-Restoration,0
-The Wraith,2
-Salton Sea,3
-Metallica: Through the Never,0
-The Informers,0
-Carlos,5
-I Come with the Rain,3
-One Man's Hero,3
-Day of the Dead,2
-I Am Wrath,0
-Renaissance,0
-Red Sonja,2
+Anything Else,1
+The Railway Man,1
+The White Ribbon,1
+Restoration,1
+The Wraith,4
+Salton Sea,1
+Metallica: Through the Never,1
+The Informers,1
+Carlos,0
+I Come with the Rain,1
+One Man's Hero,1
+Day of the Dead,4
+I Am Wrath,3
+Renaissance,1
+Red Sonja,4
 Red Lights,3
 Superbad,3
-Madea Goes to Jail,0
-Wolves,0
-Step Up 2: The Streets,0
+Madea Goes to Jail,1
+Wolves,1
+Step Up 2: The Streets,3
 Hoodwinked!,0
 Hotel Rwanda,3
-Hitman,4
-Black Nativity,0
-The Prince,4
-City of Ghosts,3
-The Others,0
-Aliens,2
-My Fair Lady,5
-I Know What You Did Last Summer,4
-Let's Be Cops,0
+Hitman,3
+Black Nativity,1
+The Prince,3
+City of Ghosts,1
+The Others,3
+Aliens,0
+My Fair Lady,4
+I Know What You Did Last Summer,3
+Let's Be Cops,3
 Sideways,3
-Beerfest,0
-Halloween,2
-Good Boy!,0
-The Best Man Holiday,3
-Smokin' Aces,4
-Saw: The Final Chapter,0
-40 Days and 40 Nights,0
-A Night at the Roxbury,0
+Beerfest,3
+Halloween,4
+Good Boy!,1
+The Best Man Holiday,0
+Smokin' Aces,3
+Saw: The Final Chapter,3
+40 Days and 40 Nights,3
+A Night at the Roxbury,4
 Beastly,0
-The Hills Have Eyes,0
-Dickie Roberts: Former Child Star,0
-"McFarland, USA",3
-Lottery Ticket,0
-ATL,3
+The Hills Have Eyes,3
+Dickie Roberts: Former Child Star,1
+"McFarland, USA",1
+Lottery Ticket,1
+ATL,1
 Pitch Perfect,3
-Summer Catch,3
-A Simple Plan,3
-They,0
-Larry the Cable Guy: Health Inspector,0
-The Adventures of Elmo in Grouchland,0
+Summer Catch,0
+A Simple Plan,1
+They,3
+Larry the Cable Guy: Health Inspector,1
+The Adventures of Elmo in Grouchland,1
 Brooklyn's Finest,3
-55 Days at Peking,2
-Evil Dead,0
-My Life in Ruins,0
+55 Days at Peking,4
+Evil Dead,3
+My Life in Ruins,1
 American Dreamz,3
-Superman IV: The Quest for Peace,2
-How She Move,0
+Superman IV: The Quest for Peace,4
+How She Move,1
 Running Scared,3
-Bobby Jones: Stroke of Genius,3
-Shanghai Surprise,2
+Bobby Jones: Stroke of Genius,1
+Shanghai Surprise,4
 The Illusionist,3
-Roar,2
-Veronica Guerin,0
+Roar,4
+Veronica Guerin,1
 Escobar: Paradise Lost,3
 Southland Tales,3
-Dragon Hunters,0
-Damnation Alley,2
-The Apparition,0
-My Girl,0
-Fur: An Imaginary Portrait of Diane Arbus,3
-Wall Street,2
-Sense and Sensibility,5
+Dragon Hunters,1
+Damnation Alley,4
+The Apparition,1
+My Girl,4
+Fur: An Imaginary Portrait of Diane Arbus,1
+Wall Street,4
+Sense and Sensibility,0
 Becoming Jane,3
-Sydney White,0
+Sydney White,3
 House of Sand and Fog,3
-Dead Poets Society,5
-Dumb and Dumber,4
-When Harry Met Sally...,0
-The Verdict,2
-Road Trip,0
-Varsity Blues,3
-The Artist,0
-The Unborn,0
-Moonrise Kingdom,0
-The Texas Chainsaw Massacre: The Beginning,0
-The Young Messiah,3
-The Master of Disguise,0
+Dead Poets Society,0
+Dumb and Dumber,3
+When Harry Met Sally...,4
+The Verdict,4
+Road Trip,3
+Varsity Blues,1
+The Artist,3
+The Unborn,3
+Moonrise Kingdom,3
+The Texas Chainsaw Massacre: The Beginning,3
+The Young Messiah,1
+The Master of Disguise,1
 Pan's Labyrinth,3
-See Spot Run,0
-Baby Boy,3
-The Roommate,0
+See Spot Run,1
+Baby Boy,1
+The Roommate,1
 Joe Dirt,0
-Double Impact,3
+Double Impact,4
 Hot Fuzz,3
-The Women,3
+The Women,0
 Vicky Cristina Barcelona,0
 Arn: The Knight Templar,3
-Boys and Girls,0
-White Oleander,3
-Jennifer's Body,0
-Drowning Mona,0
-Radio Days,2
+Boys and Girls,1
+White Oleander,1
+Jennifer's Body,3
+Drowning Mona,1
+Radio Days,4
 Remember Me,3
-How to Deal,0
-My Stepmother is an Alien,2
-Philadelphia,3
-The Thirteenth Floor,0
-The Cookout,0
-Meteor,2
-Duets,3
-Hollywood Ending,3
-Detroit Rock City,0
-Highlander,2
-Things We Lost in the Fire,3
-Steel,0
+How to Deal,1
+My Stepmother is an Alien,4
+Philadelphia,0
+The Thirteenth Floor,3
+The Cookout,1
+Meteor,4
+Duets,1
+Hollywood Ending,1
+Detroit Rock City,1
+Highlander,4
+Things We Lost in the Fire,1
+Steel,3
 The Immigrant,3
-The White Countess,3
+The White Countess,1
 Trance,3
-Soul Plane,0
-Welcome to the Sticks,0
-Good,0
-Enter the Void,5
-Vamps,0
-Hachi: A Dog's Tale,0
+Soul Plane,1
+Welcome to the Sticks,3
+Good,1
+Enter the Void,3
+Vamps,1
+Hachi: A Dog's Tale,3
 Zulu,3
 The Homesman,3
-Juwanna Mann,0
-Ararat,3
-Madison,0
-Slow Burn,0
-Wasabi,0
+Juwanna Mann,1
+Ararat,1
+Madison,1
+Slow Burn,3
+Wasabi,1
 Slither,0
-Beverly Hills Cop,2
-Home Alone,4
-Three Men and a Baby,2
-Tootsie,2
-Top Gun,4
-"Crouching Tiger, Hidden Dragon",4
-American Beauty,4
-The King's Speech,4
-Twins,2
-The Yellow Handkerchief,3
-The Color Purple,5
+Beverly Hills Cop,0
+Home Alone,2
+Three Men and a Baby,4
+Tootsie,4
+Top Gun,2
+"Crouching Tiger, Hidden Dragon",0
+American Beauty,3
+The King's Speech,3
+Twins,0
+The Yellow Handkerchief,1
+The Color Purple,4
 Tidal Wave,3
 The Imitation Game,3
-Private Benjamin,2
-Coal Miner's Daughter,2
-Diary of a Wimpy Kid,0
-Mama,0
-National Lampoon's Vacation,2
+Private Benjamin,4
+Coal Miner's Daughter,4
+Diary of a Wimpy Kid,3
+Mama,3
+National Lampoon's Vacation,4
 Bad Grandpa,0
 The Queen,3
-Beetlejuice,2
-Why Did I Get Married?,3
-Little Women,3
-The Woman in Black,0
-When a Stranger Calls,0
+Beetlejuice,4
+Why Did I Get Married?,1
+Little Women,1
+The Woman in Black,3
+When a Stranger Calls,3
 Big Fat Liar,0
-The Deer Hunter,5
-Wag the Dog,0
+The Deer Hunter,4
+Wag the Dog,4
 The Lizzie McGuire Movie,0
 Snitch,3
-Krampus,0
-The Faculty,0
-What's Love Got to Do with It,3
+Krampus,3
+The Faculty,3
+What's Love Got to Do with It,1
 Cop Land,3
-Not Another Teen Movie,0
+Not Another Teen Movie,3
 End of Watch,3
-The Skulls,3
+The Skulls,1
 The Theory of Everything,3
-Malibu's Most Wanted,0
-Where the Heart Is,3
-Lawrence of Arabia,5
-Halloween II,0
+Malibu's Most Wanted,1
+Where the Heart Is,1
+Lawrence of Arabia,4
+Halloween II,3
 Wild,3
 The Last House on the Left,3
-The Wedding Date,0
-Halloween: Resurrection,0
-The Princess Bride,2
+The Wedding Date,3
+Halloween: Resurrection,1
+The Princess Bride,4
 The Great Debaters,3
-Drive,0
-Confessions of a Teenage Drama Queen,0
-The Object of My Affection,3
-28 Weeks Later,0
-When the Game Stands Tall,3
-Because of Winn-Dixie,0
+Drive,3
+Confessions of a Teenage Drama Queen,1
+The Object of My Affection,1
+28 Weeks Later,3
+When the Game Stands Tall,1
+Because of Winn-Dixie,1
 Love & Basketball,3
-Grosse Pointe Blank,0
-All About Steve,0
-Book of Shadows: Blair Witch 2,0
-The Craft,0
+Grosse Pointe Blank,1
+All About Steve,3
+Book of Shadows: Blair Witch 2,1
+The Craft,4
 Match Point,3
-Ramona and Beezus,0
-The Remains of the Day,3
-Boogie Nights,5
-Nowhere to Run,0
-Flicka,0
-The Hills Have Eyes 2,0
+Ramona and Beezus,3
+The Remains of the Day,4
+Boogie Nights,4
+Nowhere to Run,4
+Flicka,1
+The Hills Have Eyes 2,3
 Urban Legends: Final Cut,0
-Tuck Everlasting,0
-The Marine,0
-Keanu,0
-Country Strong,3
-Disturbing Behavior,0
+Tuck Everlasting,1
+The Marine,3
+Keanu,3
+Country Strong,1
+Disturbing Behavior,3
 The Place Beyond the Pines,3
 The November Man,3
-Eye of the Beholder,3
+Eye of the Beholder,1
 The Hurt Locker,3
-Firestarter,2
-Killing Them Softly,0
+Firestarter,4
+Killing Them Softly,3
 A Most Wanted Man,3
-Freddy Got Fingered,0
+Freddy Got Fingered,1
 VeggieTales: The Pirates Who Don't Do Anything,0
-U2 3D,0
-Highlander: Endgame,0
-Idlewild,3
-One Day,3
-Whip It,3
-Knockaround Guys,0
-Confidence,0
-The Muse,0
-De-Lovely,3
-New York Stories,3
+U2 3D,1
+Highlander: Endgame,3
+Idlewild,1
+One Day,0
+Whip It,0
+Knockaround Guys,1
+Confidence,1
+The Muse,1
+De-Lovely,1
+New York Stories,4
 Barney's Great Adventure,0
 The Man with the Iron Fists,0
-Home Fries,0
-Here On Earth,0
-Brazil,2
-Raise Your Voice,3
+Home Fries,1
+Here On Earth,1
+Brazil,4
+Raise Your Voice,1
 The Big Lebowski,3
-Black Snake Moan,3
-Dark Blue,3
-A Mighty Heart,3
-Whatever It Takes,0
-Boat Trip,0
-The Importance of Being Earnest,0
-The Love Letter,0
-Hoot,0
+Black Snake Moan,1
+Dark Blue,1
+A Mighty Heart,1
+Whatever It Takes,1
+Boat Trip,3
+The Importance of Being Earnest,1
+The Love Letter,1
+Hoot,1
 In Bruges,3
-Peeples,0
-The Rocker,0
-Post Grad,0
-Promised Land,3
-Whatever Works,0
-The In Crowd,0
+Peeples,1
+The Rocker,1
+Post Grad,3
+Promised Land,1
+Whatever Works,1
+The In Crowd,1
 The Three Burials of Melquiades Estrada,3
-Jakob the Liar,3
-Kiss Kiss Bang Bang,0
-Idle Hands,0
-Mulholland Drive,5
-Blood and Chocolate,0
-You Will Meet a Tall Dark Stranger,0
+Jakob the Liar,1
+Kiss Kiss Bang Bang,3
+Idle Hands,3
+Mulholland Drive,3
+Blood and Chocolate,3
+You Will Meet a Tall Dark Stranger,1
 Never Let Me Go,3
-The Company,5
-Transsiberian,3
-The Clan of the Cave Bear,2
-Crazy in Alabama,3
+The Company,0
+Transsiberian,1
+The Clan of the Cave Bear,4
+Crazy in Alabama,1
 Funny Games,3
-Listening,0
-Felicia's Journey,3
-Metropolis,2
-District B13,0
-Things to Do in Denver When You're Dead,3
+Listening,3
+Felicia's Journey,1
+Metropolis,4
+District B13,3
+Things to Do in Denver When You're Dead,1
 The Assassin,3
-Buffalo Soldiers,0
-The Return,3
+Buffalo Soldiers,1
+The Return,1
 Ong Bak 2,0
-Centurion,0
-Silent Trigger,0
-The Midnight Meat Train,0
-Winnie Mandela,3
-The Son of No One,0
-All The Queen's Men,0
-The Good Night,0
-Bathory: Countess of Blood,3
+Centurion,3
+Silent Trigger,1
+The Midnight Meat Train,1
+Winnie Mandela,1
+The Son of No One,1
+All The Queen's Men,1
+The Good Night,1
+Bathory: Countess of Blood,1
 Khumba,0
 Automata,3
-Dungeons & Dragons: Wrath of the Dragon God,0
-Shinjuku Incident,3
-Pandaemonium,3
+Dungeons & Dragons: Wrath of the Dragon God,3
+Shinjuku Incident,1
+Pandaemonium,1
 Groundhog Day,0
 Magic Mike XXL,3
-Romeo + Juliet,3
-Sarah's Key,3
-Freedom,0
-Unforgiven,3
-Manderlay,3
-Slumdog Millionaire,4
-Fatal Attraction,2
-Pretty Woman,4
-Crocodile Dundee II,2
-Broken Horses,0
-Born on the Fourth of July,5
+Romeo + Juliet,0
+Sarah's Key,1
+Freedom,1
+Unforgiven,0
+Manderlay,1
+Slumdog Millionaire,3
+Fatal Attraction,0
+Pretty Woman,2
+Crocodile Dundee II,0
+Broken Horses,1
+Born on the Fourth of July,4
 Cool Runnings,0
-My Bloody Valentine,0
+My Bloody Valentine,3
 Stomp the Yard,3
-The Spy Who Loved Me,2
-Urban Legend,0
-Good Deeds,3
-White Fang,2
-Superstar,0
+The Spy Who Loved Me,4
+Urban Legend,3
+Good Deeds,1
+White Fang,4
+Superstar,1
 The Iron Lady,3
-Jonah: A VeggieTales Movie,0
-Poetic Justice,3
+Jonah: A VeggieTales Movie,1
+Poetic Justice,4
 All About the Benjamins,0
-Vampire in Brooklyn,0
-Exorcist II: The Heretic,2
-An American Haunting,0
-My Boss's Daughter,0
-A Perfect Getaway,0
+Vampire in Brooklyn,4
+Exorcist II: The Heretic,4
+An American Haunting,3
+My Boss's Daughter,1
+A Perfect Getaway,3
 Our Family Wedding,0
-Dead Man on Campus,0
-Tea with Mussolini,3
-Thinner,0
-"New York, New York",5
-Crooklyn,3
-I Think I Love My Wife,0
-Jason X,0
-Bobby,3
-Head Over Heels,0
-Fun Size,0
-The Diving Bell and the Butterfly,3
+Dead Man on Campus,1
+Tea with Mussolini,1
+Thinner,1
+"New York, New York",4
+Crooklyn,1
+I Think I Love My Wife,1
+Jason X,3
+Bobby,1
+Head Over Heels,1
+Fun Size,1
+The Diving Bell and the Butterfly,1
 Little Children,3
-Gossip,0
-A Walk on the Moon,3
-Catch a Fire,3
-Soul Survivors,0
-Jefferson in Paris,5
-Easy Virtue,0
-Caravans,2
+Gossip,1
+A Walk on the Moon,1
+Catch a Fire,1
+Soul Survivors,1
+Jefferson in Paris,1
+Easy Virtue,1
+Caravans,4
 Mr. Turner,3
-Wild Grass,3
-Amen.,3
-Reign of Assassins,3
-The Lucky Ones,3
+Wild Grass,1
+Amen.,1
+Reign of Assassins,1
+The Lucky Ones,1
 Margaret,3
-Stan Helsing,0
-Flipped,0
+Stan Helsing,1
+Flipped,3
 Brokeback Mountain,3
-Clueless,0
-Far from Heaven,3
-Hot Tub Time Machine 2,0
-Quills,3
+Clueless,4
+Far from Heaven,1
+Hot Tub Time Machine 2,3
+Quills,1
 Seven Psychopaths,3
-The Caveman's Valentine,3
-Downfall,5
+The Caveman's Valentine,1
+Downfall,3
 The Sea Inside,3
 Under the Skin,3
-"Good Morning, Vietnam",2
-The Last Godfather,0
+"Good Morning, Vietnam",4
+The Last Godfather,1
 Justin Bieber: Never Say Never,0
-Black Swan,4
-The Godfather: Part II,5
+Black Swan,3
+The Godfather: Part II,0
 Save the Last Dance,3
-A Nightmare on Elm Street 4: The Dream Master,2
-Miracles from Heaven,3
-"Dude, Where’s My Car?",0
-Young Guns,2
-St. Vincent,0
+A Nightmare on Elm Street 4: The Dream Master,4
+Miracles from Heaven,0
+"Dude, Where’s My Car?",3
+Young Guns,4
+St. Vincent,3
 About Last Night,0
-10 Things I Hate About You,0
-The New Guy,0
-National Lampoon's Loaded Weapon 1,0
-The Shallows,0
-The Butterfly Effect,4
-Snow Day,0
-This Christmas,3
+10 Things I Hate About You,3
+The New Guy,3
+National Lampoon's Loaded Weapon 1,4
+The Shallows,3
+The Butterfly Effect,3
+Snow Day,1
+This Christmas,1
 Baby Geniuses,0
-The Big Hit,0
-Harriet the Spy,0
-Child's Play 2,0
-No Good Deed,0
+The Big Hit,4
+Harriet the Spy,1
+Child's Play 2,4
+No Good Deed,3
 The Mist,3
 Ex Machina,3
 Being John Malkovich,3
-Two Can Play That Game,0
-Earth to Echo,0
-Crazy/Beautiful,0
-Letters from Iwo Jima,5
-The Astronaut Farmer,0
-Woo,0
+Two Can Play That Game,1
+Earth to Echo,3
+Crazy/Beautiful,1
+Letters from Iwo Jima,3
+The Astronaut Farmer,3
+Woo,1
 Room,3
-Dirty Work,0
-Serial Mom,0
-Dick,0
-Light It Up,0
-54,3
-Bubble Boy,0
-Birthday Girl,0
-21 & Over,0
-"Paris, je t'aime",3
-Resurrecting the Champ,3
-Admission,3
-The Widow of Saint-Pierre,3
-Chloe,0
-Faithful,0
-Find Me Guilty,3
+Dirty Work,1
+Serial Mom,1
+Dick,1
+Light It Up,1
+54,1
+Bubble Boy,1
+Birthday Girl,1
+21 & Over,3
+"Paris, je t'aime",1
+Resurrecting the Champ,1
+Admission,1
+The Widow of Saint-Pierre,1
+Chloe,3
+Faithful,1
+Find Me Guilty,1
 The Perks of Being a Wallflower,3
-Excessive Force,0
+Excessive Force,1
 Infamous,3
 The Claim,3
-The Vatican Tapes,0
-Attack the Block,0
-In the Land of Blood and Honey,3
-The Call,0
-Operation Chromite,3
+The Vatican Tapes,3
+Attack the Block,3
+In the Land of Blood and Honey,1
+The Call,3
+Operation Chromite,1
 The Crocodile Hunter: Collision Course,0
-I Love You Phillip Morris,0
-Quest for Fire,2
-Antwone Fisher,3
-The Emperor's Club,3
-True Romance,3
-Womb,3
-Glengarry Glen Ross,0
-The Killer Inside Me,3
-Cat People,2
-Sorority Row,0
-The Prisoner of Zenda,2
-Lars and the Real Girl,3
-The Boy in the Striped Pyjamas,0
-Dancer in the Dark,5
-Oscar and Lucinda,3
-The Funeral,0
-Solitary Man,0
-Machete,0
-Casino Jack,3
-The Land Before Time,0
-Tae Guk Gi: The Brotherhood of War,3
-The Perfect Game,3
-The Exorcist,2
+I Love You Phillip Morris,3
+Quest for Fire,4
+Antwone Fisher,1
+The Emperor's Club,1
+True Romance,4
+Womb,1
+Glengarry Glen Ross,4
+The Killer Inside Me,1
+Cat People,4
+Sorority Row,3
+The Prisoner of Zenda,4
+Lars and the Real Girl,1
+The Boy in the Striped Pyjamas,3
+Dancer in the Dark,3
+Oscar and Lucinda,1
+The Funeral,1
+Solitary Man,1
+Machete,3
+Casino Jack,1
+The Land Before Time,4
+Tae Guk Gi: The Brotherhood of War,1
+The Perfect Game,1
+The Exorcist,0
 Jaws,2
-American Pie,0
-Ernest & Celestine,0
-The Golden Child,2
+American Pie,3
+Ernest & Celestine,1
+The Golden Child,4
 Think Like a Man,3
-Barbershop,0
-Star Trek II: The Wrath of Khan,2
+Barbershop,1
+Star Trek II: The Wrath of Khan,4
 Ace Ventura: Pet Detective,0
-WarGames,2
-Witness,2
-Act of Valor,4
+WarGames,4
+Witness,4
+Act of Valor,3
 Step Up,3
-Beavis and Butt-Head Do America,0
-Jackie Brown,5
+Beavis and Butt-Head Do America,4
+Jackie Brown,0
 Harold & Kumar Escape from Guantanamo Bay,0
-Chronicle,0
-Yentl,2
-Time Bandits,2
+Chronicle,3
+Yentl,4
+Time Bandits,4
 Crossroads,0
-Project X,0
-Patton,5
-One Hour Photo,0
-Quarantine,0
-The Eye,0
+Project X,3
+Patton,4
+One Hour Photo,3
+Quarantine,3
+The Eye,3
 Johnson Family Vacation,0
-How High,0
-The Muppet Christmas Carol,0
+How High,3
+The Muppet Christmas Carol,4
 Frida,3
-Katy Perry: Part of Me,0
+Katy Perry: Part of Me,1
 The Fault in Our Stars,3
 Rounders,3
-Top Five,0
-Prophecy,2
-Stir of Echoes,0
-Philomena,0
-The Upside of Anger,3
-The Boys from Brazil,2
-Aquamarine,0
+Top Five,1
+Prophecy,4
+Stir of Echoes,1
+Philomena,3
+The Upside of Anger,1
+The Boys from Brazil,4
+Aquamarine,3
 Paper Towns,3
-My Baby's Daddy,0
+My Baby's Daddy,1
 Nebraska,3
-Tales from the Crypt: Demon Knight,0
+Tales from the Crypt: Demon Knight,1
 Max Keeble's Big Move,0
-Young Adult,0
-Crank,0
-Def Jam's How to Be a Player,0
-Living Out Loud,0
-Just Wright,0
-Rachel Getting Married,3
-The Postman Always Rings Twice,2
-Girl with a Pearl Earring,3
-Das Boot,5
-Sorority Boys,0
+Young Adult,3
+Crank,3
+Def Jam's How to Be a Player,1
+Living Out Loud,1
+Just Wright,1
+Rachel Getting Married,1
+The Postman Always Rings Twice,4
+Girl with a Pearl Earring,1
+Das Boot,4
+Sorority Boys,1
 About Time,3
 House of Flying Daggers,3
-Arbitrage,0
-Project Almanac,0
-Cadillac Records,3
-Screwed,0
-Fortress,0
-For Your Consideration,0
-Celebrity,3
-Running with Scissors,3
-From Justin to Kelly,0
-Girl 6,0
-In the Cut,3
-Two Lovers,3
-Last Orders,3
+Arbitrage,3
+Project Almanac,3
+Cadillac Records,1
+Screwed,1
+Fortress,4
+For Your Consideration,1
+Celebrity,1
+Running with Scissors,1
+From Justin to Kelly,3
+Girl 6,1
+In the Cut,1
+Two Lovers,1
+Last Orders,1
 The Host,3
-The Pursuit of D.B. Cooper,2
-Ravenous,0
-Charlie Bartlett,0
+The Pursuit of D.B. Cooper,4
+Ravenous,1
+Charlie Bartlett,1
 The Great Beauty,3
-The Dangerous Lives of Altar Boys,0
-Stoker,0
-2046,3
-Married Life,0
-Duma,0
-Ondine,3
-Brother,3
-Welcome to Collinwood,0
-Critical Care,3
-The Life Before Her Eyes,0
-Darling Companion,3
-Trade,3
-Fateless,3
-Breakfast of Champions,0
-"A Woman, a Gun and a Noodle Shop",0
-Cypher,0
-City of Life and Death,3
+The Dangerous Lives of Altar Boys,1
+Stoker,3
+2046,1
+Married Life,1
+Duma,1
+Ondine,1
+Brother,1
+Welcome to Collinwood,1
+Critical Care,1
+The Life Before Her Eyes,1
+Darling Companion,1
+Trade,1
+Fateless,1
+Breakfast of Champions,1
+"A Woman, a Gun and a Noodle Shop",1
+Cypher,1
+City of Life and Death,1
 Legend of a Rabbit,0
-Space Battleship Yamato,3
-5 Days of War,3
-Triangle,0
-10 Days in a Madhouse,3
-Heaven is for Real,0
-Snatch,0
-Dancin' It's On,0
-Pet Sematary,2
-Madadayo,3
-The Cry of the Owl,3
-A Tale of Three Cities,3
-Gremlins,2
-Star Wars,1
-Dirty Grandpa,0
-Doctor Zhivago,5
+Space Battleship Yamato,1
+5 Days of War,1
+Triangle,3
+10 Days in a Madhouse,1
+Heaven is for Real,4
+Snatch,3
+Dancin' It's On,1
+Pet Sematary,4
+Madadayo,1
+The Cry of the Owl,1
+A Tale of Three Cities,1
+Gremlins,0
+Star Wars,2
+Dirty Grandpa,3
+Doctor Zhivago,4
 Trash,3
-High School Musical 3: Senior Year,3
+High School Musical 3: Senior Year,1
 The Fighter,3
 Jackass Number Two,0
-My Cousin Vinny,3
+My Cousin Vinny,4
 If I Stay,3
-Drive Hard,0
-Major League,2
-St. Trinian's,0
-Phone Booth,0
-A Walk to Remember,3
-Dead Man Walking,3
-Cruel Intentions,0
-Saw VI,0
-History of the World: Part I,2
+Drive Hard,3
+Major League,4
+St. Trinian's,1
+Phone Booth,3
+A Walk to Remember,0
+Dead Man Walking,4
+Cruel Intentions,3
+Saw VI,3
+History of the World: Part I,4
 The Secret Life of Bees,3
 Corky Romano,0
-Raising Cain,0
-F.I.S.T.,2
-Invaders from Mars,2
+Raising Cain,1
+F.I.S.T.,4
+Invaders from Mars,4
 Brooklyn,3
-Barry Lyndon,5
+Barry Lyndon,4
 Out Cold,0
-The Ladies Man,0
-Quartet,0
-Tomcats,0
-Frailty,0
+The Ladies Man,4
+Quartet,3
+Tomcats,1
+Frailty,1
 Woman in Gold,3
-Kinsey,3
-Army of Darkness,0
-Slackers,0
-What's Eating Gilbert Grape,3
-The Visual Bible: The Gospel of John,3
-Vera Drake,3
-The Guru,0
-The Perez Family,3
+Kinsey,1
+Army of Darkness,4
+Slackers,1
+What's Eating Gilbert Grape,0
+The Visual Bible: The Gospel of John,1
+Vera Drake,1
+The Guru,1
+The Perez Family,1
 Inside Llewyn Davis,3
-O,0
-Return to the Blue Lagoon,0
-The Molly Maguires,2
-Romance & Cigarettes,0
-Copying Beethoven,3
-Brighton Rock,3
-Saw V,0
-Machine Gun McCain,2
-LOL,0
+O,3
+Return to the Blue Lagoon,4
+The Molly Maguires,4
+Romance & Cigarettes,1
+Copying Beethoven,1
+Brighton Rock,1
+Saw V,3
+Machine Gun McCain,4
+LOL,1
 Jindabyne,3
-Kabhi Alvida Naa Kehna,5
-An Ideal Husband,0
-The Last Days on Mars,0
-Darkness,0
-2001: A Space Odyssey,2
-E.T. the Extra-Terrestrial,1
-In the Land of Women,0
-The Blue Butterfly,0
-There Goes My Baby,0
-Housefull,3
-September Dawn,3
-For Greater Glory - The True Story of Cristiada,3
-The Bélier Family,3
+Kabhi Alvida Naa Kehna,3
+An Ideal Husband,1
+The Last Days on Mars,3
+Darkness,3
+2001: A Space Odyssey,4
+E.T. the Extra-Terrestrial,2
+In the Land of Women,1
+The Blue Butterfly,1
+There Goes My Baby,1
+Housefull,1
+September Dawn,1
+For Greater Glory - The True Story of Cristiada,1
+The Bélier Family,0
 Good Will Hunting,3
-Misconduct,3
-Saw III,4
-Stripes,2
+Misconduct,1
+Saw III,3
+Stripes,4
 Bring It On,0
-The Purge: Election Year,4
+The Purge: Election Year,3
 She's All That,0
-Saw IV,0
-White Noise,0
+Saw IV,3
+White Noise,3
 Madea's Family Reunion,3
-The Color of Money,2
-The Longest Day,5
-The Mighty Ducks,0
-The Grudge,0
-Happy Gilmore,0
-Jeepers Creepers,0
-Bill & Ted's Excellent Adventure,0
-Oliver!,2
-The Best Exotic Marigold Hotel,3
+The Color of Money,4
+The Longest Day,4
+The Mighty Ducks,4
+The Grudge,3
+Happy Gilmore,4
+Jeepers Creepers,3
+Bill & Ted's Excellent Adventure,4
+Oliver!,4
+The Best Exotic Marigold Hotel,0
 Recess: School's Out,0
-Mad Max Beyond Thunderdome,2
-Commando,2
-The Boy,0
-Devil,0
+Mad Max Beyond Thunderdome,4
+Commando,4
+The Boy,3
+Devil,3
 Friday After Next,0
-Insidious: Chapter 3,0
-The Last Dragon,2
-The Lawnmower Man,0
-Nick and Norah's Infinite Playlist,0
+Insidious: Chapter 3,3
+The Last Dragon,4
+The Lawnmower Man,4
+Nick and Norah's Infinite Playlist,1
 Dogma,3
-The Banger Sisters,0
-Twilight Zone: The Movie,2
-Road House,2
-A Low Down Dirty Shame,0
-Swimfan,0
+The Banger Sisters,1
+Twilight Zone: The Movie,4
+Road House,4
+A Low Down Dirty Shame,1
+Swimfan,3
 Employee of the Month,0
-Can't Hardly Wait,0
-The Outsiders,2
-Pete's Dragon,4
-The Dead Zone,2
-Sinister 2,0
-Sparkle,3
-Valentine,0
-The Fourth Kind,0
-A Prairie Home Companion,0
-Sugar Hill,3
-Invasion U.S.A.,2
-Roll Bounce,3
-Rushmore,0
-Skyline,0
-The Second Best Exotic Marigold Hotel,3
-Kit Kittredge: An American Girl,0
-The Perfect Man,0
-Mo' Better Blues,3
-Kung Pow: Enter the Fist,0
-Tremors,2
-Wrong Turn,0
-The Long Riders,2
+Can't Hardly Wait,1
+The Outsiders,4
+Pete's Dragon,3
+The Dead Zone,4
+Sinister 2,3
+Sparkle,1
+Valentine,3
+The Fourth Kind,3
+A Prairie Home Companion,1
+Sugar Hill,1
+Invasion U.S.A.,4
+Roll Bounce,1
+Rushmore,1
+Skyline,3
+The Second Best Exotic Marigold Hotel,0
+Kit Kittredge: An American Girl,1
+The Perfect Man,1
+Mo' Better Blues,4
+Kung Pow: Enter the Fist,3
+Tremors,4
+Wrong Turn,3
+The Long Riders,4
 The Corruptor,4
 Mud,3
-Reno 911!: Miami,0
-One Direction: This Is Us,0
-"The Goods: Live Hard, Sell Hard",0
-Hey Arnold! The Movie,0
-My Week with Marilyn,3
-The Matador,0
-Love Jones,0
+Reno 911!: Miami,3
+One Direction: This Is Us,1
+"The Goods: Live Hard, Sell Hard",1
+Hey Arnold! The Movie,1
+My Week with Marilyn,1
+The Matador,1
+Love Jones,1
 The Gift,3
-End of the Spear,3
-Get Over It,0
-Office Space,0
-Drop Dead Gorgeous,0
-Big Eyes,3
-Very Bad Things,0
-Sleepover,0
-Body Double,2
+End of the Spear,1
+Get Over It,1
+Office Space,3
+Drop Dead Gorgeous,1
+Big Eyes,0
+Very Bad Things,3
+Sleepover,3
+Body Double,4
 MacGruber,0
-Dirty Pretty Things,0
-Movie 43,0
-Over Her Dead Body,0
-Seeking a Friend for the End of the World,0
-Cedar Rapids,0
+Dirty Pretty Things,3
+Movie 43,3
+Over Her Dead Body,1
+Seeking a Friend for the End of the World,1
+Cedar Rapids,1
 American History X,3
-The Collection,0
-Teacher's Pet,0
-The Red Violin,3
-The Straight Story,3
-Deuces Wild,0
-Bad Words,0
-"Run, Fatboy, Run",0
-Heartbeeps,2
-Black or White,3
-On the Line,0
+The Collection,3
+Teacher's Pet,1
+The Red Violin,1
+The Straight Story,1
+Deuces Wild,1
+Bad Words,1
+"Run, Fatboy, Run",1
+Heartbeeps,4
+Black or White,1
+On the Line,1
 Rescue Dawn,3
-Danny Collins,3
-"Jeff, Who Lives at Home",0
-I Am Love,3
-Atlas Shrugged Part II,3
-Romeo Is Bleeding,0
-The Limey,0
+Danny Collins,1
+"Jeff, Who Lives at Home",1
+I Am Love,1
+Atlas Shrugged Part II,1
+Romeo Is Bleeding,1
+The Limey,1
 Crash,3
-The House of Mirth,3
-Malone,2
-Peaceful Warrior,3
-Bucky Larson: Born to Be a Star,0
-Bamboozled,3
-The Forest,0
-Sphinx,2
-While We're Young,0
-A Better Life,0
-Spider,0
-Gun Shy,0
-Nicholas Nickleby,3
-The Iceman,3
-Krrish,3
-Cecil B. Demented,0
-Killer Joe,3
-The Joneses,0
+The House of Mirth,1
+Malone,4
+Peaceful Warrior,1
+Bucky Larson: Born to Be a Star,1
+Bamboozled,1
+The Forest,3
+Sphinx,4
+While We're Young,1
+A Better Life,3
+Spider,1
+Gun Shy,1
+Nicholas Nickleby,1
+The Iceman,1
+Krrish,1
+Cecil B. Demented,1
+Killer Joe,1
+The Joneses,1
 Owning Mahowny,3
-The Brothers Solomon,0
+The Brothers Solomon,1
 My Blueberry Nights,3
-Illuminata,3
-Swept Away,0
-"War, Inc.",0
-Shaolin Soccer,3
-The Brown Bunny,0
-The Swindle,0
-Rosewater,3
-The Chambermaid on the Titanic,0
+Illuminata,1
+Swept Away,1
+"War, Inc.",1
+Shaolin Soccer,4
+The Brown Bunny,1
+The Swindle,1
+Rosewater,1
+The Chambermaid on the Titanic,1
 Coriolanus,3
-Imaginary Heroes,3
-High Heels and Low Lifes,0
-World's Greatest Dad,0
-Severance,0
-Edmond,0
-Welcome to the Rileys,3
-Police Academy: Mission to Moscow,0
-Blood Done Sign My Name,7
-Cinco de Mayo: La Batalla,3
-Elsa & Fred,0
+Imaginary Heroes,1
+High Heels and Low Lifes,1
+World's Greatest Dad,1
+Severance,1
+Edmond,1
+Welcome to the Rileys,1
+Police Academy: Mission to Moscow,4
+Blood Done Sign My Name,0
+Cinco de Mayo: La Batalla,1
+Elsa & Fred,1
 "An Alan Smithee Film: Burn, Hollywood, Burn",0
-The Open Road,0
-The Good Guy,0
-Motherhood,0
-Free Style,0
-Strangerland,3
-Janky Promoters,0
-Blonde Ambition,0
-The Oxford Murders,3
-The Reef,0
-Eulogy,0
-White Noise 2: The Light,0
-Beat the World,0
-Fifty Dead Men Walking,3
-Jungle Shuffle,0
+The Open Road,1
+The Good Guy,1
+Motherhood,1
+Free Style,1
+Strangerland,1
+Janky Promoters,1
+Blonde Ambition,1
+The Oxford Murders,1
+The Reef,1
+Eulogy,1
+White Noise 2: The Light,3
+Beat the World,1
+Fifty Dead Men Walking,1
+Jungle Shuffle,1
 Adam Resurrected,3
-Of Horses and Men,0
-It's a Wonderful Afterlife,0
-The Devil's Tomb,0
-Partition,3
-Good Intentions,0
-"The Good, The Bad, The Weird",3
-Nurse 3-D,0
-Gunless,0
-Adventureland,0
-The Lost City,3
-Next Friday,0
-American Heist,0
-You Only Live Twice,2
-Plastic,0
+Of Horses and Men,1
+It's a Wonderful Afterlife,1
+The Devil's Tomb,3
+Partition,1
+Good Intentions,1
+"The Good, The Bad, The Weird",0
+Nurse 3-D,1
+Gunless,1
+Adventureland,3
+The Lost City,1
+Next Friday,4
+American Heist,3
+You Only Live Twice,4
+Plastic,1
 Amour,3
-Poltergeist III,2
-Re-Kill,0
-"It's a Mad, Mad, Mad, Mad World",2
+Poltergeist III,4
+Re-Kill,1
+"It's a Mad, Mad, Mad, Mad World",4
 Volver,3
-Heavy Metal,2
-Gentlemen Broncos,0
-Richard III,3
-Into the Grizzly Maze,0
-Kites,3
+Heavy Metal,4
+Gentlemen Broncos,1
+Richard III,1
+Into the Grizzly Maze,3
+Kites,1
 Melancholia,3
-Red Dog,0
-Jab Tak Hai Jaan,5
-Alien,2
-The Texas Chain Saw Massacre,2
-The Runaways,3
-Fiddler on the Roof,5
-Thunderball,2
-Detention,0
-Loose Cannons,3
-Set It Off,3
-The Best Man,3
-Child's Play,2
+Red Dog,1
+Jab Tak Hai Jaan,1
+Alien,0
+The Texas Chain Saw Massacre,4
+The Runaways,1
+Fiddler on the Roof,4
+Thunderball,4
+Detention,3
+Loose Cannons,1
+Set It Off,1
+The Best Man,1
+Child's Play,4
 Sicko,3
-The Purge: Anarchy,0
-Down to You,0
-Harold & Kumar Go to White Castle,0
-The Contender,3
+The Purge: Anarchy,3
+Down to You,1
+Harold & Kumar Go to White Castle,3
+The Contender,1
 Boiler Room,3
-Trading Places,2
-Black Christmas,0
-Breakin' All the Rules,0
-Henry V,5
-The Savages,3
-Chasing Papi,0
-The Way of the Gun,3
-Igby Goes Down,0
-PCU,0
-The Ultimate Gift,3
-The Ice Pirates,2
-Gracie,0
-Trust the Man,0
-Hamlet 2,0
-Velvet Goldmine,3
-The Wailing,3
-Glee: The Concert Movie,0
-The Legend of Suriyothai,5
-Two Evil Eyes,2
-Barbecue,0
-All or Nothing,3
-Princess Kaiulani,3
-Opal Dream,0
-Flame & Citron,3
-Undiscovered,0
-Red Riding: In the Year of Our Lord 1974,3
+Trading Places,4
+Black Christmas,1
+Breakin' All the Rules,1
+Henry V,4
+The Savages,1
+Chasing Papi,1
+The Way of the Gun,1
+Igby Goes Down,1
+PCU,1
+The Ultimate Gift,1
+The Ice Pirates,4
+Gracie,1
+Trust the Man,1
+Hamlet 2,1
+Velvet Goldmine,1
+The Wailing,1
+Glee: The Concert Movie,1
+The Legend of Suriyothai,1
+Two Evil Eyes,4
+Barbecue,1
+All or Nothing,1
+Princess Kaiulani,1
+Opal Dream,1
+Flame & Citron,1
+Undiscovered,1
+Red Riding: In the Year of Our Lord 1974,1
 The Girl on the Train,3
-Veronika Decides to Die,3
-Crocodile Dundee,2
-"Ultramarines: A Warhammer 40,000 Movie",0
-The I Inside,0
+Veronika Decides to Die,1
+Crocodile Dundee,0
+"Ultramarines: A Warhammer 40,000 Movie",1
+The I Inside,1
 Beneath Hill 60,3
-Polisse,3
-Awake,4
-Star Wars: Clone Wars: Volume 1,0
-Skin Trade,0
-The Lost Boys,2
-Crazy Heart,3
-The Rose,2
-Baggage Claim,0
-Barbarella,2
-Shipwrecked,0
-Election,0
-The Namesake,3
-The DUFF,0
-Glitter,3
-The Haunting in Connecticut 2: Ghosts of Georgia,0
-Silmido,3
-Bright Star,3
+Polisse,1
+Awake,3
+Star Wars: Clone Wars: Volume 1,1
+Skin Trade,3
+The Lost Boys,4
+Crazy Heart,1
+The Rose,4
+Baggage Claim,3
+Barbarella,4
+Shipwrecked,4
+Election,1
+The Namesake,1
+The DUFF,3
+Glitter,1
+The Haunting in Connecticut 2: Ghosts of Georgia,1
+Silmido,1
+Bright Star,1
 My Name Is Khan,3
 All Is Lost,3
-Limbo,3
-Namastey London,3
-The Wind That Shakes the Barley,3
-Yeh Jawaani Hai Deewani,5
-Quo Vadis,2
-Repo! The Genetic Opera,0
-Valley of the Wolves: Iraq,3
-Pulp Fiction,5
-The Muppet Movie,2
+Limbo,1
+Namastey London,1
+The Wind That Shakes the Barley,1
+Yeh Jawaani Hai Deewani,0
+Quo Vadis,4
+Repo! The Genetic Opera,1
+Valley of the Wolves: Iraq,1
+Pulp Fiction,2
+The Muppet Movie,4
 Nightcrawler,3
-Club Dread,0
-The Sound of Music,5
-Splash,2
-Little Miss Sunshine,0
-Stand by Me,2
+Club Dread,3
+The Sound of Music,4
+Splash,4
+Little Miss Sunshine,3
+Stand by Me,4
 28 Days Later,3
-You Got Served,0
-Escape from Alcatraz,2
-Brown Sugar,0
-A Thin Line Between Love and Hate,0
-50/50,0
-Shutter,0
-That Awkward Moment,0
-Modern Problems,2
-Kicks,0
-Much Ado About Nothing,3
-On Her Majesty's Secret Service,2
-New Nightmare,3
-Drive Me Crazy,0
-Akeelah and the Bee,3
-Half Baked,0
-New in Town,0
+You Got Served,1
+Escape from Alcatraz,4
+Brown Sugar,1
+A Thin Line Between Love and Hate,1
+50/50,3
+Shutter,1
+That Awkward Moment,3
+Modern Problems,4
+Kicks,1
+Much Ado About Nothing,1
+On Her Majesty's Secret Service,4
+New Nightmare,4
+Drive Me Crazy,1
+Akeelah and the Bee,1
+Half Baked,1
+New in Town,1
 American Psycho,3
-The Good Girl,0
-Bon Cop Bad Cop,3
+The Good Girl,1
+Bon Cop Bad Cop,1
 The Boondock Saints II: All Saints Day,3
-The City of Your Final Destination,3
-Enough Said,0
-Easy A,0
-The Inkwell,3
-Shadow of the Vampire,0
-Prom,0
-The Pallbearer,0
-Held Up,0
-Woman on Top,0
-Howards End,5
-Anomalisa,0
-Another Year,3
-8 Women,3
-Showdown in Little Tokyo,0
-Clay Pigeons,0
-It's Kind of a Funny Story,0
-Made in Dagenham,3
-When Did You Last See Your Father?,0
-Prefontaine,3
-The Wicked Lady,2
-The Secret of Kells,0
+The City of Your Final Destination,1
+Enough Said,1
+Easy A,3
+The Inkwell,1
+Shadow of the Vampire,1
+Prom,1
+The Pallbearer,1
+Held Up,1
+Woman on Top,1
+Howards End,1
+Anomalisa,1
+Another Year,1
+8 Women,1
+Showdown in Little Tokyo,4
+Clay Pigeons,1
+It's Kind of a Funny Story,3
+Made in Dagenham,1
+When Did You Last See Your Father?,3
+Prefontaine,1
+The Wicked Lady,4
+The Secret of Kells,1
 Begin Again,3
-Down in the Valley,3
-Brooklyn Rules,0
-Restless,5
-The Singing Detective,0
-The Land Girls,3
-Fido,0
-The Wendell Baker Story,0
-Wild Target,0
-Pathology,0
-Wuthering Heights,3
-10th & Wolf,3
+Down in the Valley,1
+Brooklyn Rules,1
+Restless,1
+The Singing Detective,1
+The Land Girls,1
+Fido,1
+The Wendell Baker Story,1
+Wild Target,1
+Pathology,3
+Wuthering Heights,1
+10th & Wolf,1
 Dear Wendy,3
-Aloft,3
-Akira,2
-The Death and Life of Bobby Z,0
-The Rocket: The Legend of Rocket Richard,3
-Swelter,0
-My Lucky Star,3
-Imagine Me & You,0
-Mr. Church,3
-Swimming Pool,0
-Green Street Hooligans: Underground,0
-The Blood of Heroes,2
-Code of Honor,0
-Driving Miss Daisy,2
-Soul Food,3
-Rumble in the Bronx,0
-Far from Men,3
-Thank You for Smoking,0
-Hostel: Part II,0
-An Education,3
-Shopgirl,0
-The Hotel New Hampshire,2
-Narc,3
-Men with Brooms,0
-Witless Protection,0
-The Work and the Glory,3
-Extract,0
-Masked and Anonymous,3
-Betty Fisher and Other Stories,3
-Code 46,0
-Outside Bet,0
-Albert Nobbs,3
-Black November,0
-Ta Ra Rum Pum,3
-Persepolis,0
-The Hole,0
-The Wave,3
+Aloft,1
+Akira,4
+The Death and Life of Bobby Z,1
+The Rocket: The Legend of Rocket Richard,1
+Swelter,1
+My Lucky Star,1
+Imagine Me & You,1
+Mr. Church,1
+Swimming Pool,1
+Green Street Hooligans: Underground,1
+The Blood of Heroes,4
+Code of Honor,3
+Driving Miss Daisy,4
+Soul Food,1
+Rumble in the Bronx,1
+Far from Men,1
+Thank You for Smoking,3
+Hostel: Part II,3
+An Education,1
+Shopgirl,1
+The Hotel New Hampshire,4
+Narc,1
+Men with Brooms,1
+Witless Protection,1
+The Work and the Glory,1
+Extract,1
+Masked and Anonymous,1
+Betty Fisher and Other Stories,1
+Code 46,1
+Outside Bet,1
+Albert Nobbs,1
+Black November,1
+Ta Ra Rum Pum,1
+Persepolis,1
+The Hole,3
+The Wave,1
 The Neon Demon,3
 Harry Brown,3
-The Omega Code,0
-Juno,0
-Pound of Flesh,0
-Diamonds Are Forever,2
-The Godfather,5
-Flashdance,2
-(500) Days of Summer,0
-The Piano,3
+The Omega Code,1
+Juno,3
+Pound of Flesh,1
+Diamonds Are Forever,4
+The Godfather,0
+Flashdance,4
+(500) Days of Summer,3
+The Piano,4
 Magic Mike,3
-Darkness Falls,0
-Live and Let Die,2
-My Dog Skip,0
+Darkness Falls,3
+Live and Let Die,4
+My Dog Skip,1
 "Definitely, Maybe",3
-Jumping the Broom,3
-"Good Night, and Good Luck.",0
+Jumping the Broom,1
+"Good Night, and Good Luck.",1
 Capote,3
-Desperado,0
-Logan's Run,2
-The Man with the Golden Gun,2
-Action Jackson,2
-The Descent,0
-Michael Jordan to the Max,7
-Devil's Due,0
-Flirting with Disaster,0
-The Devil's Rejects,3
-Dope,0
-In Too Deep,0
-House of 1000 Corpses,0
-Alien Zone,2
+Desperado,4
+Logan's Run,4
+The Man with the Golden Gun,4
+Action Jackson,4
+The Descent,3
+Michael Jordan to the Max,1
+Devil's Due,3
+Flirting with Disaster,1
+The Devil's Rejects,1
+Dope,1
+In Too Deep,1
+House of 1000 Corpses,3
+Alien Zone,4
 A Serious Man,3
-Get Low,0
-Warlock,2
+Get Low,1
+Warlock,4
 Beyond the Lights,3
-A Single Man,3
-The Last Temptation of Christ,5
-Outside Providence,0
-Bride & Prejudice,3
-Rabbit-Proof Fence,0
-Who's Your Caddy?,0
-Split Second,0
-The Other Side of Heaven,3
-Veer-Zaara,5
-Redbelt,0
-Cyrus,0
-A Dog Of Flanders,0
-Auto Focus,3
-Factory Girl,0
+A Single Man,1
+The Last Temptation of Christ,4
+Outside Providence,1
+Bride & Prejudice,1
+Rabbit-Proof Fence,1
+Who's Your Caddy?,1
+Split Second,4
+The Other Side of Heaven,1
+Veer-Zaara,1
+Redbelt,1
+Cyrus,1
+A Dog Of Flanders,1
+Auto Focus,1
+Factory Girl,1
 We Need to Talk About Kevin,3
-The Christmas Candle,0
-The Mighty Macs,0
-Losin' It,2
-Mother and Child,3
-March or Die,2
-The Visitors,0
-Somewhere,0
-I Hope They Serve Beer in Hell,3
-Chairman of the Board,0
-Hesher,3
-Dom Hemingway,0
-Gerry,0
-The Heart of Me,0
-Freeheld,3
-The Extra Man,0
-Hard to Be a God,5
-Ca$h,0
-Wah-Wah,3
-The Boondock Saints,0
-Z Storm,0
-Twixt,0
-The Snow Queen,0
-Alpha and Omega: The Legend of the Saw Tooth Cave,7
-Pale Rider,2
-Stargate: The Ark of Truth,0
-Dazed and Confused,0
-High School Musical 2,0
-Two Lovers and a Bear,0
-Criminal Activities,0
-Aimee & Jaguar,3
-The Chumscrubber,3
-Shade,0
-House at the End of the Street,0
+The Christmas Candle,1
+The Mighty Macs,1
+Losin' It,4
+Mother and Child,1
+March or Die,4
+The Visitors,4
+Somewhere,1
+I Hope They Serve Beer in Hell,1
+Chairman of the Board,1
+Hesher,1
+Dom Hemingway,1
+Gerry,1
+The Heart of Me,1
+Freeheld,1
+The Extra Man,1
+Hard to Be a God,1
+Ca$h,1
+Wah-Wah,1
+The Boondock Saints,3
+Z Storm,1
+Twixt,3
+The Snow Queen,1
+Alpha and Omega: The Legend of the Saw Tooth Cave,1
+Pale Rider,4
+Stargate: The Ark of Truth,3
+Dazed and Confused,1
+High School Musical 2,1
+Two Lovers and a Bear,1
+Criminal Activities,3
+Aimee & Jaguar,1
+The Chumscrubber,1
+Shade,1
+House at the End of the Street,3
 Incendies,3
-"Remember Me, My Love",3
-Perrier’s Bounty,0
+"Remember Me, My Love",1
+Perrier’s Bounty,1
 Elite Squad,3
-Annabelle,4
-Bran Nue Dae,0
-Boyz n the Hood,3
-La Bamba,2
-The Four Seasons,2
-Dressed to Kill,2
-The Adventures of Huck Finn,3
-Go,0
-Friends with Money,0
-The Andromeda Strain,2
-Bats,0
-Nowhere in Africa,3
-Shame,0
-Layer Cake,3
-The Work and the Glory II: American Zion,0
+Annabelle,3
+Bran Nue Dae,1
+Boyz n the Hood,4
+La Bamba,4
+The Four Seasons,4
+Dressed to Kill,4
+The Adventures of Huck Finn,4
+Go,1
+Friends with Money,1
+The Andromeda Strain,4
+Bats,3
+Nowhere in Africa,1
+Shame,3
+Layer Cake,1
+The Work and the Glory II: American Zion,1
 The East,3
-A Home at the End of the World,0
-Aberdeen,3
-The Messenger,3
+A Home at the End of the World,1
+Aberdeen,1
+The Messenger,1
 Tracker,3
-Control,3
-The Terminator,2
+Control,1
+The Terminator,0
 "Good bye, Lenin!",3
-The Damned United,0
-The Return of the Living Dead,2
-Mallrats,0
-Grease,2
-Platoon,2
-Fahrenheit 9/11,3
-Butch Cassidy and the Sundance Kid,2
-Mary Poppins,2
-Ordinary People,2
-West Side Story,2
-Caddyshack,2
-The Brothers,3
-The Wood,3
+The Damned United,1
+The Return of the Living Dead,4
+Mallrats,1
+Grease,4
+Platoon,4
+Fahrenheit 9/11,0
+Butch Cassidy and the Sundance Kid,4
+Mary Poppins,4
+Ordinary People,4
+West Side Story,4
+Caddyshack,4
+The Brothers,1
+The Wood,1
 The Usual Suspects,3
-A Nightmare on Elm Street 5: The Dream Child,0
+A Nightmare on Elm Street 5: The Dream Child,4
 National Lampoon’s Van Wilder,0
 The Wrestler,3
-Duel in the Sun,2
-Best in Show,0
-Escape from New York,2
-School Daze,2
-Daddy Day Camp,0
-Mr. Nice Guy,3
-A Mighty Wind,0
-Mystic Pizza,2
-Sliding Doors,0
-Tales from the Hood,0
+Duel in the Sun,4
+Best in Show,1
+Escape from New York,4
+School Daze,4
+Daddy Day Camp,1
+Mr. Nice Guy,1
+A Mighty Wind,1
+Mystic Pizza,4
+Sliding Doors,3
+Tales from the Hood,1
 The Last King of Scotland,3
-Halloween 5: The Revenge of Michael Myers,2
-Bernie,0
-Dolphins and Whales: Tribes of the Ocean,7
-Pollock,3
-200 Cigarettes,0
-The Words,0
-Casa De Mi Padre,0
-City Island,0
-The Guard,0
-College,0
-The Virgin Suicides,0
-Little Voice,0
-Miss March,0
-Wish I Was Here,3
-Simply Irresistible,0
-Hedwig and the Angry Inch,0
-Only the Strong,0
-Goddess of Love,0
-Shattered Glass,0
-Novocaine,0
-The Business of Strangers,0
-The Wild Bunch,2
-The Wackness,0
-The First Great Train Robbery,2
-Morvern Callar,0
-Beastmaster 2: Through the Portal of Time,2
-The 5th Quarter,0
-The Flower of Evil,3
-The Greatest,0
-Snow Flower and the Secret Fan,3
-Come Early Morning,0
-Lucky Break,0
-Julia,2
-"Surfer, Dude",0
-Lake of Fire,3
-11:14,0
-Men of War,0
-Don McKay,0
-Deadfall,0
-A Shine of Rainbows,0
-The Hit List,0
-Emma,5
-Videodrome,2
-The Spanish Apartment,3
-Song One,0
-Winter in Wartime,3
-Freaky Deaky,0
-The Train,2
-Trade Of Innocents,0
-The Protector,3
-Stiff Upper Lips,0
+Halloween 5: The Revenge of Michael Myers,4
+Bernie,1
+Dolphins and Whales: Tribes of the Ocean,1
+Pollock,1
+200 Cigarettes,1
+The Words,1
+Casa De Mi Padre,1
+City Island,1
+The Guard,3
+College,1
+The Virgin Suicides,1
+Little Voice,1
+Miss March,1
+Wish I Was Here,1
+Simply Irresistible,1
+Hedwig and the Angry Inch,1
+Only the Strong,1
+Goddess of Love,3
+Shattered Glass,1
+Novocaine,1
+The Business of Strangers,1
+The Wild Bunch,4
+The Wackness,1
+The First Great Train Robbery,4
+Morvern Callar,1
+Beastmaster 2: Through the Portal of Time,4
+The 5th Quarter,1
+The Flower of Evil,1
+The Greatest,1
+Snow Flower and the Secret Fan,1
+Come Early Morning,1
+Lucky Break,1
+Julia,4
+"Surfer, Dude",1
+Lake of Fire,1
+11:14,1
+Men of War,1
+Don McKay,1
+Deadfall,3
+A Shine of Rainbows,1
+The Hit List,1
+Emma,0
+Videodrome,4
+The Spanish Apartment,1
+Song One,1
+Winter in Wartime,1
+Freaky Deaky,3
+The Train,4
+Trade Of Innocents,1
+The Protector,1
+Stiff Upper Lips,1
 Bend It Like Beckham,3
-Sunshine State,3
-Crossover,0
-Khiladi 786,3
-[REC]²,0
-Standing Ovation,0
-The Sting,2
-Chariots of Fire,2
-Diary of a Mad Black Woman,3
-Shine,3
-Don Jon,0
-High Plains Drifter,2
-Ghost World,3
-Iris,0
-Galaxina,2
-The Chorus,0
-Mambo Italiano,0
-Wonderland,3
-Do the Right Thing,2
-Harvard Man,0
-Le Havre,0
-Irreversible,0
-R100,0
-Rang De Basanti,5
-Animals,0
-Salvation Boulevard,0
-The Ten,0
-A Room for Romeo Brass,0
-Headhunters,0
-Grabbers,0
-Saint Ralph,0
-Miss Julie,3
-Somewhere in Time,2
-Dum Maaro Dum,3
-Insidious: Chapter 2,0
-Saw II,0
+Sunshine State,1
+Crossover,3
+Khiladi 786,1
+[REC]²,1
+Standing Ovation,1
+The Sting,4
+Chariots of Fire,4
+Diary of a Mad Black Woman,1
+Shine,1
+Don Jon,3
+High Plains Drifter,4
+Ghost World,1
+Iris,3
+Galaxina,4
+The Chorus,1
+Mambo Italiano,1
+Wonderland,1
+Do the Right Thing,4
+Harvard Man,1
+Le Havre,1
+Irreversible,1
+R100,1
+Rang De Basanti,1
+Animals,1
+Salvation Boulevard,1
+The Ten,1
+A Room for Romeo Brass,1
+Headhunters,3
+Grabbers,3
+Saint Ralph,1
+Miss Julie,1
+Somewhere in Time,4
+Dum Maaro Dum,1
+Insidious: Chapter 2,3
+Saw II,3
 10 Cloverfield Lane,3
 Jackass: The Movie,0
-Lights Out,0
-Paranormal Activity 3,0
-Ouija,0
-A Nightmare on Elm Street 3: Dream Warriors,2
-Instructions Not Included,3
-Paranormal Activity 4,0
-The Robe,2
-The Return of the Pink Panther,2
-Freddy's Dead: The Final Nightmare,0
+Lights Out,3
+Paranormal Activity 3,3
+Ouija,3
+A Nightmare on Elm Street 3: Dream Warriors,4
+Instructions Not Included,0
+Paranormal Activity 4,3
+The Robe,4
+The Return of the Pink Panther,4
+Freddy's Dead: The Final Nightmare,4
 Monster,3
-"20,000 Leagues Under the Sea",2
-Paranormal Activity: The Marked Ones,0
-The Elephant Man,2
+"20,000 Leagues Under the Sea",4
+Paranormal Activity: The Marked Ones,4
+The Elephant Man,4
 Dallas Buyers Club,3
-The Lazarus Effect,0
+The Lazarus Effect,3
 Memento,3
-Oculus,0
-Clerks II,0
+Oculus,3
+Clerks II,1
 Billy Elliot,3
-The Way Way Back,0
-House Party 2,0
-The Man from Snowy River,2
-Doug's 1st Movie,0
-The Apostle,3
-Mommie Dearest,2
-Our Idiot Brother,0
+The Way Way Back,1
+House Party 2,4
+The Man from Snowy River,4
+Doug's 1st Movie,1
+The Apostle,1
+Mommie Dearest,4
+Our Idiot Brother,1
 Race,3
-The Players Club,3
-"As Above, So Below",0
-Addicted,3
-Eve's Bayou,3
-Still Alice,0
-The Egyptian,2
-Nighthawks,2
-Friday the 13th Part VIII: Jason Takes Manhattan,2
-My Big Fat Greek Wedding,4
-Spring Breakers,0
-Halloween: The Curse of Michael Myers,0
-Y Tu Mamá También,3
-Shaun of the Dead,0
-The Haunting of Molly Hartley,0
-Lone Star,3
-Halloween 4: The Return of Michael Myers,2
-April Fool's Day,2
-Diner,2
-Lone Wolf McQuade,2
-Apollo 18,0
-Sunshine Cleaning,0
-No Escape,0
-The Beastmaster,2
-Solomon and Sheba,2
+The Players Club,1
+"As Above, So Below",3
+Addicted,1
+Eve's Bayou,1
+Still Alice,3
+The Egyptian,4
+Nighthawks,4
+Friday the 13th Part VIII: Jason Takes Manhattan,4
+My Big Fat Greek Wedding,0
+Spring Breakers,3
+Halloween: The Curse of Michael Myers,3
+Y Tu Mamá También,1
+Shaun of the Dead,3
+The Haunting of Molly Hartley,1
+Lone Star,1
+Halloween 4: The Return of Michael Myers,4
+April Fool's Day,4
+Diner,4
+Lone Wolf McQuade,4
+Apollo 18,3
+Sunshine Cleaning,1
+No Escape,3
+The Beastmaster,4
+Solomon and Sheba,4
 Fifty Shades of Black,0
-Not Easily Broken,0
-A Farewell to Arms,2
-The Perfect Match,0
-Digimon: The Movie,0
-Saved!,0
-The Barbarian Invasions,0
-Robin and Marian,2
-The Forsaken,0
-Force 10 from Navarone,2
-UHF,0
-Grandma's Boy,0
-Slums of Beverly Hills,0
-Once Upon a Time in the West,5
-Made,0
-Moon,0
-Keeping Up with the Steins,0
-Sea Rex 3D: Journey to a Prehistoric World,7
-The Sweet Hereafter,3
-Of Gods and Men,3
-Bottle Shock,3
-Jekyll and Hyde ... Together Again,2
-Heavenly Creatures,0
-90 Minutes in Heaven,3
-Everything Must Go,0
-Zero Effect,3
-The Machinist,0
-Light Sleeper,3
-Kill the Messenger,3
-Rabbit Hole,0
-Party Monster,0
-Green Room,0
-The Oh in Ohio,0
-Atlas Shrugged Part III: Who is John Galt?,0
-Bottle Rocket,0
-Albino Alligator,0
-"Gandhi, My Father",3
-Standard Operating Procedure,3
-Out of the Blue,2
-Tucker and Dale vs Evil,0
-"Lovely, Still",0
-Tycoon,2
-Desert Blue,0
-Decoys,0
-The Visit,0
-Redacted,0
-Fascination,0
-Area 51,0
-Sleep Tight,0
-The Cottage,0
-Dead Like Me: Life After Death,0
+Not Easily Broken,1
+A Farewell to Arms,4
+The Perfect Match,1
+Digimon: The Movie,1
+Saved!,1
+The Barbarian Invasions,1
+Robin and Marian,4
+The Forsaken,1
+Force 10 from Navarone,4
+UHF,4
+Grandma's Boy,1
+Slums of Beverly Hills,1
+Once Upon a Time in the West,4
+Made,1
+Moon,3
+Keeping Up with the Steins,1
+Sea Rex 3D: Journey to a Prehistoric World,1
+The Sweet Hereafter,1
+Of Gods and Men,1
+Bottle Shock,1
+Jekyll and Hyde ... Together Again,4
+Heavenly Creatures,1
+90 Minutes in Heaven,1
+Everything Must Go,1
+Zero Effect,1
+The Machinist,3
+Light Sleeper,1
+Kill the Messenger,1
+Rabbit Hole,1
+Party Monster,1
+Green Room,3
+The Oh in Ohio,1
+Atlas Shrugged Part III: Who is John Galt?,1
+Bottle Rocket,1
+Albino Alligator,1
+"Gandhi, My Father",1
+Standard Operating Procedure,1
+Out of the Blue,4
+Tucker and Dale vs Evil,1
+"Lovely, Still",1
+Tycoon,4
+Desert Blue,1
+Decoys,1
+The Visit,3
+Redacted,1
+Fascination,1
+Area 51,1
+Sleep Tight,1
+The Cottage,3
+Dead Like Me: Life After Death,1
 Farce of the Penguins,0
-Flying By,0
-Rudderless,0
+Flying By,1
+Rudderless,1
 Henry & Me,0
-Christmas Eve,0
-We Have Your Husband,0
-Dying of the Light,0
+Christmas Eve,1
+We Have Your Husband,3
+Dying of the Light,3
 Born Of War,3
-Capricorn One,2
-Should've Been Romeo,7
+Capricorn One,4
+Should've Been Romeo,0
 Running Forever,0
-Yoga Hosers,0
-Navy Seals vs. Zombies,0
-I Served the King of England,3
-Soul Kitchen,0
-Sling Blade,3
-The Awakening,0
-Hostel,0
-A Cock and Bull Story,0
-Take Shelter,3
-Lady in White,2
-Driving Lessons,0
-Let's Kill Ward's Wife,0
-The Texas Chainsaw Massacre 2,2
-Pat Garrett & Billy the Kid,2
-Only God Forgives,0
-Camping Sauvage,0
-Without Men,0
-Dear Frankie,3
+Yoga Hosers,3
+Navy Seals vs. Zombies,3
+I Served the King of England,1
+Soul Kitchen,1
+Sling Blade,1
+The Awakening,3
+Hostel,3
+A Cock and Bull Story,1
+Take Shelter,1
+Lady in White,4
+Driving Lessons,1
+Let's Kill Ward's Wife,1
+The Texas Chainsaw Massacre 2,4
+Pat Garrett & Billy the Kid,4
+Only God Forgives,1
+Camping Sauvage,1
+Without Men,1
+Dear Frankie,1
 All Hat,0
-The Names of Love,0
-Treading Water,0
-Savage Grace,0
+The Names of Love,1
+Treading Water,1
+Savage Grace,1
 Out of the Blue,3
-Police Academy,2
-The Blue Lagoon,2
-Four Weddings and a Funeral,3
-Fast Times at Ridgemont High,2
-Moby Dick,2
+Police Academy,4
+The Blue Lagoon,4
+Four Weddings and a Funeral,0
+Fast Times at Ridgemont High,4
+Moby Dick,4
 25th Hour,3
-Bound,3
-Requiem for a Dream,0
-State Fair,2
-Tango,3
-Salvador,2
-Moms' Night Out,0
+Bound,1
+Requiem for a Dream,3
+State Fair,4
+Tango,1
+Salvador,4
+Moms' Night Out,1
 Donnie Darko,3
-Saving Private Perez,0
-Character,3
-Spun,0
-Life During Wartime,0
-Sympathy for Lady Vengeance,3
-Mozart's Sister,3
-Mean Machine,0
-Exiled,3
-Blackthorn,0
-Lilya 4-ever,3
+Saving Private Perez,1
+Character,1
+Spun,1
+Life During Wartime,1
+Sympathy for Lady Vengeance,1
+Mozart's Sister,1
+Mean Machine,1
+Exiled,1
+Blackthorn,3
+Lilya 4-ever,1
 After.Life,3
-Fugly,3
-One Flew Over the Cuckoo's Nest,2
-R.L. Stine's Monsterville: The Cabinet of Souls,0
-Silent Movie,2
-Airlift,3
-Anne of Green Gables,5
-Falcon Rising,0
+Fugly,1
+One Flew Over the Cuckoo's Nest,0
+R.L. Stine's Monsterville: The Cabinet of Souls,1
+Silent Movie,4
+Airlift,1
+Anne of Green Gables,4
+Falcon Rising,1
 The Sweeney,3
-Sexy Beast,0
+Sexy Beast,1
 Easy Money,3
-Whale Rider,0
-Paa,3
+Whale Rider,1
+Paa,1
 Cargo,3
-High School Musical,0
-Love and Death on Long Island,0
+High School Musical,1
+Love and Death on Long Island,1
 Night Watch,3
-The Crying Game,3
-Porky's,2
-Survival of the Dead,0
-Night of the Living Dead,2
+The Crying Game,1
+Porky's,4
+Survival of the Dead,3
+Night of the Living Dead,4
 Lost in Translation,3
-Annie Hall,2
-The Greatest Show on Earth,2
-Monster's Ball,3
-Maggie,0
-Leaving Las Vegas,3
-Hansel and Gretel Get Baked,0
-The Front Page,2
-The Boy Next Door,0
-Trapeze,2
-The Kids Are All Right,3
-They Live,2
-The Great Escape,5
-What the #$*! Do We (K)now!?,0
-The Last Exorcism Part II,0
-Boyhood,5
-Scoop,0
-The Wash,0
-3 Strikes,0
+Annie Hall,4
+The Greatest Show on Earth,4
+Monster's Ball,1
+Maggie,3
+Leaving Las Vegas,1
+Hansel and Gretel Get Baked,1
+The Front Page,4
+The Boy Next Door,3
+Trapeze,4
+The Kids Are All Right,1
+They Live,4
+The Great Escape,4
+What the #$*! Do We (K)now!?,1
+The Last Exorcism Part II,1
+Boyhood,3
+Scoop,1
+The Wash,1
+3 Strikes,1
 The Cooler,3
-The Misfits,2
-The Night Listener,0
-The Jerky Boys,0
-The Orphanage,3
-A Haunted House 2,0
-The Rules of Attraction,3
-Topaz,2
-Let's Go to Prison,0
-Four Rooms,0
-Secretary,0
-The Real Cancun,0
-Talk Radio,2
-Waiting for Guffman,0
-Love Stinks,0
-You Kill Me,0
-Thumbsucker,0
-Red State,0
-Mirrormask,0
-Samsara,0
-The Barbarians,2
-The Art of Getting By,0
+The Misfits,4
+The Night Listener,1
+The Jerky Boys,1
+The Orphanage,1
+A Haunted House 2,1
+The Rules of Attraction,1
+Topaz,4
+Let's Go to Prison,1
+Four Rooms,3
+Secretary,1
+The Real Cancun,1
+Talk Radio,4
+Waiting for Guffman,1
+Love Stinks,1
+You Kill Me,1
+Thumbsucker,1
+Red State,1
+Mirrormask,1
+Samsara,1
+The Barbarians,4
+The Art of Getting By,1
 Zipper,3
-Poolhall Junkies,0
-The Loss of Sexual Innocence,3
-Holy Motors,3
+Poolhall Junkies,1
+The Loss of Sexual Innocence,1
+Holy Motors,1
 Joe,3
-Shooting Fish,3
-Prison,2
-Psycho Beach Party,0
-The Big Tease,0
-"Guten Tag, Ramón",3
-Trust,3
-An Everlasting Piece,0
-Among Giants,0
-Adore,0
-The Velocity of Gary,0
-Mondays in the Sun,3
-Stake Land,0
-The Last Time I Committed Suicide,0
+Shooting Fish,1
+Prison,4
+Psycho Beach Party,1
+The Big Tease,1
+"Guten Tag, Ramón",1
+Trust,1
+An Everlasting Piece,1
+Among Giants,1
+Adore,1
+The Velocity of Gary,1
+Mondays in the Sun,1
+Stake Land,1
+The Last Time I Committed Suicide,1
 Futuro Beach,3
-Another Happy Day,3
-A Lonely Place to Die,0
-Nothing,0
-The Geographer Drank His Globe Away,3
-1776,2
-Inescapable,0
-Hell's Angels,2
-Purple Violets,0
-The Veil,0
-The Loved Ones,0
-The Helpers,0
-How to Fall in Love,7
-The Perfect Wave,3
-A Man for All Seasons,2
-Network,2
-Gone with the Wind,5
-Desert Dancer,0
-Major Dundee,2
-Annie Get Your Gun,2
-Four Lions,0
-The House of Sand,3
-Defendor,0
-The Pirate,2
-The Good Heart,0
-The History Boys,3
-Midnight Cowboy,2
+Another Happy Day,1
+A Lonely Place to Die,1
+Nothing,1
+The Geographer Drank His Globe Away,1
+1776,4
+Inescapable,1
+Hell's Angels,4
+Purple Violets,1
+The Veil,3
+The Loved Ones,1
+The Helpers,1
+How to Fall in Love,0
+The Perfect Wave,1
+A Man for All Seasons,4
+Network,4
+Gone with the Wind,4
+Desert Dancer,3
+Major Dundee,4
+Annie Get Your Gun,4
+Four Lions,1
+The House of Sand,1
+Defendor,1
+The Pirate,4
+The Good Heart,1
+The History Boys,1
+Midnight Cowboy,4
 The Full Monty,0
-Airplane!,2
-Chain of Command,0
-Friday,0
-Menace II Society,0
-Creepshow 2,2
-The Ballad of Cable Hogue,2
-In Cold Blood,2
-The Nun's Story,2
-Harper,2
-Frenzy,2
-The Witch,0
-I Got the Hook Up,0
-She's the One,0
-Gods and Monsters,3
+Airplane!,4
+Chain of Command,1
+Friday,1
+Menace II Society,1
+Creepshow 2,4
+The Ballad of Cable Hogue,4
+In Cold Blood,4
+The Nun's Story,4
+Harper,4
+Frenzy,4
+The Witch,3
+I Got the Hook Up,1
+She's the One,1
+Gods and Monsters,1
 The Secret in Their Eyes,3
-Train,0
-Evil Dead II,0
-Pootie Tang,0
-Sharknado,0
-The Other Conquest,3
-Troll Hunter,0
-Ira & Abby,0
-Winter Passing,0
-D.E.B.S.,0
-The Masked Saint,3
-The Betrayed,0
+Train,3
+Evil Dead II,4
+Pootie Tang,1
+Sharknado,3
+The Other Conquest,1
+Troll Hunter,3
+Ira & Abby,1
+Winter Passing,1
+D.E.B.S.,3
+The Masked Saint,1
+The Betrayed,1
 Taxman,0
-The Secret,5
-2:13,0
-"Batman: The Dark Knight Returns, Part 2",0
+The Secret,1
+2:13,3
+"Batman: The Dark Knight Returns, Part 2",1
 Time to Choose,0
 In the Name of the King III,0
-Wicked Blood,0
-Stranded,0
-Lords of London,0
-High Anxiety,2
+Wicked Blood,3
+Stranded,1
+Lords of London,1
+High Anxiety,4
 March of the Penguins,0
-Margin Call,3
-August,0
-Choke,0
+Margin Call,1
+August,1
+Choke,1
 Whiplash,3
 City of God,3
-Human Traffic,0
-To Write Love on Her Arms,3
-The Dead Girl,0
+Human Traffic,1
+To Write Love on Her Arms,1
+The Dead Girl,3
 The Hunt,3
-A Christmas Story,2
-Bella,0
-Class of 1984,2
-The Opposite Sex,0
-Dreaming of Joseph Lees,0
-The Class,3
-Rosemary's Baby,2
-The Man Who Shot Liberty Valance,2
-Adam,0
-Maria Full of Grace,0
-Beginners,3
-Feast,0
-Animal House,2
-Goldfinger,2
-Antiviral,0
-It's a Wonderful Life,2
-Trainspotting,0
-The Original Kings of Comedy,3
-Paranormal Activity 2,0
-Waking Ned,0
-Bowling for Columbine,3
-Coming Home,3
-A Nightmare on Elm Street Part 2: Freddy's Revenge,2
-A Room with a View,2
-The Purge,0
+A Christmas Story,4
+Bella,3
+Class of 1984,4
+The Opposite Sex,1
+Dreaming of Joseph Lees,1
+The Class,1
+Rosemary's Baby,4
+The Man Who Shot Liberty Valance,4
+Adam,1
+Maria Full of Grace,1
+Beginners,1
+Feast,3
+Animal House,4
+Goldfinger,4
+Antiviral,3
+It's a Wonderful Life,4
+Trainspotting,3
+The Original Kings of Comedy,1
+Paranormal Activity 2,3
+Waking Ned,1
+Bowling for Columbine,4
+Coming Home,1
+A Nightmare on Elm Street Part 2: Freddy's Revenge,4
+A Room with a View,4
+The Purge,3
 Sinister,3
-Martin Lawrence Live: Runteldat,3
-Cat on a Hot Tin Roof,2
-Beneath the Planet of the Apes,2
-Air Bud,0
+Martin Lawrence Live: Runteldat,1
+Cat on a Hot Tin Roof,4
+Beneath the Planet of the Apes,4
+Air Bud,1
 Pokémon: Spell of the Unknown,0
-Friday the 13th Part VI: Jason Lives,2
-The Bridge on the River Kwai,2
-Spaced Invaders,0
-Family Plot,2
-The Apartment,2
-Jason Goes to Hell: The Final Friday,0
-Torn Curtain,2
-Dave Chappelle's Block Party,0
-Slow West,0
-Krush Groove,2
-Next Day Air,0
-Elmer Gantry,2
-Judgment at Nuremberg,5
-Trippin',0
-Red River,2
-Phat Girlz,0
+Friday the 13th Part VI: Jason Lives,4
+The Bridge on the River Kwai,4
+Spaced Invaders,1
+Family Plot,4
+The Apartment,4
+Jason Goes to Hell: The Final Friday,3
+Torn Curtain,4
+Dave Chappelle's Block Party,1
+Slow West,3
+Krush Groove,1
+Next Day Air,1
+Elmer Gantry,4
+Judgment at Nuremberg,4
+Trippin',1
+Red River,4
+Phat Girlz,1
 Before Midnight,3
-Teen Wolf Too,2
-Phantasm II,2
-Woman Thou Art Loosed,0
-Real Women Have Curves,0
-Water,3
-East Is East,0
-Whipped,0
-Kama Sutra - A Tale of Love,3
-Please Give,0
-Willy Wonka & the Chocolate Factory,2
-Warlock: The Armageddon,0
-8 Heads in a Duffel Bag,0
-Days of Heaven,2
-Thirteen Conversations About One Thing,3
-Jawbreaker,0
-Basquiat,3
-Frances Ha,0
-Tsotsi,0
-Happiness,3
-DysFunktional Family,0
-Tusk,0
+Teen Wolf Too,4
+Phantasm II,4
+Woman Thou Art Loosed,1
+Real Women Have Curves,1
+Water,1
+East Is East,1
+Whipped,1
+Kama Sutra - A Tale of Love,1
+Please Give,1
+Willy Wonka & the Chocolate Factory,4
+Warlock: The Armageddon,1
+8 Heads in a Duffel Bag,1
+Days of Heaven,4
+Thirteen Conversations About One Thing,1
+Jawbreaker,1
+Basquiat,1
+Frances Ha,1
+Tsotsi,1
+Happiness,1
+DysFunktional Family,1
+Tusk,1
 Oldboy,3
-Letters to God,3
-Hobo with a Shotgun,0
-Compadres,0
-Freeway,3
-Love's Abiding Joy,0
-Fish Tank,3
-Damsels in Distress,0
-Creature,5
-Bachelorette,0
-Brave New Girl,3
-Tim and Eric's Billion Dollar Movie,0
-Summer Storm,0
-Fort McCoy,7
-Chain Letter,0
-Just Looking,0
+Letters to God,1
+Hobo with a Shotgun,1
+Compadres,1
+Freeway,1
+Love's Abiding Joy,1
+Fish Tank,1
+Damsels in Distress,1
+Creature,1
+Bachelorette,3
+Brave New Girl,1
+Tim and Eric's Billion Dollar Movie,1
+Summer Storm,1
+Fort McCoy,0
+Chain Letter,3
+Just Looking,1
 The Divide,3
-The Eclipse,0
-Demonic,0
+The Eclipse,1
+Demonic,3
 My Big Fat Independent Movie,0
 The Deported,0
-Tanner Hall,0
-Open Road,0
-They Came Together,0
+Tanner Hall,1
+Open Road,1
+They Came Together,1
 30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo,0
-Never Back Down 2: The Beatdown,0
-Point Blank,2
+Never Back Down 2: The Beatdown,1
+Point Blank,4
 Four Single Fathers,0
-Enter the Dangerous Mind,0
-Something Wicked,0
+Enter the Dangerous Mind,1
+Something Wicked,1
 AWOL-72,0
-Iguana,0
-Chicago Overcoat,0
-Barry Munday,0
-Central Station,3
-Pocketful of Miracles,2
-Close Range,0
-Boynton Beach Club,0
-Amnesiac,0
-Freakonomics,0
-High Tension,0
-Griff the Invisible,0
-Unnatural,0
-Hustle & Flow,3
-Some Like It Hot,2
-Friday the 13th Part VII: The New Blood,2
-The Wizard of Oz,2
-Young Frankenstein,2
-Diary of the Dead,0
-Lage Raho Munna Bhai,3
-Ulee's Gold,3
-The Black Stallion,2
-Sardaarji,7
-Journey to Saturn,0
-Donovan's Reef,2
-The Dress,0
-A Guy Named Joe,2
-Blazing Saddles,2
-Friday the 13th: The Final Chapter,2
-Ida,0
-Maurice,3
-Beer League,0
-Riding Giants,0
-Timecrimes,0
-Silver Medalist,0
-Timber Falls,0
-Singin' in the Rain,2
-"Fat, Sick & Nearly Dead",0
+Iguana,1
+Chicago Overcoat,1
+Barry Munday,3
+Central Station,1
+Pocketful of Miracles,4
+Close Range,3
+Boynton Beach Club,1
+Amnesiac,1
+Freakonomics,1
+High Tension,1
+Griff the Invisible,1
+Unnatural,1
+Hustle & Flow,1
+Some Like It Hot,4
+Friday the 13th Part VII: The New Blood,4
+The Wizard of Oz,4
+Young Frankenstein,4
+Diary of the Dead,1
+Lage Raho Munna Bhai,1
+Ulee's Gold,1
+The Black Stallion,4
+Sardaarji,1
+Journey to Saturn,1
+Donovan's Reef,4
+The Dress,1
+A Guy Named Joe,4
+Blazing Saddles,4
+Friday the 13th: The Final Chapter,4
+Ida,1
+Maurice,4
+Beer League,1
+Riding Giants,1
+Timecrimes,1
+Silver Medalist,1
+Timber Falls,3
+Singin' in the Rain,4
+"Fat, Sick & Nearly Dead",1
 A Haunted House,0
-2016: Obama's America,0
-That Thing You Do!,3
-Halloween III: Season of the Witch,2
-Escape from the Planet of the Apes,2
-Hud,2
-Kevin Hart: Let Me Explain,0
-My Own Private Idaho,3
-Garden State,0
-Before Sunrise,3
-Evil Words,0
-Jesus' Son,3
-Saving Face,0
-Brick Lane,3
-Robot & Frank,0
-My Life Without Me,3
-The Spectacular Now,0
-Religulous,0
-Fuel,0
-Valley of the Heart's Delight,0
-Eye of the Dolphin,0
-8: The Mormon Proposition,0
-The Other End of the Line,0
-Anatomy,0
-Sleep Dealer,0
-Super,0
-Christmas Mail,0
-Stung,0
+2016: Obama's America,1
+That Thing You Do!,1
+Halloween III: Season of the Witch,4
+Escape from the Planet of the Apes,4
+Hud,4
+Kevin Hart: Let Me Explain,1
+My Own Private Idaho,4
+Garden State,1
+Before Sunrise,1
+Evil Words,1
+Jesus' Son,1
+Saving Face,1
+Brick Lane,1
+Robot & Frank,1
+My Life Without Me,1
+The Spectacular Now,3
+Religulous,1
+Fuel,1
+Valley of the Heart's Delight,1
+Eye of the Dolphin,1
+8: The Mormon Proposition,1
+The Other End of the Line,1
+Anatomy,1
+Sleep Dealer,1
+Super,3
+Christmas Mail,1
+Stung,1
 Antibirth,0
-Get on the Bus,3
-Thr3e,0
+Get on the Bus,1
+Thr3e,1
 Idiocracy,0
 The Rise of the Krays,3
-This Is England,3
-U.F.O.,0
-Bathing Beauty,2
-Go for It!,3
-"Dancer, Texas Pop. 81",0
-Show Boat,2
-Redemption Road,0
-The Calling,0
-The Brave Little Toaster,2
-Fantasia,2
+This Is England,1
+U.F.O.,1
+Bathing Beauty,4
+Go for It!,1
+"Dancer, Texas Pop. 81",1
+Show Boat,4
+Redemption Road,1
+The Calling,3
+The Brave Little Toaster,4
+Fantasia,4
 8 Days,0
-Friday the 13th Part III,2
-Friday the 13th: A New Beginning,2
-The Last Sin Eater,3
+Friday the 13th Part III,4
+Friday the 13th: A New Beginning,4
+The Last Sin Eater,1
 Do You Believe?,3
-Impact Point,0
-The Valley of Decision,2
-Eden,0
-Chicken Tikka Masala,0
-There's Always Woodstock,0
-Jack Brooks: Monster Slayer,0
-The Best Years of Our Lives,2
-Bully,3
-Elling,0
-Mi America,3
-[REC],0
-Lies in Plain Sight,0
-Sharkskin,7
-Containment,0
-The Timber,0
-From Russia with Love,2
-The Toxic Avenger Part II,2
-Sleeper,2
-It Follows,0
-Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,2
-To Kill a Mockingbird,2
-Mad Max 2: The Road Warrior,2
-The Legend of Drunken Master,0
-Boys Don't Cry,3
-Silent House,0
+Impact Point,1
+The Valley of Decision,4
+Eden,1
+Chicken Tikka Masala,1
+There's Always Woodstock,1
+Jack Brooks: Monster Slayer,1
+The Best Years of Our Lives,4
+Bully,1
+Elling,1
+Mi America,1
+[REC],3
+Lies in Plain Sight,1
+Sharkskin,0
+Containment,3
+The Timber,3
+From Russia with Love,4
+The Toxic Avenger Part II,4
+Sleeper,4
+It Follows,3
+Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,4
+To Kill a Mockingbird,4
+Mad Max 2: The Road Warrior,4
+The Legend of Drunken Master,1
+Boys Don't Cry,1
+Silent House,1
 The Lives of Others,3
-Courageous,3
-The Hustler,2
-Boom Town,2
-The Triplets of Belleville,0
-Smoke Signals,0
-American Splendor,0
-Before Sunset,0
-Amores perros,5
-Thirteen,0
-Gentleman's Agreement,2
-Winter's Bone,0
-Touching the Void,0
-Alexander's Ragtime Band,2
-Me and You and Everyone We Know,0
-Inside Job,3
-We Are Your Friends,0
-Ghost Dog: The Way of the Samurai,3
-Harsh Times,3
-Captive,0
-Full Frontal,0
-Witchboard,2
-Shortbus,0
-Waltz with Bashir,0
-"The Book of Mormon Movie, Volume 1: The Journey",3
-No End in Sight,0
-The Diary of a Teenage Girl,0
-In the Shadow of the Moon,3
-Meek's Cutoff,3
-Inside Deep Throat,0
-Dinner Rush,0
-Clockwatchers,0
-The Virginity Hit,3
-Subway,2
-House of D,0
-Teeth,0
-Six-String Samurai,0
-Hum To Mohabbat Karega,7
-It's All Gone Pete Tong,0
-Saint John of Las Vegas,0
-24 7: Twenty Four Seven,0
-Stonewall,3
-Roadside Romeo,0
-This Thing of Ours,0
-The Lost Medallion: The Adventures of Billy Stone,0
-The Last Five Years,0
-The Missing Person,0
-Return of the Living Dead 3,0
-London,0
-Sherrybaby,0
-Circle,0
-Eden Lake,0
-Plush,0
-Lesbian Vampire Killers,0
-Gangster's Paradise: Jerusalema,3
-Freeze Frame,0
-Grave Encounters,0
-Stitches,0
-Nine Dead,0
-Bananas,2
-Supercapitalist,0
-Rockaway,0
-The Lady from Shanghai,2
-No Man's Land: The Rise of Reeker,0
-Highway,0
-Small Apartments,0
-Coffee Town,0
-The Ghastly Love of Johnny X,0
-All Is Bright,3
-The Torture Chamber of Dr. Sadism,2
-Straight A's,0
-A Funny Thing Happened on the Way to the Forum,2
-Slacker Uprising,0
+Courageous,1
+The Hustler,4
+Boom Town,4
+The Triplets of Belleville,1
+Smoke Signals,1
+American Splendor,1
+Before Sunset,1
+Amores perros,1
+Thirteen,1
+Gentleman's Agreement,4
+Winter's Bone,1
+Touching the Void,1
+Alexander's Ragtime Band,4
+Me and You and Everyone We Know,1
+Inside Job,1
+We Are Your Friends,1
+Ghost Dog: The Way of the Samurai,1
+Harsh Times,1
+Captive,3
+Full Frontal,1
+Witchboard,1
+Shortbus,1
+Waltz with Bashir,1
+"The Book of Mormon Movie, Volume 1: The Journey",1
+No End in Sight,1
+The Diary of a Teenage Girl,1
+In the Shadow of the Moon,1
+Meek's Cutoff,1
+Inside Deep Throat,1
+Dinner Rush,1
+Clockwatchers,1
+The Virginity Hit,1
+Subway,4
+House of D,1
+Teeth,1
+Six-String Samurai,1
+Hum To Mohabbat Karega,0
+It's All Gone Pete Tong,1
+Saint John of Las Vegas,1
+24 7: Twenty Four Seven,1
+Stonewall,1
+Roadside Romeo,1
+This Thing of Ours,1
+The Lost Medallion: The Adventures of Billy Stone,1
+The Last Five Years,1
+The Missing Person,1
+Return of the Living Dead 3,4
+London,1
+Sherrybaby,1
+Circle,1
+Eden Lake,3
+Plush,1
+Lesbian Vampire Killers,1
+Gangster's Paradise: Jerusalema,1
+Freeze Frame,1
+Grave Encounters,3
+Stitches,1
+Nine Dead,1
+Bananas,4
+Supercapitalist,1
+Rockaway,1
+The Lady from Shanghai,4
+No Man's Land: The Rise of Reeker,1
+Highway,1
+Small Apartments,3
+Coffee Town,1
+The Ghastly Love of Johnny X,1
+All Is Bright,1
+The Torture Chamber of Dr. Sadism,4
+Straight A's,1
+A Funny Thing Happened on the Way to the Forum,4
+Slacker Uprising,1
 The Legend of Hell's Gate: An American Conspiracy,3
-The Walking Deceased,0
-The Curse of Downers Grove,0
-Shark Lake,0
-River's Edge,2
-Northfork,0
-The Marine 4: Moving Target,0
-Buried,0
-Submarine,0
-The Square,0
-One to Another,0
-ABCD (Any Body Can Dance),5
-Man on Wire,0
-Abandoned,0
-Brotherly Love,0
-The Last Exorcism,0
-Nowhere Boy,0
-A Streetcar Named Desire,2
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,2
-The Crime of Padre Amaro,3
-Beasts of the Southern Wild,0
-Battle for the Planet of the Apes,2
-Songcatcher,3
-Higher Ground,3
-Vaalu,3
-The Greatest Movie Ever Sold,0
-Ed and His Dead Mother,0
-Travellers and Magicians,3
-Hang 'em High,2
-Deadline - U.S.A.,2
-Sublime,3
+The Walking Deceased,1
+The Curse of Downers Grove,3
+Shark Lake,1
+River's Edge,1
+Northfork,1
+The Marine 4: Moving Target,3
+Buried,1
+Submarine,1
+The Square,1
+One to Another,3
+ABCD (Any Body Can Dance),1
+Man on Wire,1
+Abandoned,1
+Brotherly Love,1
+The Last Exorcism,1
+Nowhere Boy,1
+A Streetcar Named Desire,4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4
+The Crime of Padre Amaro,1
+Beasts of the Southern Wild,3
+Battle for the Planet of the Apes,4
+Songcatcher,1
+Higher Ground,1
+Vaalu,1
+The Greatest Movie Ever Sold,1
+Ed and His Dead Mother,1
+Travellers and Magicians,1
+Hang 'em High,4
+Deadline - U.S.A.,4
+Sublime,1
 A Beginner's Guide to Snuff,0
-Independence Daysaster,0
-Dysfunctional Friends,0
-Run Lola Run,0
-May,0
-Against the Wild,0
-Under the Same Moon,3
-Conquest of the Planet of the Apes,2
-In the Bedroom,3
-I Spit on Your Grave,0
-"Happy, Texas",0
-My Summer of Love,0
-The Lunchbox,3
-Yes,0
-You Can't Take It With You,2
-From Here to Eternity,2
-She Wore a Yellow Ribbon,2
-Grace Unplugged,0
-Foolish,0
-N-Secure,7
-Caramel,0
-Out of the Dark,0
-The Bubble,3
-The Conversation,2
-Dil Jo Bhi Kahey...,7
-Mississippi Mermaid,2
-I Love Your Work,3
-Cabin Fever,0
-Waitress,0
-Bloodsport,2
-Mr. Smith Goes to Washington,2
-Kids,0
-The Squid and the Whale,0
-Kissing Jessica Stein,0
-Kickboxer: Vengeance,0
-Spellbound,2
-Exotica,3
-Buffalo '66,3
-Insidious,0
-Repo Man,2
-Nine Queens,3
-The Gatekeepers,0
-The Ballad of Jack and Rose,3
-The To Do List,0
-Killing Zoe,0
-The Believer,0
-Snow Angels,3
+Independence Daysaster,1
+Dysfunctional Friends,1
+Run Lola Run,3
+May,1
+Against the Wild,1
+Under the Same Moon,1
+Conquest of the Planet of the Apes,4
+In the Bedroom,1
+I Spit on Your Grave,3
+"Happy, Texas",1
+My Summer of Love,3
+The Lunchbox,1
+Yes,1
+You Can't Take It With You,4
+From Here to Eternity,4
+She Wore a Yellow Ribbon,4
+Grace Unplugged,1
+Foolish,1
+N-Secure,0
+Caramel,1
+Out of the Dark,3
+The Bubble,1
+The Conversation,4
+Dil Jo Bhi Kahey...,0
+Mississippi Mermaid,4
+I Love Your Work,1
+Cabin Fever,3
+Waitress,1
+Bloodsport,4
+Mr. Smith Goes to Washington,4
+Kids,1
+The Squid and the Whale,1
+Kissing Jessica Stein,1
+Kickboxer: Vengeance,1
+Spellbound,4
+Exotica,1
+Buffalo '66,1
+Insidious,3
+Repo Man,4
+Nine Queens,1
+The Gatekeepers,1
+The Ballad of Jack and Rose,1
+The To Do List,1
+Killing Zoe,1
+The Believer,1
+Snow Angels,1
 Unsullied,0
-Session 9,0
-I Want Someone to Eat Cheese With,0
-Mooz-lum,0
-Hatchet,0
-Modern Times,2
-Stolen Summer,0
-My Name Is Bruce,0
-The Salon,7
-Road Hard,0
-Forty Shades of Blue,3
-Amigo,3
-Pontypool,0
-Trucker,0
-Me You and Five Bucks,0
-The Lords of Salem,0
-Housebound,0
-Wal-Mart: The High Cost of Low Price,0
-Fetching Cody,0
-Last I Heard,0
-Closer to the Moon,3
+Session 9,1
+I Want Someone to Eat Cheese With,1
+Mooz-lum,1
+Hatchet,1
+Modern Times,4
+Stolen Summer,1
+My Name Is Bruce,1
+The Salon,0
+Road Hard,1
+Forty Shades of Blue,1
+Amigo,1
+Pontypool,1
+Trucker,1
+Me You and Five Bucks,1
+The Lords of Salem,3
+Housebound,3
+Wal-Mart: The High Cost of Low Price,1
+Fetching Cody,1
+Last I Heard,1
+Closer to the Moon,1
 Mutant World,0
-Growing Up Smith,0
-Checkmate,0
-#Horror,0
-Wind Walkers,0
-Snow White and the Seven Dwarfs,2
-The Holy Girl,3
-Shalako,2
-Incident at Loch Ness,0
-The Dog Lover,0
-GirlHouse,0
-The Blue Room,0
+Growing Up Smith,1
+Checkmate,1
+#Horror,1
+Wind Walkers,1
+Snow White and the Seven Dwarfs,4
+The Holy Girl,1
+Shalako,4
+Incident at Loch Ness,1
+The Dog Lover,1
+GirlHouse,3
+The Blue Room,1
 House at the End of the Drive,0
-Batman,2
-"Lock, Stock and Two Smoking Barrels",0
-The Ballad of Gregorio Cortez,2
-The Celebration,3
-Trees Lounge,0
-Journey from the Fall,3
-The Basket,3
-Eddie: The Sleepwalking Cannibal,0
-Queen of the Mountains,3
-Def-Con 4,2
-The Hebrew Hammer,0
-Neal 'n' Nikki,3
+Batman,4
+"Lock, Stock and Two Smoking Barrels",3
+The Ballad of Gregorio Cortez,4
+The Celebration,1
+Trees Lounge,1
+Journey from the Fall,1
+The Basket,1
+Eddie: The Sleepwalking Cannibal,1
+Queen of the Mountains,0
+Def-Con 4,4
+The Hebrew Hammer,1
+Neal 'n' Nikki,1
 The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,0
-Forget Me Not,0
-Rebecca,2
-Friday the 13th Part 2,2
-The Lost Weekend,2
-C.H.U.D.,2
-Filly Brown,0
+Forget Me Not,1
+Rebecca,4
+Friday the 13th Part 2,4
+The Lost Weekend,4
+C.H.U.D.,4
+Filly Brown,1
 The Lion of Judah,0
-Niagara,2
-How Green Was My Valley,2
-Da Sweet Blood of Jesus,3
-"Sex, Lies, and Videotape",2
-Saw,0
-Super Troopers,0
+Niagara,4
+How Green Was My Valley,4
+Da Sweet Blood of Jesus,1
+"Sex, Lies, and Videotape",4
+Saw,3
+Super Troopers,1
 The Algerian,0
-The Amazing Catfish,0
-Monsoon Wedding,3
-You Can Count on Me,3
-The Trouble with Harry,2
-But I'm a Cheerleader,0
-Home Run,3
-Reservoir Dogs,0
-The Blue Bird,2
-"The Good, the Bad and the Ugly",2
-The Second Mother,3
-Blue Like Jazz,3
+The Amazing Catfish,1
+Monsoon Wedding,1
+You Can Count on Me,1
+The Trouble with Harry,4
+But I'm a Cheerleader,1
+Home Run,1
+Reservoir Dogs,3
+The Blue Bird,4
+"The Good, the Bad and the Ugly",4
+The Second Mother,1
+Blue Like Jazz,1
 Down & Out With The Dolls,0
-"Pink Ribbons, Inc.",0
+"Pink Ribbons, Inc.",1
 Certifiably Jonathan,0
 Desire,3
 The Blade of Don Juan,0
-Grand Theft Parsons,0
-Extreme Movie,0
-The Charge of the Light Brigade,2
-Below Zero,7
-Crowsnest,0
-Airborne,0
-Cotton Comes to Harlem,2
-The Wicked Within,0
-Bleeding Hearts,7
-Waiting...,0
-Dead Man's Shoes,0
-From a Whisper to a Scream,2
-Sex With Strangers,7
-Dracula: Pages from a Virgin's Diary,0
-Faith Like Potatoes,0
-Beyond the Black Rainbow,0
-The Raid,0
+Grand Theft Parsons,1
+Extreme Movie,1
+The Charge of the Light Brigade,4
+Below Zero,0
+Crowsnest,1
+Airborne,4
+Cotton Comes to Harlem,4
+The Wicked Within,1
+Bleeding Hearts,0
+Waiting...,1
+Dead Man's Shoes,1
+From a Whisper to a Scream,1
+Sex With Strangers,0
+Dracula: Pages from a Virgin's Diary,1
+Faith Like Potatoes,1
+Beyond the Black Rainbow,3
+The Raid,3
 The Dead Undead,0
-The Vatican Exorcisms,7
-Casablanca,2
-Lake Mungo,0
-Rocket Singh: Salesman of the Year,3
-Silent Running,2
-Rocky,2
-The Sleepwalker,0
-Tom Jones,2
-Unfriended,0
-Taxi Driver,2
-The Howling,2
-Dr. No,2
-Chernobyl Diaries,0
-Hellraiser,2
-God's Not Dead 2,3
-Cry_Wolf,0
-Godzilla 2000,0
+The Vatican Exorcisms,0
+Casablanca,4
+Lake Mungo,1
+Rocket Singh: Salesman of the Year,1
+Silent Running,4
+Rocky,4
+The Sleepwalker,1
+Tom Jones,4
+Unfriended,3
+Taxi Driver,4
+The Howling,4
+Dr. No,4
+Chernobyl Diaries,3
+Hellraiser,4
+God's Not Dead 2,1
+Cry_Wolf,3
+Godzilla 2000,1
 Blue Valentine,3
-Transamerica,3
-The Devil Inside,0
-Beyond the Valley of the Dolls,2
-Love Me Tender,2
-An Inconvenient Truth,0
-Sands of Iwo Jima,2
-Shine a Light,3
-The Green Inferno,0
+Transamerica,1
+The Devil Inside,3
+Beyond the Valley of the Dolls,4
+Love Me Tender,4
+An Inconvenient Truth,3
+Sands of Iwo Jima,4
+Shine a Light,1
+The Green Inferno,3
 Departure,3
-The Sessions,0
-"Food, Inc.",0
-October Baby,3
-Next Stop Wonderland,0
-The Skeleton Twins,0
-Martha Marcy May Marlene,0
-Obvious Child,0
-Frozen River,0
-20 Feet from Stardom,0
-Two Girls and a Guy,0
-Walking and Talking,0
-Who Killed the Electric Car?,0
-The Broken Hearts Club: A Romantic Comedy,0
-Bubba Ho-tep,0
-Slam,0
-Brigham City,3
-Fiza,5
-Orgazmo,0
-All the Real Girls,3
-Dream with the Fishes,0
-Blue Car,0
-Palo Alto,0
-Ajami,3
-Wristcutters: A Love Story,0
-I Origins,3
-The Battle of Shaker Heights,0
-The Act of Killing,3
-Taxi to the Dark Side,0
-Once in a Lifetime: The Extraordinary Story of the New York Cosmos,0
-Guiana 1838,3
-Lisa Picard Is Famous,0
-Antarctica: A Year on Ice,0
-A LEGO Brickumentary,0
-Hardflip,3
-Chocolate: Deep Dark Secrets,5
-The House of the Devil,0
-The Perfect Host,0
-Safe Men,0
-Speedway Junky,3
-The Last Big Thing,0
-The Specials,0
-16 to Life,3
-Alone With Her,0
-Creative Control,0
-Special,0
+The Sessions,1
+"Food, Inc.",1
+October Baby,1
+Next Stop Wonderland,1
+The Skeleton Twins,1
+Martha Marcy May Marlene,1
+Obvious Child,1
+Frozen River,1
+20 Feet from Stardom,1
+Two Girls and a Guy,1
+Walking and Talking,1
+Who Killed the Electric Car?,1
+The Broken Hearts Club: A Romantic Comedy,1
+Bubba Ho-tep,1
+Slam,1
+Brigham City,1
+Fiza,1
+Orgazmo,1
+All the Real Girls,1
+Dream with the Fishes,1
+Blue Car,1
+Palo Alto,1
+Ajami,1
+Wristcutters: A Love Story,1
+I Origins,1
+The Battle of Shaker Heights,1
+The Act of Killing,1
+Taxi to the Dark Side,1
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos,1
+Guiana 1838,1
+Lisa Picard Is Famous,1
+Antarctica: A Year on Ice,1
+A LEGO Brickumentary,1
+Hardflip,1
+Chocolate: Deep Dark Secrets,1
+The House of the Devil,1
+The Perfect Host,1
+Safe Men,1
+Speedway Junky,1
+The Last Big Thing,1
+The Specials,1
+16 to Life,1
+Alone With Her,1
+Creative Control,1
+Special,1
 Sparkler,0
-The Helix... Loaded,0
-In Her Line of Fire,0
-The Jimmy Show,0
-Heli,3
-Karachi se Lahore,7
-Loving Annabelle,0
-Hits,0
-Jimmy and Judy,0
-Frat Party,0
-The Party's Over,2
-Proud,0
-The Poker House,0
-Childless,0
-ZMD: Zombies of Mass Destruction,0
-Snow White: A Deadly Summer,0
-Hidden Away,0
-My Last Day Without You,0
-Steppin: The Movie,0
+The Helix... Loaded,1
+In Her Line of Fire,1
+The Jimmy Show,1
+Heli,1
+Karachi se Lahore,0
+Loving Annabelle,1
+Hits,1
+Jimmy and Judy,1
+Frat Party,1
+The Party's Over,4
+Proud,1
+The Poker House,1
+Childless,1
+ZMD: Zombies of Mass Destruction,1
+Snow White: A Deadly Summer,1
+Hidden Away,1
+My Last Day Without You,1
+Steppin: The Movie,1
 Doc Holliday's Revenge,0
-Black Rock,0
-Truth or Dare,0
-The Pet,0
-Bang Bang Baby,0
-Fear Clinic,0
+Black Rock,3
+Truth or Dare,1
+The Pet,1
+Bang Bang Baby,1
+Fear Clinic,1
 Zombie Hunter,0
-A Fine Step,0
-Charly,2
-Banshee Chapter,0
-Ask Me Anything,0
-And Then Came Love,0
-On the Waterfront,2
-L!fe Happens,0
-"4 Months, 3 Weeks and 2 Days",3
-The Horror Network Vol. 1,7
-Hard Candy,3
-The Quiet,0
-Circumstance,3
-Fruitvale Station,0
-The Brass Teapot,0
-Bambi,2
-The Hammer,0
-Latter Days,3
+A Fine Step,1
+Charly,4
+Banshee Chapter,3
+Ask Me Anything,3
+And Then Came Love,1
+On the Waterfront,4
+L!fe Happens,1
+"4 Months, 3 Weeks and 2 Days",1
+The Horror Network Vol. 1,0
+Hard Candy,1
+The Quiet,3
+Circumstance,1
+Fruitvale Station,1
+The Brass Teapot,1
+Bambi,4
+The Hammer,1
+Latter Days,1
 Elza,0
-1982,0
-"For a Good Time, Call...",0
-Celeste & Jesse Forever,0
-Time Changer,0
-London to Brighton,0
-American Hero,0
+1982,1
+"For a Good Time, Call...",1
+Celeste & Jesse Forever,1
+Time Changer,1
+London to Brighton,1
+American Hero,1
 Windsor Drive,0
-A Separation,3
-Crying with Laughter,0
-Welcome to the Dollhouse,0
-Ruby in Paradise,3
-Raising Victor Vargas,0
-Pandora's Box,2
-Harrison Montgomery,7
-Live-In Maid,0
-Deterrence,0
-The Mudge Boy,0
+A Separation,1
+Crying with Laughter,1
+Welcome to the Dollhouse,1
+Ruby in Paradise,1
+Raising Victor Vargas,1
+Pandora's Box,4
+Harrison Montgomery,0
+Live-In Maid,1
+Deterrence,1
+The Mudge Boy,1
 The Young Unknowns,0
-Not Cool,0
-Dead Snow,0
-Saints and Soldiers,0
-Vessel,7
-American Graffiti,2
-Iraq for Sale: The War Profiteers,0
-Aqua Teen Hunger Force Colon Movie Film for Theaters,0
-Safety Not Guaranteed,0
-Kevin Hart: Laugh at My Pain,0
-Kill List,0
-The Innkeepers,0
-The Conformist,2
-Interview with the Assassin,0
-Donkey Punch,0
-All the Boys Love Mandy Lane,0
-Bled,0
-High Noon,2
-Hoop Dreams,5
-Rize,0
-L.I.E.,0
-The Sisterhood of Night,3
-B-Girl,0
-Half Nelson,3
+Not Cool,1
+Dead Snow,3
+Saints and Soldiers,1
+Vessel,0
+American Graffiti,4
+Iraq for Sale: The War Profiteers,1
+Aqua Teen Hunger Force Colon Movie Film for Theaters,1
+Safety Not Guaranteed,1
+Kevin Hart: Laugh at My Pain,1
+Kill List,3
+The Innkeepers,1
+The Conformist,4
+Interview with the Assassin,1
+Donkey Punch,3
+All the Boys Love Mandy Lane,1
+Bled,1
+High Noon,4
+Hoop Dreams,1
+Rize,1
+L.I.E.,1
+The Sisterhood of Night,1
+B-Girl,1
+Half Nelson,1
 Naturally Native,3
 Hav Plenty,0
-Adulterers,0
-Escape from Tomorrow,0
-Starsuckers,0
+Adulterers,3
+Escape from Tomorrow,1
+Starsuckers,1
 The Hadza:  Last of the First,0
-After,0
-Treachery,0
-Walter,0
-Top Hat,2
-The Blair Witch Project,0
-Woodstock,5
-The Kentucky Fried Movie,2
-Mercy Streets,3
+After,3
+Treachery,1
+Walter,1
+Top Hat,4
+The Blair Witch Project,3
+Woodstock,4
+The Kentucky Fried Movie,4
+Mercy Streets,1
 Carousel of Revenge,0
-Broken Vessels,0
-Water & Power,7
-They Will Have to Kill Us First,0
-Light from the Darkroom,7
-The Country Doctor,0
-The Maid's Room,0
-A Hard Day's Night,2
+Broken Vessels,1
+Water & Power,0
+They Will Have to Kill Us First,1
+Light from the Darkroom,0
+The Country Doctor,1
+The Maid's Room,3
+A Hard Day's Night,4
 The Harvest (La Cosecha),0
-Love Letters,2
-Juliet and Alfa Romeo,0
-Fireproof,3
-Faith Connections,3
-Benji,2
-Open Water,0
-High Road,0
-Kingdom of the Spiders,2
-Mad Hot Ballroom,0
-The Station Agent,0
-To Save A Life,3
-Wordplay,0
-Beyond the Mat,0
-The Singles Ward,0
-Osama,0
-Sholem Aleichem: Laughing In The Darkness,0
-Groove,0
-The R.M.,0
-Twin Falls Idaho,3
-Mean Creek,0
-Hurricane Streets,0
-Never Again,0
-Civil Brand,0
-Lonesome Jim,0
-Drinking Buddies,0
-Deceptive Practice: The Mysteries and Mentors of Ricky Jay,0
-Seven Samurai,5
-The Other Dream Team,0
-Johnny Suede,0
-Finishing The Game,0
-Rubber,0
-Kiss the Bride,0
-The Slaughter Rule,3
-Monsters,0
-The Californians,0
-The Living Wake,0
-Detention of the Dead,0
-Crazy Stone,0
-Scott Walker: 30 Century Man,0
-Everything Put Together,0
+Love Letters,4
+Juliet and Alfa Romeo,1
+Fireproof,1
+Faith Connections,1
+Benji,4
+Open Water,1
+High Road,1
+Kingdom of the Spiders,4
+Mad Hot Ballroom,1
+The Station Agent,1
+To Save A Life,1
+Wordplay,1
+Beyond the Mat,1
+The Singles Ward,1
+Osama,1
+Sholem Aleichem: Laughing In The Darkness,1
+Groove,1
+The R.M.,1
+Twin Falls Idaho,1
+Mean Creek,1
+Hurricane Streets,1
+Never Again,1
+Civil Brand,1
+Lonesome Jim,1
+Drinking Buddies,1
+Deceptive Practice: The Mysteries and Mentors of Ricky Jay,1
+Seven Samurai,4
+The Other Dream Team,1
+Johnny Suede,4
+Finishing The Game,1
+Rubber,1
+Kiss the Bride,1
+The Slaughter Rule,1
+Monsters,1
+The Californians,3
+The Living Wake,1
+Detention of the Dead,1
+Crazy Stone,1
+Scott Walker: 30 Century Man,1
+Everything Put Together,1
 Good Kill,3
 The Outrageous Sophie Tucker,0
-Now Is Good,3
-Girls Gone Dead,0
-Subconscious,3
-Enter Nowhere,0
+Now Is Good,1
+Girls Gone Dead,1
+Subconscious,1
+Enter Nowhere,1
 El Rey de Najayo,0
-Fight to the Finish,0
-Alleluia! The Devil's Carnival,7
+Fight to the Finish,1
+Alleluia! The Devil's Carnival,0
 The Sound and the Shadow,0
-Rodeo Girl,0
-Born to Fly: Elizabeth Streb vs. Gravity,0
+Rodeo Girl,1
+Born to Fly: Elizabeth Streb vs. Gravity,1
 The Little Ponderosa Zoo,0
-The Toxic Avenger,2
-Straight Out of Brooklyn,7
-Bloody Sunday,3
-Diamond Ruff,7
-Conversations with Other Women,0
-Poultrygeist: Night of the Chicken Dead,0
-Mutual Friends,7
-42nd Street,2
-Rise of the Entrepreneur: The Search for a Better Way,7
-Metropolitan,0
-As It Is in Heaven,3
-Roadside,0
+The Toxic Avenger,4
+Straight Out of Brooklyn,0
+Bloody Sunday,1
+Diamond Ruff,0
+Conversations with Other Women,1
+Poultrygeist: Night of the Chicken Dead,1
+Mutual Friends,0
+42nd Street,4
+Rise of the Entrepreneur: The Search for a Better Way,0
+Metropolitan,1
+As It Is in Heaven,1
+Roadside,1
 Napoleon Dynamite,0
-Blue Ruin,0
+Blue Ruin,3
 Paranormal Activity,0
-Dogtown and Z-Boys,0
-Monty Python and the Holy Grail,2
-Quinceañera,0
-Gory Gory Hallelujah,7
-Tarnation,0
-I Want Your Money,0
-Love in the Time of Monsters,7
-The Beyond,2
+Dogtown and Z-Boys,1
+Monty Python and the Holy Grail,4
+Quinceañera,1
+Gory Gory Hallelujah,0
+Tarnation,1
+I Want Your Money,1
+Love in the Time of Monsters,0
+The Beyond,4
 What Happens in Vegas,0
-The Dark Hours,0
-My Beautiful Laundrette,2
+The Dark Hours,1
+My Beautiful Laundrette,4
 Fabled,0
-Show Me,0
-Cries and Whispers,2
-Intolerance,2
-Trekkies,0
-The Broadway Melody,2
-The Evil Dead,2
-Maniac,0
-Censored Voices,0
-Murderball,0
-American Ninja 2: The Confrontation,2
-51 Birch Street,0
-Rotor DR1,0
-12 Angry Men,2
-My Dog Tulip,0
-It Happened One Night,2
-Dogtooth,0
-Tupac: Resurrection,3
-Tumbleweeds,0
-The Prophecy,0
-When the Cat's Away,0
-Pieces of April,0
-The Big Swap,7
-Old Joy,0
-Wendy and Lucy,0
-3 Backyards,0
-Pierrot le Fou,2
-Sisters in Law,0
-Ayurveda: Art of Being,0
-Nothing But a Man,2
-"First Love, Last Rites",0
-Fighting Tommy Riley,7
+Show Me,1
+Cries and Whispers,4
+Intolerance,4
+Trekkies,1
+The Broadway Melody,4
+The Evil Dead,4
+Maniac,1
+Censored Voices,1
+Murderball,1
+American Ninja 2: The Confrontation,4
+51 Birch Street,1
+Rotor DR1,1
+12 Angry Men,4
+My Dog Tulip,1
+It Happened One Night,4
+Dogtooth,1
+Tupac: Resurrection,1
+Tumbleweeds,1
+The Prophecy,1
+When the Cat's Away,1
+Pieces of April,1
+The Big Swap,0
+Old Joy,1
+Wendy and Lucy,1
+3 Backyards,1
+Pierrot le Fou,4
+Sisters in Law,1
+Ayurveda: Art of Being,1
+Nothing But a Man,4
+"First Love, Last Rites",1
+Fighting Tommy Riley,0
 Royal Kill,0
-The Looking Glass,3
-Death Race 2000,2
-Locker 13,0
+The Looking Glass,1
+Death Race 2000,4
+Locker 13,1
 Midnight Cabaret,0
 Anderson's Cross,0
-Bizarre,0
-Graduation Day,2
-Some Guy Who Kills People,0
-Compliance,0
-Chasing Amy,3
-Lovely & Amazing,0
-Death Calls,7
-Better Luck Tomorrow,0
-The Incredibly True Adventure of Two Girls In Love,0
-Chuck & Buck,0
-American Desi,0
+Bizarre,1
+Graduation Day,4
+Some Guy Who Kills People,1
+Compliance,1
+Chasing Amy,1
+Lovely & Amazing,1
+Death Calls,0
+Better Luck Tomorrow,1
+The Incredibly True Adventure of Two Girls In Love,1
+Chuck & Buck,1
+American Desi,1
 Amidst the Devil's Wings,0
-Cube,0
-Love and Other Catastrophes,0
-I Married a Strange Person!,0
-November,0
-Like Crazy,0
+Cube,3
+Love and Other Catastrophes,1
+I Married a Strange Person!,1
+November,3
+Like Crazy,1
 Teeth and Blood,0
-Sugar Town,0
-The Motel,0
-The Canyons,0
-On the Outs,0
-Shotgun Stories,0
-Exam,0
-The Sticky Fingers of Time,0
-Sunday School Musical,0
+Sugar Town,1
+The Motel,1
+The Canyons,3
+On the Outs,1
+Shotgun Stories,1
+Exam,3
+The Sticky Fingers of Time,1
+Sunday School Musical,1
 Rust,0
-Ink,0
-The Christmas Bunny,0
-Butterfly,2
-UnDivided,7
-The Frozen,7
-Horse Camp,3
+Ink,1
+The Christmas Bunny,1
+Butterfly,4
+UnDivided,0
+The Frozen,0
+Horse Camp,1
 Give Me Shelter,0
-The Big Parade,2
-Little Big Top,7
-Along the Roadside,3
-Bronson,0
+The Big Parade,4
+Little Big Top,1
+Along the Roadside,1
+Bronson,1
 Western Religion,0
-Burn,0
-Urbania,3
-The Stewardesses,2
-"The Beast from 20,000 Fathoms",2
-Mad Max,2
-Swingers,0
-A Fistful of Dollars,2
-She Done Him Wrong,2
+Burn,1
+Urbania,1
+The Stewardesses,4
+"The Beast from 20,000 Fathoms",4
+Mad Max,4
+Swingers,1
+A Fistful of Dollars,4
+She Done Him Wrong,4
 Short Cut to Nirvana: Kumbh Mela,0
-The Grace Card,0
-Middle of Nowhere,0
-Three,3
-The Business of Fancydancing,0
-Call + Response,0
-Malevolence,0
-Reality Show,0
-Super Hybrid,0
-Baghead,0
+The Grace Card,1
+Middle of Nowhere,1
+Three,1
+The Business of Fancydancing,1
+Call + Response,1
+Malevolence,1
+Reality Show,1
+Super Hybrid,1
+Baghead,1
 American Beast,0
-The Case of the Grinning Cat,0
-Ordet,2
-Good Dick,0
-The Man from Earth,0
-The Trials Of Darryl Hunt,0
-Samantha: An American Girl Holiday,0
-Yesterday Was a Lie,0
+The Case of the Grinning Cat,1
+Ordet,4
+Good Dick,1
+The Man from Earth,1
+The Trials Of Darryl Hunt,1
+Samantha: An American Girl Holiday,1
+Yesterday Was a Lie,1
 Theresa Is a Mother,0
-H.,0
+H.,1
 Archaeology of a Woman,0
-Children of Heaven,0
-Weekend,0
-She's Gotta Have It,2
+Children of Heaven,1
+Weekend,1
+She's Gotta Have It,4
 Butterfly Girl,0
-The World Is Mine,3
-Another Earth,0
-Sweet Sweetback's Baadasssss Song,2
-Perfect Cowboy,3
-Tadpole,0
-Once,0
-The Woman Chaser,0
-The Horse Boy,0
-When the Lights Went Out,0
+The World Is Mine,0
+Another Earth,3
+Sweet Sweetback's Baadasssss Song,4
+Perfect Cowboy,1
+Tadpole,1
+Once,1
+The Woman Chaser,1
+The Horse Boy,1
+When the Lights Went Out,3
 Heroes of Dirt,0
-A Charlie Brown Christmas,7
+A Charlie Brown Christmas,4
 Antarctic Edge: 70° South,0
-Aroused,0
-Top Spin,0
-Roger & Me,0
+Aroused,1
+Top Spin,1
+Roger & Me,1
 An American in Hollywood,0
-Sound of My Voice,0
+Sound of My Voice,1
 The Blood of My Brother: A Story of Death in Iraq,0
-Your Sister's Sister,0
-A Dog's Breakfast,0
-The Married Woman,2
-The Birth of a Nation,3
+Your Sister's Sister,1
+A Dog's Breakfast,1
+The Married Woman,4
+The Birth of a Nation,1
 The Work and The Story,0
-Facing the Giants,3
-The Gallows,0
-Eraserhead,2
-Hollywood Shuffle,0
-The Mighty,0
-Penitentiary,2
-The Lost Skeleton of Cadavra,0
-Dude Where's My Dog?,7
-Cheap Thrills,0
-Indie Game: The Movie,0
-Straightheads,0
-Open Secret,2
-Echo Dr.,0
-The Night Visitor,2
-The Past Is a Grotesque Animal,0
-"Peace, Propaganda & the Promised Land",0
-Pi,0
-"I Love You, Don't Touch Me!",0
-20 Dates,0
-Queen Crab,0
-Super Size Me,0
-The FP,0
-Happy Christmas,0
-The Brain That Wouldn't Die,2
-Tiger Orange,0
-Supporting Characters,0
-Absentia,0
-The Brothers McMullen,0
-The Dirties,0
-Gabriela,2
-Tiny Furniture,0
-Hayride,0
-The Naked Ape,3
-Counting,3
-The Call of Cthulhu,7
-Bending Steel,0
-The Signal,0
-The Image Revolution,0
-This Is Martin Bonner,0
-A True Story,0
-George Washington,0
-Smiling Fish & Goat On Fire,0
-Dawn of the Crescent Moon,0
+Facing the Giants,1
+The Gallows,1
+Eraserhead,4
+Hollywood Shuffle,1
+The Mighty,1
+Penitentiary,4
+The Lost Skeleton of Cadavra,1
+Dude Where's My Dog?,0
+Cheap Thrills,1
+Indie Game: The Movie,1
+Straightheads,1
+Open Secret,4
+Echo Dr.,1
+The Night Visitor,4
+The Past Is a Grotesque Animal,1
+"Peace, Propaganda & the Promised Land",1
+Pi,1
+"I Love You, Don't Touch Me!",1
+20 Dates,1
+Queen Crab,1
+Super Size Me,1
+The FP,1
+Happy Christmas,1
+The Brain That Wouldn't Die,4
+Tiger Orange,1
+Supporting Characters,1
+Absentia,3
+The Brothers McMullen,1
+The Dirties,1
+Gabriela,4
+Tiny Furniture,1
+Hayride,1
+The Naked Ape,1
+Counting,1
+The Call of Cthulhu,1
+Bending Steel,1
+The Signal,3
+The Image Revolution,1
+This Is Martin Bonner,1
+A True Story,1
+George Washington,1
+Smiling Fish & Goat On Fire,1
+Dawn of the Crescent Moon,1
 Raymond Did It,0
-The Last Waltz,2
-"Run, Hide, Die",0
-The Exploding Girl,0
+The Last Waltz,4
+"Run, Hide, Die",1
+The Exploding Girl,1
 The Legend of God's Gun,0
-Mutual Appreciation,3
+Mutual Appreciation,1
 Her Cry: La Llorona Investigation,0
-Down Terrace,0
-Clerks,0
-Pink Narcissus,2
-Funny Ha Ha,0
-In the Company of Men,0
-Manito,0
-Rampage,0
-Slacker,0
+Down Terrace,1
+Clerks,4
+Pink Narcissus,4
+Funny Ha Ha,1
+In the Company of Men,1
+Manito,1
+Rampage,3
+Slacker,1
 Dutch Kills,0
-Dry Spell,0
-Flywheel,3
-Backmask,0
-The Puffy Chair,0
+Dry Spell,1
+Flywheel,1
+Backmask,3
+The Puffy Chair,1
 Stories of Our Lives,0
-Breaking Upwards,0
-All Superheroes Must Die,0
-Pink Flamingos,2
-Clean,3
-The Circle,0
+Breaking Upwards,1
+All Superheroes Must Die,1
+Pink Flamingos,4
+Clean,1
+The Circle,1
 Tin Can Man,0
-Cure,3
-On The Downlow,0
+Cure,1
+On The Downlow,1
 Sanctuary: Quite a Conundrum,0
-Bang,0
-Primer,0
-Cavite,0
-El Mariachi,0
-Newlyweds,0
-"Signed, Sealed, Delivered",3
-Shanghai Calling,0
-My Date with Drew,0
+Bang,1
+Primer,1
+Cavite,1
+El Mariachi,4
+Newlyweds,1
+"Signed, Sealed, Delivered",1
+Shanghai Calling,1
+My Date with Drew,1
