@@ -1,0 +1,11 @@
+name: monte_carlo_simulation
+channels:
+  # - conda-forge
+  - defaults
+dependencies:
+  - python=3.13  # Specify the Python version
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
